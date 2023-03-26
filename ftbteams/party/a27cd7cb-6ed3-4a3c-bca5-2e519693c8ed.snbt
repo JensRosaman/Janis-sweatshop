@@ -4,7 +4,7 @@
 	owner: "4f3b40a0-f806-4695-b634-f9e85010f558"
 	ranks: {
 		4f3b40a0-f806-4695-b634-f9e85010f558: "owner"
-		da4c221c-0daa-49da-b31b-a7f9b57913c5: "member"
+		da4c221c-0daa-49da-b31b-a7f9b57913c5: "officer"
 	}
 	properties: {
 		"ftbteams:display_name": "Björnligan"
@@ -27,6 +27,7 @@
 		{ from: "00000000-0000-0000-0000-000000000000", date: 1679519998419L, text: "{\"color\":\"yellow\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"x7eddie\"}]}" }
 		{ from: "4f3b40a0-f806-4695-b634-f9e85010f558", date: 1679519998426L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.invited\",\"with\":[{\"color\":\"yellow\",\"text\":\"Lojekoje5\"}]}" }
 		{ from: "00000000-0000-0000-0000-000000000000", date: 1679520019609L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"Lojekoje5\"}]}" }
+		{ from: "4f3b40a0-f806-4695-b634-f9e85010f558", date: 1679748944411L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.promoted\",\"with\":[{\"color\":\"yellow\",\"text\":\"Lojekoje5\"}]}" }
 	]
 	extra: { }
 }
