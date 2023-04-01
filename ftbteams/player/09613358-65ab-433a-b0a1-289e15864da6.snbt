@@ -2,9 +2,7 @@
 	id: "09613358-65ab-433a-b0a1-289e15864da6"
 	type: "player"
 	player_name: "LuckyJulian05"
-	ranks: {
-		09613358-65ab-433a-b0a1-289e15864da6: "owner"
-	}
+	ranks: { }
 	properties: {
 		"ftbteams:display_name": "LuckyJulian05"
 		"ftbteams:description": ""

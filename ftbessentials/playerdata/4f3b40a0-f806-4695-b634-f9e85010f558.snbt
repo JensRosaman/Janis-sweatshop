@@ -3,19 +3,19 @@
 	fly: false
 	god: false
 	nick: ""
-	last_seen: { dim: "minecraft:overworld", x: 2511, y: 63, z: 2423, time: 1679865459635L }
+	last_seen: { dim: "minecraft:overworld", x: 2869, y: 60, z: 1864, time: 1680359966473L }
 	recording: 0
 	teleport_history: [
-		{ dim: "allthemodium:mining", x: 2827, y: 48, z: 1865, time: 1679828972740L }
-		{ dim: "minecraft:overworld", x: 3106, y: 106, z: 1850, time: 1679829684269L }
-		{ dim: "minecraft:the_nether", x: 1265, y: 60, z: 561, time: 1679830431203L }
-		{ dim: "minecraft:overworld", x: 2529, y: 104, z: 1498, time: 1679833850810L }
-		{ dim: "minecraft:overworld", x: 2935, y: 68, z: 2512, time: 1679834328256L }
-		{ dim: "minecraft:overworld", x: 1021, y: 8, z: 2530, time: 1679843716085L }
-		{ dim: "minecraft:the_nether", x: 357, y: 83, z: 241, time: 1679859755926L }
-		{ dim: "minecraft:the_nether", x: 765, y: 33, z: -15, time: 1679862881613L }
-		{ dim: "allthemodium:the_other", x: 308, y: 15, z: -78, time: 1679864211650L }
-		{ dim: "minecraft:overworld", x: 981, y: 105, z: 1699, time: 1679864860468L }
+		{ dim: "minecraft:the_end", x: 2069, y: 115, z: -3402, time: 1679952869634L }
+		{ dim: "minecraft:overworld", x: 2687, y: -11, z: 4402, time: 1679953126792L }
+		{ dim: "minecraft:overworld", x: 483, y: 132, z: 1523, time: 1679953307190L }
+		{ dim: "allthemodium:the_other", x: -588, y: -62, z: 1057, time: 1680033591759L }
+		{ dim: "minecraft:overworld", x: 1803, y: 81, z: 626, time: 1680117881517L }
+		{ dim: "minecraft:the_end", x: -1549, y: 69, z: -1816, time: 1680301312490L }
+		{ dim: "minecraft:the_nether", x: 727, y: 43, z: -1050, time: 1680344684406L }
+		{ dim: "allthemodium:the_other", x: -2086, y: 190, z: 594, time: 1680345242179L }
+		{ dim: "minecraft:the_end", x: -266, y: 233, z: -970, time: 1680351470551L }
+		{ dim: "allthemodium:the_other", x: -152, y: 173, z: 1898, time: 1680352022425L }
 	]
 	homes: {
 		home: { dim: "minecraft:overworld", x: 2857, y: 72, z: 1885, time: 1679748090449L }
