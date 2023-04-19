@@ -221,6 +221,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/black_carpet_from_white_carpet": {
+    "criteria": {
+      "has_black_dye": "2023-04-19 20:52:26 +0200"
+    },
+    "done": true
+  },
   "rftoolsbuilder:recipes/rftoolsbuilder/shape_card_void": {
     "criteria": {
       "shape_card": "2023-03-25 21:42:33 +0100"
@@ -1734,6 +1740,12 @@
     },
     "done": true
   },
+  "rftoolspower:recipes/rftoolspower/power_monitor": {
+    "criteria": {
+      "frame": "2023-04-15 21:43:49 +0200"
+    },
+    "done": true
+  },
   "mcwfences:recipes/dark_oak": {
     "criteria": {
       "has_dark_oak": "2023-03-22 16:58:37 +0100"
@@ -1932,6 +1944,12 @@
   "ae2wtlib:recipes/magnet_card": {
     "criteria": {
       "has_wct": "2023-03-22 16:58:37 +0100"
+    },
+    "done": true
+  },
+  "tombstone:adventure/use_unstable_intangibility": {
+    "criteria": {
+      "has_magic_scroll": "2023-04-15 20:52:21 +0200"
     },
     "done": true
   },
@@ -2178,6 +2196,12 @@
   "alchemistry:recipes/dissolver/emerald": {
     "criteria": {
       "has_the_recipe": "2023-04-05 22:14:20 +0200"
+    },
+    "done": true
+  },
+  "xycraft_world:recipes/xycraft_world/stonecutting/matte_xychorium_bricks_blue": {
+    "criteria": {
+      "has_for_matte_xychorium_bricks_blue": "2023-04-15 20:26:58 +0200"
     },
     "done": true
   },
@@ -2843,6 +2867,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/oxidized_cut_copper_from_oxidized_copper_stonecutting": {
+    "criteria": {
+      "has_oxidized_copper": "2023-04-15 21:02:54 +0200"
+    },
+    "done": true
+  },
   "alchemistry:recipes/dissolver/deepslate": {
     "criteria": {
       "has_the_recipe": "2023-03-22 18:59:44 +0100"
@@ -2870,6 +2900,12 @@
   "smallships:recipes/dark_oak_war_galley": {
     "criteria": {
       "in_water": "2023-03-22 17:05:53 +0100"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/connectedglass/scratched_glass_black_pane2": {
+    "criteria": {
+      "recipe_condition2": "2023-04-19 20:52:26 +0200"
     },
     "done": true
   },
@@ -4143,6 +4179,19 @@
     },
     "done": true
   },
+  "utilitix:recipes/misc/tiny_charcoal_from_tiny": {
+    "criteria": {
+      "criterion0": "2023-04-15 21:13:35 +0200",
+      "criterion7": "2023-04-15 21:13:35 +0200",
+      "criterion6": "2023-04-15 21:13:35 +0200",
+      "criterion5": "2023-04-15 21:13:35 +0200",
+      "criterion4": "2023-04-15 21:13:35 +0200",
+      "criterion3": "2023-04-15 21:13:35 +0200",
+      "criterion2": "2023-04-15 21:13:35 +0200",
+      "criterion1": "2023-04-15 21:13:35 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/shears": {
     "criteria": {
       "has_iron_ingot": "2023-03-22 17:08:32 +0100"
@@ -4260,6 +4309,12 @@
   "mcwroofs:recipes/prismarine": {
     "criteria": {
       "has_planks": "2023-03-22 16:58:39 +0100"
+    },
+    "done": true
+  },
+  "croptopia:recipes/decorations/dead_bush": {
+    "criteria": {
+      "has_salts": "2023-04-15 19:54:53 +0200"
     },
     "done": true
   },
@@ -5270,6 +5325,12 @@
     },
     "done": true
   },
+  "rftoolsutility:recipes/rftoolsutility/sensor": {
+    "criteria": {
+      "frame": "2023-04-15 21:43:49 +0200"
+    },
+    "done": true
+  },
   "additionallanterns:recipes/misc/granite_lantern": {
     "criteria": {
       "has_the_recipe": "2023-03-22 16:59:29 +0100",
@@ -5548,6 +5609,12 @@
     },
     "done": true
   },
+  "alchemistry:recipes/dissolver/lapis_lazuli": {
+    "criteria": {
+      "has_the_recipe": "2023-04-19 20:56:45 +0200"
+    },
+    "done": true
+  },
   "sophisticatedstorage:recipes/sophisticatedstorage/crafting_upgrade": {
     "criteria": {
       "has_upgrade_base": "2023-03-26 15:33:23 +0200"
@@ -5641,6 +5708,12 @@
   "silentgear:recipes/silentgear/slingshot_template": {
     "criteria": {
       "has_item": "2023-03-22 19:28:09 +0100"
+    },
+    "done": true
+  },
+  "ae2:recipes/ae2.main/network/cables/dense_covered_black": {
+    "criteria": {
+      "has_dyes/black": "2023-04-19 20:52:26 +0200"
     },
     "done": true
   },
@@ -5805,6 +5878,12 @@
     "criteria": {
       "has_the_recipe": "2023-03-25 18:03:08 +0100",
       "recipe_condition": "2023-03-25 18:03:08 +0100"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/connectedglass/borderless_glass_black_pane2": {
+    "criteria": {
+      "recipe_condition2": "2023-04-19 20:52:26 +0200"
     },
     "done": true
   },
@@ -6378,6 +6457,12 @@
     },
     "done": true
   },
+  "rftoolsutility:recipes/rftoolsutility/logic": {
+    "criteria": {
+      "frame": "2023-04-15 21:43:49 +0200"
+    },
+    "done": true
+  },
   "silentgear:recipes/silentgear/upgrade_base": {
     "criteria": {
       "has_item": "2023-03-22 16:58:54 +0100"
@@ -6424,6 +6509,18 @@
     "criteria": {
       "has_the_recipe": "2023-03-25 18:03:08 +0100",
       "recipe_condition": "2023-03-25 18:03:08 +0100"
+    },
+    "done": true
+  },
+  "refinedstorage:detecting": {
+    "criteria": {
+      "detector_in_inventory": "2023-04-15 19:27:35 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oxidized_cut_copper_slab_from_oxidized_copper_stonecutting": {
+    "criteria": {
+      "has_oxidized_copper": "2023-04-15 21:02:54 +0200"
     },
     "done": true
   },
@@ -6484,6 +6581,12 @@
   "handcrafted:recipes/handcrafted.main/blue_cushion": {
     "criteria": {
       "has_cushion": "2023-03-27 18:27:10 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_oxidized_cut_copper_slab_from_honeycomb": {
+    "criteria": {
+      "has_oxidized_cut_copper_slab": "2023-04-19 21:57:25 +0200"
     },
     "done": true
   },
@@ -7010,6 +7113,12 @@
     },
     "done": true
   },
+  "farmersdelight:main/eat_comfort_food": {
+    "criteria": {
+      "comfort": "2023-04-19 20:28:41 +0200"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/jungle_table": {
     "criteria": {
       "has_planks": "2023-03-22 21:59:07 +0100"
@@ -7496,6 +7605,12 @@
     },
     "done": true
   },
+  "rftoolspower:recipes/rftoolspower/ender_monitor": {
+    "criteria": {
+      "frame": "2023-04-15 21:43:49 +0200"
+    },
+    "done": true
+  },
   "reliquary:recipes/misc/uncrafting/bone": {
     "criteria": {
       "has_rib_bone": "2023-03-26 16:54:56 +0200"
@@ -7728,6 +7843,12 @@
   "byg:recipes/byg.byg/skyris_trapdoor": {
     "criteria": {
       "has_planks": "2023-03-22 17:07:58 +0100"
+    },
+    "done": true
+  },
+  "ae2:recipes/ae2.main/network/cables/dense_smart_black": {
+    "criteria": {
+      "has_dyes/black": "2023-04-19 20:52:26 +0200"
     },
     "done": true
   },
@@ -8344,6 +8465,12 @@
     },
     "done": true
   },
+  "xycraft_world:recipes/xycraft_world/stonecutting/inverted_bricks_cloud_green": {
+    "criteria": {
+      "has_for_inverted_bricks_cloud_green": "2023-04-15 20:23:22 +0200"
+    },
+    "done": true
+  },
   "xycraft_world:recipes/xycraft_world/stonecutting/kivi_tiles": {
     "criteria": {
       "has_for_kivi_tiles": "2023-03-25 13:22:16 +0100"
@@ -8585,6 +8712,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/oxidized_cut_copper_stairs_from_oxidized_copper_stonecutting": {
+    "criteria": {
+      "has_oxidized_copper": "2023-04-15 21:02:54 +0200"
+    },
+    "done": true
+  },
   "alltheores:recipes/alltheores/aluminum_gear": {
     "criteria": {
       "has_TagKey[minecraft:item / forge:ingots/aluminum]_ingot": "2023-03-22 18:57:24 +0100"
@@ -8684,6 +8817,12 @@
   "create:recipes/create.base/crafting/logistics/pulse_repeater": {
     "criteria": {
       "has_item": "2023-03-22 19:10:56 +0100"
+    },
+    "done": true
+  },
+  "xycraft_world:recipes/xycraft_world/shaped/inverted_tiles_cloud_blue": {
+    "criteria": {
+      "has_inverted_bricks_cloud_blue": "2023-04-15 20:26:58 +0200"
     },
     "done": true
   },
@@ -9413,6 +9552,12 @@
     },
     "done": true
   },
+  "connectedglass:recipes/connectedglass/clear_glass_black_pane2": {
+    "criteria": {
+      "recipe_condition2": "2023-04-19 20:52:26 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/oak/oak_stairs_from_oak_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2023-03-22 16:58:54 +0100"
@@ -9476,6 +9621,12 @@
   "ars_nouveau:recipes/decorations/archwood_to_chest": {
     "criteria": {
       "has_journal": "2023-03-25 17:12:32 +0100"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/connectedglass/clear_glass_black2": {
+    "criteria": {
+      "recipe_condition2": "2023-04-19 20:52:26 +0200"
     },
     "done": true
   },
@@ -9957,6 +10108,12 @@
     },
     "done": true
   },
+  "ae2:recipes/ae2.main/network/cables/smart_black": {
+    "criteria": {
+      "has_dyes/black": "2023-04-19 20:52:26 +0200"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/jungle_kitchen_sink_dark": {
     "criteria": {
       "has_bucket": "2023-03-22 20:02:21 +0100"
@@ -10338,6 +10495,12 @@
   "ars_nouveau:recipes/ars_nouveau/ring_of_potential": {
     "criteria": {
       "has_journal": "2023-03-25 17:12:32 +0100"
+    },
+    "done": true
+  },
+  "rftoolsutility:recipes/rftoolsutility/wire": {
+    "criteria": {
+      "frame": "2023-04-15 21:43:49 +0200"
     },
     "done": true
   },
@@ -11491,6 +11654,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/dye_black_picket_fence": {
+    "criteria": {
+      "has_dye": "2023-04-19 20:52:26 +0200"
+    },
+    "done": true
+  },
   "ae2wtlib:recipes/wireless_pattern_access_terminal": {
     "criteria": {
       "has_wt": "2023-03-22 16:58:39 +0100"
@@ -12219,6 +12388,12 @@
     },
     "done": true
   },
+  "rftoolsutility:recipes/rftoolsutility/digit": {
+    "criteria": {
+      "frame": "2023-04-15 21:43:49 +0200"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/ars_nouveau/sourcestone_21": {
     "criteria": {
       "has_journal": "2023-03-25 17:12:32 +0100"
@@ -12276,6 +12451,12 @@
   "blue_skies:recipes/blue_skies_dungeon/glowing_nature_stonebrick_from_glowstone": {
     "criteria": {
       "has_item": "2023-03-25 15:15:09 +0100"
+    },
+    "done": true
+  },
+  "xycraft_world:recipes/xycraft_world/stonecutting/inverted_tiles_cloud_green": {
+    "criteria": {
+      "has_for_inverted_tiles_cloud_green": "2023-04-15 20:23:22 +0200"
     },
     "done": true
   },
@@ -12540,6 +12721,12 @@
     },
     "done": true
   },
+  "connectedglass:recipes/connectedglass/scratched_glass_black2": {
+    "criteria": {
+      "recipe_condition2": "2023-04-19 20:52:26 +0200"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/dye_green_picket_fence": {
     "criteria": {
       "has_dye": "2023-03-29 21:25:05 +0200"
@@ -12754,6 +12941,12 @@
   "tombstone:adventure/use_knowledge": {
     "criteria": {
       "coded_trigger": "2023-04-01 00:22:46 +0200"
+    },
+    "done": true
+  },
+  "apotheosis:spawner/redstone": {
+    "criteria": {
+      "modifier": "2023-04-19 19:29:06 +0200"
     },
     "done": true
   },
@@ -13679,6 +13872,12 @@
     },
     "done": true
   },
+  "xycraft_world:recipes/xycraft_world/shaped/inverted_tiles_cloud_green": {
+    "criteria": {
+      "has_inverted_bricks_cloud_green": "2023-04-15 20:23:22 +0200"
+    },
+    "done": true
+  },
   "delightful:recipes/knives/lead_knife": {
     "criteria": {
       "has_lead": "2023-03-25 22:10:24 +0100"
@@ -14037,6 +14236,12 @@
   "refinedstorage:recipes/refinedstorage/coloring_recipes/pink_grid": {
     "criteria": {
       "refinedstorage:controller": "2023-03-25 15:09:33 +0100"
+    },
+    "done": true
+  },
+  "xycraft_world:recipes/xycraft_world/stonecutting/inverted_tiles_cloud_red": {
+    "criteria": {
+      "has_for_inverted_tiles_cloud_red": "2023-04-15 20:26:13 +0200"
     },
     "done": true
   },
@@ -15507,6 +15712,12 @@
     },
     "done": true
   },
+  "xycraft_world:recipes/xycraft_world/shaped/inverted_tiles_cloud_red": {
+    "criteria": {
+      "has_inverted_bricks_cloud_red": "2023-04-15 20:26:13 +0200"
+    },
+    "done": true
+  },
   "pneumaticcraft:recipes/pneumaticcraft/pressure_gauge": {
     "criteria": {
       "has_ingot_iron_compressed": "2023-03-22 17:08:35 +0100"
@@ -15684,6 +15895,12 @@
   "reliquary:recipes/reliquary/mob_charm_belt": {
     "criteria": {
       "has_mob_charm_fragment": "2023-03-26 13:19:43 +0200"
+    },
+    "done": true
+  },
+  "rftoolsutility:recipes/rftoolsutility/simple_dialer": {
+    "criteria": {
+      "frame": "2023-04-15 21:43:49 +0200"
     },
     "done": true
   },
@@ -16146,6 +16363,12 @@
     },
     "done": true
   },
+  "connectedglass:recipes/connectedglass/borderless_glass_black2": {
+    "criteria": {
+      "recipe_condition2": "2023-04-19 20:52:26 +0200"
+    },
+    "done": true
+  },
   "xycraft_world:recipes/xycraft_world/shaped/glass_viewer_reinforced_r": {
     "criteria": {
       "has_aluminum_ingot": "2023-03-22 17:08:32 +0100"
@@ -16317,6 +16540,12 @@
   "rftoolscontrol:recipes/rftoolscontrol/tank": {
     "criteria": {
       "frame": "2023-03-25 15:23:03 +0100"
+    },
+    "done": true
+  },
+  "rftoolsutility:recipes/rftoolsutility/screen": {
+    "criteria": {
+      "base": "2023-04-15 21:43:49 +0200"
     },
     "done": true
   },
@@ -17233,9 +17462,10 @@
   "mekanism:chemical_crystallizer": {
     "criteria": {
       "chemical_dissolution_chamber": "2023-04-07 02:31:33 +0200",
-      "chemical_crystallizer": "2023-04-07 02:30:45 +0200"
+      "chemical_crystallizer": "2023-04-07 02:30:45 +0200",
+      "chemical_washer": "2023-04-15 19:34:39 +0200"
     },
-    "done": false
+    "done": true
   },
   "alltheores:recipes/alltheores/bronze_ingot_from_dust_blasting": {
     "criteria": {
@@ -18620,6 +18850,12 @@
     },
     "done": true
   },
+  "ae2:recipes/ae2.main/network/cables/glass_black": {
+    "criteria": {
+      "has_dyes/black": "2023-04-19 20:52:26 +0200"
+    },
+    "done": true
+  },
   "delightful:recipes/food/cooking/jelly_bottle": {
     "criteria": {
       "has_sweet_fruit": "2023-03-22 16:58:55 +0100"
@@ -18911,6 +19147,12 @@
   "refinedstorage:recipes/refinedstorage/coloring_recipes/red_detector": {
     "criteria": {
       "refinedstorage:controller": "2023-03-25 15:09:33 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oxidized_cut_copper": {
+    "criteria": {
+      "has_oxidized_copper": "2023-04-15 21:02:54 +0200"
     },
     "done": true
   },
@@ -19385,6 +19627,12 @@
   "minecraft:recipes/combat/netherite_leggings_smithing": {
     "criteria": {
       "has_netherite_ingot": "2023-03-25 16:22:02 +0100"
+    },
+    "done": true
+  },
+  "rootsclassic:recipes/rootsclassic/mundane_standing_stone": {
+    "criteria": {
+      "has_lapis_block": "2023-04-19 20:56:45 +0200"
     },
     "done": true
   },
@@ -20939,6 +21187,12 @@
     },
     "done": true
   },
+  "xycraft_world:recipes/xycraft_world/stonecutting/inverted_bricks_cloud_blue": {
+    "criteria": {
+      "has_for_inverted_bricks_cloud_blue": "2023-04-15 20:26:58 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/mahogany/mahogany_sign_from_mahogany_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2023-03-22 17:38:21 +0100"
@@ -21058,6 +21312,12 @@
   "farmersdelight:recipes/farmersdelight/cutting_board": {
     "criteria": {
       "has_stick": "2023-03-22 17:05:01 +0100"
+    },
+    "done": true
+  },
+  "minecraft:end/dragon_breath": {
+    "criteria": {
+      "dragon_breath": "2023-04-15 21:24:54 +0200"
     },
     "done": true
   },
@@ -21961,6 +22221,12 @@
   "dummmmmmy:recipes/dummy_crafting": {
     "criteria": {
       "has_hay_block": "2023-03-22 18:25:58 +0100"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/connectedglass/tinted_borderless_glass_black2": {
+    "criteria": {
+      "recipe_condition2": "2023-04-19 20:52:26 +0200"
     },
     "done": true
   },
@@ -22999,6 +23265,12 @@
     },
     "done": true
   },
+  "rftoolsutility:recipes/rftoolsutility/redstone_transmitter": {
+    "criteria": {
+      "frame": "2023-04-15 21:43:49 +0200"
+    },
+    "done": true
+  },
   "handcrafted:recipes/handcrafted.main/bricks_corner_trim": {
     "criteria": {
       "has_corner_trim": "2023-03-25 21:37:01 +0100"
@@ -23803,6 +24075,12 @@
     },
     "done": true
   },
+  "xycraft_world:recipes/xycraft_world/stonecutting/inverted_tiles_cloud_blue": {
+    "criteria": {
+      "has_for_inverted_tiles_cloud_blue": "2023-04-15 20:26:58 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/stone_brick_wall_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_stone_bricks": "2023-03-27 21:50:28 +0200"
@@ -24168,6 +24446,12 @@
   "allthemodium:recipes/allthemodium/ancient_stone_bricks": {
     "criteria": {
       "has_TagKey[minecraft:block / allthemodium:ancient_stone]_block": "2023-03-26 22:46:57 +0200"
+    },
+    "done": true
+  },
+  "alchemistry:recipes/dissolver/raw_copper": {
+    "criteria": {
+      "has_the_recipe": "2023-04-19 20:56:49 +0200"
     },
     "done": true
   },
@@ -24564,6 +24848,12 @@
   "ars_nouveau:recipes/ars_nouveau/basic_spell_turret": {
     "criteria": {
       "has_journal": "2023-03-25 17:12:32 +0100"
+    },
+    "done": true
+  },
+  "xycraft_world:recipes/xycraft_world/stonecutting/matte_xychorium_bricks_red": {
+    "criteria": {
+      "has_for_matte_xychorium_bricks_red": "2023-04-15 20:26:13 +0200"
     },
     "done": true
   },
@@ -25612,6 +25902,12 @@
     },
     "done": true
   },
+  "rftoolsutility:recipes/rftoolsutility/redstone_receiver": {
+    "criteria": {
+      "frame": "2023-04-15 21:43:49 +0200"
+    },
+    "done": true
+  },
   "smallships:recipes/envi_willow_dhow": {
     "criteria": {
       "in_water": "2023-03-22 17:05:53 +0100"
@@ -25759,6 +26055,12 @@
   "minecraft:recipes/building_blocks/smooth_quartz": {
     "criteria": {
       "has_quartz_block": "2023-03-25 14:35:30 +0100"
+    },
+    "done": true
+  },
+  "rftoolsutility:recipes/rftoolsutility/invchecker": {
+    "criteria": {
+      "frame": "2023-04-15 21:43:49 +0200"
     },
     "done": true
   },
@@ -26000,6 +26302,12 @@
   "xycraft_override:recipes/xycraft_override/shaped/chiseled_stone_bricks_red": {
     "criteria": {
       "has_chiseled_stone_bricks": "2023-03-27 22:00:05 +0200"
+    },
+    "done": true
+  },
+  "rftoolspower:recipes/rftoolspower/power_level": {
+    "criteria": {
+      "frame": "2023-04-15 21:43:49 +0200"
     },
     "done": true
   },
@@ -26437,6 +26745,12 @@
     },
     "done": true
   },
+  "rftoolsutility:recipes/rftoolsutility/analog": {
+    "criteria": {
+      "frame": "2023-04-15 21:43:49 +0200"
+    },
+    "done": true
+  },
   "allthemodium:recipes/allthemodium/allthemodium_rod": {
     "criteria": {
       "has_TagKey[minecraft:item / forge:ingots/allthemodium]_ingot": "2023-03-25 21:10:39 +0100"
@@ -26603,6 +26917,12 @@
   "create:recipes/create.palettes/polished_cut_crimsite_slab_from_crimsite_stonecutting": {
     "criteria": {
       "has_crimsite": "2023-04-04 23:28:26 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_oxidized_copper_from_honeycomb": {
+    "criteria": {
+      "has_oxidized_copper": "2023-04-15 21:02:54 +0200"
     },
     "done": true
   },
@@ -26982,6 +27302,12 @@
   "create:recipes/create.palettes/small_andesite_brick_stairs_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2023-03-22 19:09:27 +0100"
+    },
+    "done": true
+  },
+  "alchemistry:recipes/dissolver/oxidized_cut_copper": {
+    "criteria": {
+      "has_the_recipe": "2023-04-15 21:02:54 +0200"
     },
     "done": true
   },
@@ -27736,6 +28062,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/lapis_lazuli": {
+    "criteria": {
+      "has_lapis_block": "2023-04-19 20:56:45 +0200"
+    },
+    "done": true
+  },
   "minecraft:story/upgrade_tools": {
     "criteria": {
       "stone_pickaxe": "2023-03-22 17:20:42 +0100"
@@ -27775,6 +28107,12 @@
   "byg:recipes/byg.byg/skyris_bookshelf": {
     "criteria": {
       "has_planks": "2023-03-22 17:07:58 +0100"
+    },
+    "done": true
+  },
+  "xycraft_world:recipes/xycraft_world/stonecutting/inverted_bricks_cloud_red": {
+    "criteria": {
+      "has_for_inverted_bricks_cloud_red": "2023-04-15 20:26:13 +0200"
     },
     "done": true
   },
@@ -28081,6 +28419,12 @@
   "xycraft_override:recipes/xycraft_override/shaped/magma_red": {
     "criteria": {
       "has_magma_block": "2023-03-22 20:33:10 +0100"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/dye_black_picket_gate": {
+    "criteria": {
+      "has_dye": "2023-04-19 20:52:26 +0200"
     },
     "done": true
   },
@@ -29565,6 +29909,12 @@
     },
     "done": true
   },
+  "rftoolsutility:recipes/rftoolsutility/counter": {
+    "criteria": {
+      "frame": "2023-04-15 21:43:49 +0200"
+    },
+    "done": true
+  },
   "rftoolsutility:recipes/rftoolsutility/redstone_information": {
     "criteria": {
       "redstone": "2023-03-22 19:10:56 +0100"
@@ -30163,6 +30513,12 @@
   "botania:recipes/botania/petal_black": {
     "criteria": {
       "has_item": "2023-03-25 17:16:07 +0100"
+    },
+    "done": true
+  },
+  "rftoolsutility:recipes/rftoolsutility/sequencer": {
+    "criteria": {
+      "frame": "2023-04-15 21:43:49 +0200"
     },
     "done": true
   },
@@ -30919,6 +31275,12 @@
   "xycraft_world:recipes/xycraft_world/compacting/xychorium_gem_dark": {
     "criteria": {
       "has_xychorium_gem_dark": "2023-03-26 15:14:34 +0200"
+    },
+    "done": true
+  },
+  "xycraft_world:recipes/xycraft_world/stonecutting/matte_xychorium_bricks_green": {
+    "criteria": {
+      "has_for_matte_xychorium_bricks_green": "2023-04-15 20:23:22 +0200"
     },
     "done": true
   },
@@ -32045,6 +32407,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/black_candle": {
+    "criteria": {
+      "has_black_dye": "2023-04-19 20:52:26 +0200"
+    },
+    "done": true
+  },
   "byg:recipes/byg.byg/cika_fence_gate": {
     "criteria": {
       "has_planks": "2023-03-30 23:37:10 +0200"
@@ -32448,6 +32816,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/raw_copper": {
+    "criteria": {
+      "has_raw_copper_block": "2023-04-19 20:56:49 +0200"
+    },
+    "done": true
+  },
   "smallships:recipes/lotr_apple_cog": {
     "criteria": {
       "in_water": "2023-03-22 17:05:53 +0100"
@@ -32847,6 +33221,12 @@
   "pneumaticcraft:recipes/pneumaticcraft/aphorism_tile_reset": {
     "criteria": {
       "has_aphorism_tile": "2023-04-04 23:14:48 +0200"
+    },
+    "done": true
+  },
+  "rftoolsutility:recipes/rftoolsutility/timer": {
+    "criteria": {
+      "frame": "2023-04-15 21:43:49 +0200"
     },
     "done": true
   },
