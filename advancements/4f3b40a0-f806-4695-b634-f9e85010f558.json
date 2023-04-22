@@ -473,6 +473,12 @@
     },
     "done": true
   },
+  "botania:recipes/botania/corporea_spark": {
+    "criteria": {
+      "has_item": "2023-04-22 11:24:12 +0200"
+    },
+    "done": true
+  },
   "ae2:recipes/ae2.main/network/cables/dense_smart_cyan": {
     "criteria": {
       "has_dyes/black": "2023-04-05 19:27:49 +0200"
@@ -2433,6 +2439,12 @@
     },
     "done": true
   },
+  "extradisks:recipes/extradisks/part/262144k_storage_part": {
+    "criteria": {
+      "has_prev_part": "2023-04-22 17:55:19 +0200"
+    },
+    "done": true
+  },
   "ftbic:recipes/ftbic/blasting/raw_materials/aluminum_to_ingot": {
     "criteria": {
       "has_item": "2023-03-25 15:08:37 +0100"
@@ -4363,6 +4375,12 @@
   "smallships:recipes/bop_umbran_cog": {
     "criteria": {
       "in_water": "2023-03-22 17:05:53 +0100"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/logistics/content_observer": {
+    "criteria": {
+      "has_item": "2023-04-22 14:21:34 +0200"
     },
     "done": true
   },
@@ -6388,6 +6406,12 @@
   "xycraft_override:recipes/xycraft_override/shaped/end_stone_bricks_dark": {
     "criteria": {
       "has_end_stone_bricks": "2023-03-27 23:31:21 +0200"
+    },
+    "done": true
+  },
+  "mekanism:waste_removal": {
+    "criteria": {
+      "radioactive_waste_barrel": "2023-04-22 12:45:44 +0200"
     },
     "done": true
   },
@@ -8787,6 +8811,12 @@
   "create:recipes/create.palettes/small_crimsite_brick_slab_from_crimsite_stonecutting": {
     "criteria": {
       "has_crimsite": "2023-04-04 23:28:26 +0200"
+    },
+    "done": true
+  },
+  "botania:main/ender_air_make": {
+    "criteria": {
+      "air": "2023-04-22 11:24:12 +0200"
     },
     "done": true
   },
@@ -12200,6 +12230,12 @@
     },
     "done": true
   },
+  "botania:recipes/botania/red_string_alt": {
+    "criteria": {
+      "has_item": "2023-04-22 11:24:12 +0200"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/dark_oak_park_bench": {
     "criteria": {
       "has_planks": "2023-03-22 22:34:11 +0100"
@@ -14660,6 +14696,12 @@
     },
     "done": true
   },
+  "mekanism:dictionary": {
+    "criteria": {
+      "dictionary": "2023-04-22 13:42:24 +0200"
+    },
+    "done": true
+  },
   "additionallanterns:recipes/misc/basalt_chain": {
     "criteria": {
       "recipe_condition": "2023-03-28 22:14:22 +0200"
@@ -15475,6 +15517,12 @@
   "refinedstorage:recipes/refinedstorage/fluid_grid/yellow_fluid_grid": {
     "criteria": {
       "refinedstorage:grid": "2023-03-25 15:15:23 +0100"
+    },
+    "done": true
+  },
+  "create:belt": {
+    "criteria": {
+      "0": "2023-04-22 14:22:04 +0200"
     },
     "done": true
   },
@@ -17375,6 +17423,12 @@
     },
     "done": true
   },
+  "create:encased_fan": {
+    "criteria": {
+      "0": "2023-04-22 14:17:50 +0200"
+    },
+    "done": true
+  },
   "smallships:recipes/lotr_cypress_galley": {
     "criteria": {
       "in_water": "2023-03-22 17:05:53 +0100"
@@ -17530,6 +17584,12 @@
   "refinedstorage:recipes/refinedstorage/coloring_recipes/gray_crafter_manager": {
     "criteria": {
       "refinedstorage:controller": "2023-03-25 15:09:33 +0100"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/spawner_claw": {
+    "criteria": {
+      "has_item": "2023-04-22 11:24:12 +0200"
     },
     "done": true
   },
@@ -18727,6 +18787,12 @@
   "create:recipes/create.palettes/cut_granite_bricks_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2023-03-22 20:04:15 +0100"
+    },
+    "done": true
+  },
+  "mekanism:elite_control_circuit": {
+    "criteria": {
+      "elite_control_circuit": "2023-04-22 12:40:40 +0200"
     },
     "done": true
   },
@@ -20590,6 +20656,12 @@
   "create:recipes/create.palettes/cut_calcite_from_calcite_stonecutting": {
     "criteria": {
       "has_calcite": "2023-03-25 22:29:50 +0100"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/nozzle": {
+    "criteria": {
+      "has_item": "2023-04-22 14:11:39 +0200"
     },
     "done": true
   },
@@ -24647,6 +24719,12 @@
     },
     "done": true
   },
+  "botania:recipes/botania/keep_ivy": {
+    "criteria": {
+      "has_item": "2023-04-22 11:24:12 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/oak/oak_planks_from_oak_slab_woodcutting": {
     "criteria": {
       "give_recipe": "2023-03-27 16:23:44 +0200"
@@ -25172,6 +25250,12 @@
   "xnet:recipes/xnet/router": {
     "criteria": {
       "frame": "2023-03-25 15:23:03 +0100"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/red_string": {
+    "criteria": {
+      "has_item": "2023-04-22 11:24:12 +0200"
     },
     "done": true
   },
@@ -25965,6 +26049,12 @@
   "smallships:recipes/lotr_cypress_war_galley": {
     "criteria": {
       "in_water": "2023-03-22 17:05:53 +0100"
+    },
+    "done": true
+  },
+  "extradisks:recipes/extradisks/disk/shaped/65536k_storage_disk": {
+    "criteria": {
+      "has_part": "2023-04-22 17:55:19 +0200"
     },
     "done": true
   },
@@ -28758,6 +28848,12 @@
     },
     "done": true
   },
+  "mekanism:personal_storage": {
+    "criteria": {
+      "storage": "2023-04-22 12:53:29 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/spruce/spruce_fence_gate_from_spruce_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2023-03-22 21:17:51 +0100"
@@ -29954,6 +30050,12 @@
   "connectedglass:recipes/connectedglass/clear_glass_yellow2": {
     "criteria": {
       "recipe_condition2": "2023-03-25 15:43:16 +0100"
+    },
+    "done": true
+  },
+  "extradisks:recipes/extradisks/disk/shapeless/65536k_storage_disk": {
+    "criteria": {
+      "has_part": "2023-04-22 17:55:19 +0200"
     },
     "done": true
   },
@@ -31211,6 +31313,12 @@
     },
     "done": true
   },
+  "create:fan_processing": {
+    "criteria": {
+      "0": "2023-04-22 14:18:50 +0200"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/cut_asurine_brick_wall_from_asurine_stonecutting": {
     "criteria": {
       "has_asurine": "2023-03-22 18:39:37 +0100"
@@ -31858,6 +31966,12 @@
   "cfm:recipes/cfm/light_blue_sofa": {
     "criteria": {
       "has_wool": "2023-03-27 18:27:10 +0200"
+    },
+    "done": true
+  },
+  "extradisks:recipes/extradisks/blocks/65536k_storage_block": {
+    "criteria": {
+      "has_part": "2023-04-22 17:55:19 +0200"
     },
     "done": true
   },
@@ -33282,6 +33396,12 @@
   "botania:recipes/botania/crafting_halo": {
     "criteria": {
       "has_item": "2023-04-05 20:23:02 +0200"
+    },
+    "done": true
+  },
+  "mekanismgenerators:burn_the_gas": {
+    "criteria": {
+      "gas_burning_generator": "2023-04-22 12:11:10 +0200"
     },
     "done": true
   },
