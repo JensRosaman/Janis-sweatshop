@@ -15,6 +15,7 @@
 		"ftbteams:free_to_join": 0b
 		"ftbteams:max_msg_history_size": 1000
 		"ftbchunks:allow_explosions": 0b
+		"ftbchunks:allow_mob_griefing": 0b
 		"ftbchunks:allow_fake_players": 0b
 		"ftbchunks:allow_named_fake_players": [ ]
 		"ftbchunks:allow_fake_players_by_id": 1b

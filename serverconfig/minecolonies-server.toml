@@ -72,6 +72,9 @@
 	nosupplyplacementrestrictions = false
 	#Raiders will spawn in the sky if this is enabled [Default: false]
 	skyraiders = false
+	#Set how long chunks stay loaded after player leaves, does not persist through restarts. Default: 10min [Default: 10, min: 1, max: 1440]
+	#Range: 1 ~ 1440
+	loadtime = 10
 
 #All configurations related to the research system
 [research]
@@ -136,7 +139,7 @@
 	#The max size of a raider horde. [Default: 80, min: 6, max: 400]
 	#Range: 6 ~ 400
 	maxBarbarianSize = 80
-	#Whether or not raiders can break, scale, and bridge obstacles. [Default: true]
+	#Whether or not raiders can break through obstacles [Default: true]
 	dobarbariansbreakthroughwalls = true
 	#The average number of nights between raids. [Default: 14, min: 1, max: 50]
 	#Range: 1 ~ 50
@@ -226,8 +229,6 @@
 
 #All configurations related to the request system
 [requestSystem]
-	#Should the request system show debug information in the debug.log? Useful if malfunctioning. [Default: false]
-	enabledebuglogging = false
 	#The maximal amount of tries that the request system will perform for retryable requests. Higher increases server load. [Default: 3, min: 1, max: 10]
 	#Range: 1 ~ 10
 	maximalretries = 2

@@ -8,9 +8,13 @@
 	# Default: true
 	chunk_load_offline: true
 	
-	# Blacklist for dimensions where chunks can't be claimed. Add "minecraft:the_end" to this list if you want to disable chunk claiming in The End
+	# Dimension ID's where chunks may not be claimed. Add "minecraft:the_end" to this list if you want to disable chunk claiming in The End, or "othermod:*" to disable chunk claiming in *all* dimensions added by "othermod"
 	# Default: []
 	claim_dimension_blacklist: [ ]
+	
+	# Dimension ID's where chunks may be claimed. If non-empty, chunks may be claimed *only* in these dimensions (and the dimension is not in "claim_dimension_blacklist"). Same syntax as for "claim_dimension_blacklist".
+	# Default: []
+	claim_dimension_whitelist: [ ]
 	
 	# Disables all land protection. Useful for private servers where everyone is trusted and claims are only used for force-loading
 	# Default: false
@@ -44,6 +48,10 @@
 	# Range: 0 ~ 2147483647
 	hard_team_force_limit: 0
 	
+	# If true, "Location Visibility" team settings are ignored, and all players can see each other anywhere on the map.
+	# Default: false
+	location_mode_override: false
+	
 	# Interval in ticks to send updates to clients with long-range player tracking data.
 	# Lower values mean more frequent updates but more server load and network traffic; be careful with this, especially on busy servers.
 	# Setting this to 0 disables long-range tracking.
@@ -66,16 +74,16 @@
 	# Maximum time (in real-world days) where if no player in a team logs in, the team automatically loses their claims.
 	# Prevents chunks being claimed indefinitely by teams who no longer play.
 	# Default of 0 means no automatic loss of claims.
-	# Default: 0
-	# Range: 0 ~ 9223372036854775807
-	max_idle_days_before_unclaim: 0L
+	# Default: 0.0
+	# Range: 0.0 ~ 3650.0
+	max_idle_days_before_unclaim: 0.0d
 	
 	# Maximum time (in real-world days) where if no player in a team logs in, any forceloaded chunks owned by the team are no longer forceloaded.
 	# Prevents chunks being forceloaded indefinitely by teams who no longer play.
 	# Default of 0 means no automatic loss of forceloading.
-	# Default: 0
-	# Range: 0 ~ 9223372036854775807
-	max_idle_days_before_unforce: 0L
+	# Default: 0.0
+	# Range: 0.0 ~ 3650.0
+	max_idle_days_before_unforce: 0.0d
 	
 	# Requires you to claim chunks in order to edit and interact with blocks
 	# Default: false
