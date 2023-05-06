@@ -2081,6 +2081,12 @@
     },
     "done": true
   },
+  "additionallanterns:recipes/misc/andesite_lantern_orange": {
+    "criteria": {
+      "recipe_condition": "2023-05-06 22:57:57 +0200"
+    },
+    "done": true
+  },
   "ftbic:recipes/ftbic/macerating/raw_materials/lead_to_dust": {
     "criteria": {
       "has_item": "2023-03-25 21:56:10 +0100"
@@ -2399,6 +2405,12 @@
       "in_igloo_mangrove": "2023-03-26 13:19:32 +0200"
     },
     "done": false
+  },
+  "ftbic:recipes/ftbic/macerating/ores/copper_to_dust": {
+    "criteria": {
+      "has_item": "2023-05-06 17:09:14 +0200"
+    },
+    "done": true
   },
   "smallships:recipes/bop_hellbark_war_galley": {
     "criteria": {
@@ -3760,6 +3772,12 @@
     },
     "done": true
   },
+  "minecraft:nether/create_full_beacon": {
+    "criteria": {
+      "beacon": "2023-05-06 15:50:18 +0200"
+    },
+    "done": true
+  },
   "xycraft_override:recipes/xycraft_override/shaped/end_stone_bricks_dark": {
     "criteria": {
       "has_end_stone_bricks": "2023-03-29 21:56:56 +0200"
@@ -4526,6 +4544,12 @@
     },
     "done": true
   },
+  "additionallanterns:recipes/misc/andesite_lantern_light_gray": {
+    "criteria": {
+      "recipe_condition": "2023-05-06 22:57:57 +0200"
+    },
+    "done": true
+  },
   "smallships:recipes/dark_oak_rowboat": {
     "criteria": {
       "in_water": "2023-03-22 21:51:33 +0100"
@@ -5270,6 +5294,12 @@
   "create:recipes/create.palettes/small_granite_bricks_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2023-03-22 19:04:15 +0100"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/granite_pillar_trim": {
+    "criteria": {
+      "has_pillar_trim": "2023-05-06 15:47:39 +0200"
     },
     "done": true
   },
@@ -6169,6 +6199,12 @@
   "pneumaticcraft:recipes/pneumaticcraft/reinforced_brick_tile": {
     "criteria": {
       "has_ingot_iron_compressed": "2023-03-22 19:11:41 +0100"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/granite_corner_trim": {
+    "criteria": {
+      "has_corner_trim": "2023-05-06 15:47:39 +0200"
     },
     "done": true
   },
@@ -7630,6 +7666,13 @@
     },
     "done": true
   },
+  "additionallanterns:recipes/additionallanterns/andesite_lantern_magenta": {
+    "criteria": {
+      "has_the_recipe": "2023-05-06 22:57:57 +0200",
+      "recipe_condition": "2023-05-06 22:57:57 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/mahogany/mahogany_button_from_mahogany_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2023-03-22 17:07:38 +0100"
@@ -7919,6 +7962,19 @@
     },
     "done": true
   },
+  "additionallanterns:recipes/misc/andesite_lantern_black": {
+    "criteria": {
+      "has_the_recipe": "2023-05-06 22:57:57 +0200",
+      "recipe_condition": "2023-05-06 22:57:57 +0200"
+    },
+    "done": true
+  },
+  "additionallanterns:recipes/additionallanterns/andesite_lantern_pink": {
+    "criteria": {
+      "recipe_condition": "2023-05-06 22:57:57 +0200"
+    },
+    "done": true
+  },
   "ftbic:recipes/ftbic/rolling/ingots/gold_to_gold_plate": {
     "criteria": {
       "has_item": "2023-03-22 17:17:44 +0100"
@@ -8048,6 +8104,12 @@
   "extradisks:recipes/extradisks/disk/shapeless/256k_storage_disk": {
     "criteria": {
       "has_part": "2023-04-24 22:42:58 +0200"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/petal_pink": {
+    "criteria": {
+      "has_item": "2023-05-06 22:04:42 +0200"
     },
     "done": true
   },
@@ -8231,6 +8293,12 @@
     },
     "done": true
   },
+  "extradisks:recipes/extradisks/part/infinite_fluid_storage_part": {
+    "criteria": {
+      "has_prev_part": "2023-05-06 21:57:39 +0200"
+    },
+    "done": true
+  },
   "ftbic:recipes/ftbic/shaped/single_use_battery": {
     "criteria": {
       "has_item": "2023-03-22 18:01:25 +0100"
@@ -8276,6 +8344,13 @@
   "mcwbridges:recipes/sandstone_bridge": {
     "criteria": {
       "has_planks": "2023-04-29 21:54:12 +0200"
+    },
+    "done": true
+  },
+  "additionallanterns:recipes/misc/andesite_lantern_green": {
+    "criteria": {
+      "has_the_recipe": "2023-05-06 22:57:57 +0200",
+      "recipe_condition": "2023-05-06 22:57:57 +0200"
     },
     "done": true
   },
@@ -8448,6 +8523,12 @@
   "minecraft:recipes/decorations/cyan_carpet_from_white_carpet": {
     "criteria": {
       "has_cyan_dye": "2023-04-05 19:27:49 +0200"
+    },
+    "done": true
+  },
+  "additionallanterns:recipes/misc/andesite_lantern_white": {
+    "criteria": {
+      "recipe_condition": "2023-05-06 22:57:57 +0200"
     },
     "done": true
   },
@@ -9648,6 +9729,13 @@
     },
     "done": true
   },
+  "additionallanterns:recipes/additionallanterns/andesite_lantern_white": {
+    "criteria": {
+      "has_the_recipe": "2023-05-06 22:57:57 +0200",
+      "recipe_condition": "2023-05-06 22:57:57 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_nugget_from_smelting": {
     "criteria": {
       "has_chainmail_leggings": "2023-03-22 17:36:53 +0100"
@@ -9657,6 +9745,12 @@
   "minecraft:recipes/woodcutting/birch/birch_fence_gate_from_birch_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2023-03-25 23:00:17 +0100"
+    },
+    "done": true
+  },
+  "additionallanterns:recipes/misc/andesite_lantern_red": {
+    "criteria": {
+      "recipe_condition": "2023-05-06 22:57:57 +0200"
     },
     "done": true
   },
@@ -9672,9 +9766,22 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/copper_ingot_from_smelting_copper_ore": {
+    "criteria": {
+      "has_copper_ore": "2023-05-06 17:09:14 +0200"
+    },
+    "done": true
+  },
   "twilightforest:twilight_hunter": {
     "criteria": {
       "swarm_spider": "2023-04-22 18:27:23 +0200"
+    },
+    "done": true
+  },
+  "additionallanterns:recipes/additionallanterns/andesite_lantern_light_blue": {
+    "criteria": {
+      "has_the_recipe": "2023-05-06 22:57:57 +0200",
+      "recipe_condition": "2023-05-06 22:57:57 +0200"
     },
     "done": true
   },
@@ -11042,6 +11149,13 @@
     },
     "done": true
   },
+  "additionallanterns:recipes/additionallanterns/andesite_lantern_red": {
+    "criteria": {
+      "has_the_recipe": "2023-05-06 22:57:57 +0200",
+      "recipe_condition": "2023-05-06 22:57:57 +0200"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/small_crimsite_bricks_from_crimsite_stonecutting": {
     "criteria": {
       "has_crimsite": "2023-04-04 23:28:26 +0200"
@@ -11467,6 +11581,12 @@
   "create:recipes/create.palettes/cut_scoria_from_scoria_stonecutting": {
     "criteria": {
       "has_scoria": "2023-03-27 19:41:12 +0200"
+    },
+    "done": true
+  },
+  "additionallanterns:recipes/additionallanterns/andesite_lantern_green": {
+    "criteria": {
+      "recipe_condition": "2023-05-06 22:57:57 +0200"
     },
     "done": true
   },
@@ -12240,6 +12360,12 @@
     },
     "done": true
   },
+  "additionallanterns:recipes/additionallanterns/andesite_lantern_black": {
+    "criteria": {
+      "recipe_condition": "2023-05-06 22:57:57 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/prismarine_brick_slab_from_prismarine_stonecutting": {
     "criteria": {
       "has_prismarine_brick": "2023-03-25 21:39:04 +0100"
@@ -12431,6 +12557,12 @@
   "immersiveengineering:recipes/immersiveengineering/crafting/capacitor_hv": {
     "criteria": {
       "has_nickel_ingot": "2023-03-25 13:49:21 +0100"
+    },
+    "done": true
+  },
+  "additionallanterns:recipes/misc/andesite_lantern_yellow": {
+    "criteria": {
+      "recipe_condition": "2023-05-06 22:57:57 +0200"
     },
     "done": true
   },
@@ -14453,6 +14585,13 @@
     },
     "done": true
   },
+  "additionallanterns:recipes/misc/andesite_lantern_blue": {
+    "criteria": {
+      "has_the_recipe": "2023-05-06 22:57:57 +0200",
+      "recipe_condition": "2023-05-06 22:57:57 +0200"
+    },
+    "done": true
+  },
   "aquaculture:recipes/misc/jellyfish_to_slimeball": {
     "criteria": {
       "has_items": "2023-03-22 16:58:39 +0100"
@@ -15151,6 +15290,12 @@
     },
     "done": true
   },
+  "allthemodium:recipes/allthemodium/unobtainium_ingot_from_block": {
+    "criteria": {
+      "has_item": "2023-05-06 14:45:42 +0200"
+    },
+    "done": true
+  },
   "croptopia:recipes/croptopia.croptopia/apple_juice": {
     "criteria": {
       "has_apple": "2023-03-22 16:58:55 +0100"
@@ -15647,6 +15792,12 @@
     },
     "done": true
   },
+  "additionallanterns:recipes/additionallanterns/andesite_lantern_brown": {
+    "criteria": {
+      "recipe_condition": "2023-05-06 22:57:57 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobbled_deepslate_stairs": {
     "criteria": {
       "has_cobbled_deepslate": "2023-03-22 18:59:44 +0100"
@@ -15926,6 +16077,13 @@
   "reliquary:recipes/food/uncrafting/rotten_flesh": {
     "criteria": {
       "has_zombie_heart": "2023-03-22 22:17:34 +0100"
+    },
+    "done": true
+  },
+  "additionallanterns:recipes/misc/andesite_lantern_lime": {
+    "criteria": {
+      "has_the_recipe": "2023-05-06 22:57:57 +0200",
+      "recipe_condition": "2023-05-06 22:57:57 +0200"
     },
     "done": true
   },
@@ -16545,6 +16703,12 @@
     },
     "done": true
   },
+  "additionallanterns:recipes/additionallanterns/andesite_lantern_lime": {
+    "criteria": {
+      "recipe_condition": "2023-05-06 22:57:57 +0200"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/kinetics/fluid_tank": {
     "criteria": {
       "has_item": "2023-03-27 22:37:51 +0200"
@@ -16799,6 +16963,13 @@
     },
     "done": true
   },
+  "additionallanterns:recipes/misc/andesite_lantern_brown": {
+    "criteria": {
+      "has_the_recipe": "2023-05-06 22:57:57 +0200",
+      "recipe_condition": "2023-05-06 22:57:57 +0200"
+    },
+    "done": true
+  },
   "ftbic:recipes/building_blocks/macerating/cobblestone": {
     "criteria": {
       "has_item": "2023-03-22 18:59:46 +0100"
@@ -16842,6 +17013,12 @@
     },
     "done": true
   },
+  "additionallanterns:recipes/additionallanterns/andesite_lantern_blue": {
+    "criteria": {
+      "recipe_condition": "2023-05-06 22:57:57 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/mahogany/mahogany_connected_from_mahogany_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2023-03-22 17:38:21 +0100"
@@ -16851,6 +17028,13 @@
   "tombstone:adventure/use_aquatic_life": {
     "criteria": {
       "has_magic_scroll": "2023-03-29 22:28:43 +0200"
+    },
+    "done": true
+  },
+  "additionallanterns:recipes/additionallanterns/andesite_lantern_yellow": {
+    "criteria": {
+      "has_the_recipe": "2023-05-06 22:57:57 +0200",
+      "recipe_condition": "2023-05-06 22:57:57 +0200"
     },
     "done": true
   },
@@ -17320,6 +17504,12 @@
   "securitycraft:recipes/securitycraft/reinforced_diorite": {
     "criteria": {
       "has_cobblestone": "2023-03-22 17:41:31 +0100"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/yellow_shiny_flower": {
+    "criteria": {
+      "has_item": "2023-05-06 16:52:00 +0200"
     },
     "done": true
   },
@@ -19245,9 +19435,22 @@
     },
     "done": true
   },
+  "extrastorage:recipes/extrastorage_tab/disk/shapeless/disk_1048576k_fluid": {
+    "criteria": {
+      "has_part": "2023-05-06 21:57:39 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/acacia/acacia_fence_from_acacia_slab_woodcutting": {
     "criteria": {
       "give_recipe": "2023-03-25 23:00:11 +0100"
+    },
+    "done": true
+  },
+  "additionallanterns:recipes/misc/andesite_lantern_purple": {
+    "criteria": {
+      "has_the_recipe": "2023-05-06 22:57:57 +0200",
+      "recipe_condition": "2023-05-06 22:57:57 +0200"
     },
     "done": true
   },
@@ -20357,6 +20560,12 @@
     },
     "done": true
   },
+  "extradisks:recipes/extradisks/blocks/1048576k_fluid_storage_block": {
+    "criteria": {
+      "has_part": "2023-05-06 21:57:39 +0200"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/oak/oak_swamp_trapdoor": {
     "criteria": {
       "has_planks": "2023-03-22 16:02:05 +0100"
@@ -21107,6 +21316,12 @@
   "minecraft:recipes/misc/map": {
     "criteria": {
       "has_compass": "2023-04-25 16:34:52 +0200"
+    },
+    "done": true
+  },
+  "extrastorage:recipes/extrastorage_tab/disk/shaped/disk_1048576k_fluid": {
+    "criteria": {
+      "has_part": "2023-05-06 21:57:39 +0200"
     },
     "done": true
   },
@@ -24638,6 +24853,13 @@
     },
     "done": true
   },
+  "additionallanterns:recipes/misc/andesite_lantern_pink": {
+    "criteria": {
+      "has_the_recipe": "2023-05-06 22:57:57 +0200",
+      "recipe_condition": "2023-05-06 22:57:57 +0200"
+    },
+    "done": true
+  },
   "silentgear:recipes/silentgear/excavator_template": {
     "criteria": {
       "has_item": "2023-03-22 19:28:51 +0100"
@@ -26033,6 +26255,12 @@
     },
     "done": true
   },
+  "extrastorage:recipes/extrastorage_tab/storage_block/block_1048576k_fluid": {
+    "criteria": {
+      "has_part": "2023-05-06 21:57:39 +0200"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/ars_nouveau/scribes_table": {
     "criteria": {
       "has_journal": "2023-03-25 17:12:31 +0100"
@@ -26804,6 +27032,13 @@
     },
     "done": true
   },
+  "additionallanterns:recipes/additionallanterns/andesite_lantern_orange": {
+    "criteria": {
+      "has_the_recipe": "2023-05-06 22:57:57 +0200",
+      "recipe_condition": "2023-05-06 22:57:57 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cracked_deepslate_bricks": {
     "criteria": {
       "has_deepslate_bricks": "2023-03-26 14:32:15 +0200"
@@ -27335,6 +27570,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/copper_ingot_from_blasting_copper_ore": {
+    "criteria": {
+      "has_copper_ore": "2023-05-06 17:09:14 +0200"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/ars_nouveau/dull_trinket": {
     "criteria": {
       "has_journal": "2023-03-22 17:02:05 +0100"
@@ -27752,6 +27993,13 @@
   "ars_nouveau:recipes/ars_nouveau/archwood_stairs": {
     "criteria": {
       "has_journal": "2023-03-22 20:05:57 +0100"
+    },
+    "done": true
+  },
+  "additionallanterns:recipes/additionallanterns/andesite_lantern_light_gray": {
+    "criteria": {
+      "has_the_recipe": "2023-05-06 22:57:57 +0200",
+      "recipe_condition": "2023-05-06 22:57:57 +0200"
     },
     "done": true
   },
@@ -29017,6 +29265,12 @@
     },
     "done": true
   },
+  "additionallanterns:recipes/additionallanterns/andesite_lantern_colorless": {
+    "criteria": {
+      "recipe_condition": "2023-05-06 22:57:57 +0200"
+    },
+    "done": true
+  },
   "smallships:recipes/jungle_galley": {
     "criteria": {
       "in_water": "2023-03-22 17:05:53 +0100"
@@ -30256,6 +30510,13 @@
     },
     "done": true
   },
+  "additionallanterns:recipes/additionallanterns/andesite_lantern_cyan": {
+    "criteria": {
+      "has_the_recipe": "2023-05-06 22:57:57 +0200",
+      "recipe_condition": "2023-05-06 22:57:57 +0200"
+    },
+    "done": true
+  },
   "ae2:recipes/ae2.main/shaped/stairs/quartz_block": {
     "criteria": {
       "has_quartz_block": "2023-03-25 15:43:06 +0100"
@@ -30319,6 +30580,12 @@
   "alchemistry:recipes/dissolver/quartz": {
     "criteria": {
       "has_the_recipe": "2023-05-06 00:30:01 +0200"
+    },
+    "done": true
+  },
+  "extradisks:recipes/extradisks/disk/shaped/1048576k_fluid_storage_disk": {
+    "criteria": {
+      "has_part": "2023-05-06 21:57:39 +0200"
     },
     "done": true
   },
@@ -30403,6 +30670,12 @@
   "alltheores:recipes/alltheores/bronze_ingot_from_dust": {
     "criteria": {
       "has_item": "2023-03-22 18:45:41 +0100"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/pink_shiny_flower": {
+    "criteria": {
+      "has_item": "2023-05-06 22:04:42 +0200"
     },
     "done": true
   },
@@ -31218,6 +31491,12 @@
     },
     "done": true
   },
+  "additionallanterns:recipes/misc/andesite_lantern_magenta": {
+    "criteria": {
+      "recipe_condition": "2023-05-06 22:57:57 +0200"
+    },
+    "done": true
+  },
   "silentgear:recipes/silentgear/pickaxe_template": {
     "criteria": {
       "has_item": "2023-03-22 19:28:09 +0100"
@@ -31317,6 +31596,12 @@
   "allthemodium:recipes/allthemodium/unobtainium_rod": {
     "criteria": {
       "has_TagKey[minecraft:item / forge:ingots/unobtainium]_ingot": "2023-04-02 03:19:05 +0200"
+    },
+    "done": true
+  },
+  "additionallanterns:recipes/additionallanterns/andesite_lantern_purple": {
+    "criteria": {
+      "recipe_condition": "2023-05-06 22:57:57 +0200"
     },
     "done": true
   },
@@ -32042,6 +32327,12 @@
     },
     "done": true
   },
+  "extradisks:recipes/extradisks/disk/shapeless/1048576k_fluid_storage_disk": {
+    "criteria": {
+      "has_part": "2023-05-06 21:57:39 +0200"
+    },
+    "done": true
+  },
   "silentgear:recipes/silentgear/blaze_gold_dust_blasting": {
     "criteria": {
       "has_item": "2023-03-22 18:25:59 +0100"
@@ -32209,6 +32500,12 @@
   "ae2:recipes/ae2.main/decorative/quartz_glass": {
     "criteria": {
       "has_quartz_dust": "2023-03-25 21:32:53 +0100"
+    },
+    "done": true
+  },
+  "additionallanterns:recipes/misc/andesite_lantern_gray": {
+    "criteria": {
+      "recipe_condition": "2023-05-06 22:57:57 +0200"
     },
     "done": true
   },
@@ -33215,6 +33512,12 @@
     },
     "done": true
   },
+  "evilcraft:fart": {
+    "criteria": {
+      "criteria_0": "2023-05-06 22:54:11 +0200"
+    },
+    "done": true
+  },
   "mekanism:energy_cube": {
     "criteria": {
       "basic_energy_cube": "2023-03-26 14:33:17 +0200"
@@ -33735,6 +34038,13 @@
   "mcwbridges:recipes/spruce_log_bridge_stair": {
     "criteria": {
       "has_planks": "2023-04-29 21:54:12 +0200"
+    },
+    "done": true
+  },
+  "additionallanterns:recipes/misc/andesite_lantern_colorless": {
+    "criteria": {
+      "has_the_recipe": "2023-05-06 22:57:57 +0200",
+      "recipe_condition": "2023-05-06 22:57:57 +0200"
     },
     "done": true
   },
@@ -34569,6 +34879,13 @@
     },
     "done": true
   },
+  "additionallanterns:recipes/additionallanterns/andesite_lantern_gray": {
+    "criteria": {
+      "has_the_recipe": "2023-05-06 22:57:57 +0200",
+      "recipe_condition": "2023-05-06 22:57:57 +0200"
+    },
+    "done": true
+  },
   "refinedstorage:recipes/refinedstorage/coloring_recipes/black_crafter": {
     "criteria": {
       "refinedstorage:controller": "2023-03-25 15:09:33 +0100"
@@ -34656,6 +34973,12 @@
   "handcrafted:recipes/misc/calcite_corner_trim": {
     "criteria": {
       "has_corner_trim": "2023-05-02 22:16:26 +0200"
+    },
+    "done": true
+  },
+  "allthetweaks:recipes/misc/nether_star_from_nether_star_block": {
+    "criteria": {
+      "has_item": "2023-05-06 14:07:23 +0200"
     },
     "done": true
   },
@@ -35688,6 +36011,12 @@
     },
     "done": true
   },
+  "botania:recipes/botania/petal_yellow": {
+    "criteria": {
+      "has_item": "2023-05-06 16:52:00 +0200"
+    },
+    "done": true
+  },
   "silentgear:nether": {
     "criteria": {
       "entered_nether": "2023-03-22 20:30:42 +0100"
@@ -36613,6 +36942,12 @@
     },
     "done": true
   },
+  "additionallanterns:recipes/misc/andesite_lantern_light_blue": {
+    "criteria": {
+      "recipe_condition": "2023-05-06 22:57:57 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/andesite_wall": {
     "criteria": {
       "has_andesite": "2023-03-22 19:09:27 +0100"
@@ -36887,6 +37222,12 @@
   "securitycraft:recipes/securitycraft/harming_module": {
     "criteria": {
       "has_iron": "2023-03-22 17:08:33 +0100"
+    },
+    "done": true
+  },
+  "additionallanterns:recipes/misc/andesite_lantern_cyan": {
+    "criteria": {
+      "recipe_condition": "2023-05-06 22:57:57 +0200"
     },
     "done": true
   },

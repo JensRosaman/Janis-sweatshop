@@ -3638,6 +3638,12 @@
     },
     "done": true
   },
+  "refinedstorage:storing_fluids": {
+    "criteria": {
+      "fluid_storage_disk_in_inventory": "2023-05-06 15:50:59 +0200"
+    },
+    "done": true
+  },
   "apotheosis:enchanting/upgrade_hellshelf": {
     "criteria": {
       "glowing": "2023-04-29 22:36:02 +0200"
