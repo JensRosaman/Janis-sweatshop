@@ -365,6 +365,12 @@
     },
     "done": true
   },
+  "botania:recipes/botania/black_shiny_flower": {
+    "criteria": {
+      "has_item": "2023-05-06 01:26:12 +0200"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/ars_nouveau/greater_experience_gem": {
     "criteria": {
       "has_journal": "2023-04-02 02:03:28 +0200"
@@ -1140,6 +1146,12 @@
   "smallships:recipes/envi_wisteria_brigg": {
     "criteria": {
       "in_water": "2023-03-22 19:52:51 +0100"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/fishy_business": {
+    "criteria": {
+      "salmon": "2023-05-06 01:53:08 +0200"
     },
     "done": true
   },
@@ -2203,6 +2215,12 @@
   "cfm:recipes/cfm/oak_mail_box": {
     "criteria": {
       "has_chest": "2023-03-29 21:15:27 +0200"
+    },
+    "done": true
+  },
+  "croptopia:recipes/croptopia.croptopia/cooked_tuna_from_smoking_tuna": {
+    "criteria": {
+      "has_tuna": "2023-05-06 01:52:45 +0200"
     },
     "done": true
   },
@@ -3589,6 +3607,12 @@
     },
     "done": true
   },
+  "croptopia:recipes/croptopia.croptopia/cooked_anchovy_from_anchovy": {
+    "criteria": {
+      "has_anchovy": "2023-05-06 01:52:45 +0200"
+    },
+    "done": true
+  },
   "pneumaticcraft:recipes/pneumaticcraft/flippers_upgrade": {
     "criteria": {
       "has_lapis_lazuli": "2023-04-02 15:15:09 +0200"
@@ -4824,6 +4848,7 @@
   },
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
+      "sugar_cane": "2023-05-06 02:35:10 +0200",
       "wheat": "2023-03-29 21:44:01 +0200"
     },
     "done": false
@@ -5776,6 +5801,12 @@
     },
     "done": true
   },
+  "tempad:tempad": {
+    "criteria": {
+      "requirement": "2023-05-06 02:08:57 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/lime_dye": {
     "criteria": {
       "has_green_dye": "2023-04-02 16:58:22 +0200"
@@ -5937,8 +5968,14 @@
     "criteria": {
       "fried_chicken": "2023-04-02 15:12:19 +0200",
       "buttered_toast": "2023-04-02 15:01:02 +0200",
+      "cooked_shrimp": "2023-05-06 01:52:35 +0200",
+      "anchovy": "2023-05-06 01:52:45 +0200",
       "scrambled_eggs": "2023-04-02 15:12:15 +0200",
-      "toast": "2023-04-02 15:11:59 +0200"
+      "toast": "2023-04-02 15:11:59 +0200",
+      "cooked_tuna": "2023-05-06 01:52:44 +0200",
+      "tuna": "2023-05-06 01:52:44 +0200",
+      "oyster": "2023-05-06 01:52:35 +0200",
+      "crab": "2023-05-06 01:53:51 +0200"
     },
     "done": false
   },
@@ -6432,6 +6469,12 @@
   "alltheores:recipes/alltheores/tin_rod": {
     "criteria": {
       "has_TagKey[minecraft:item / forge:ingots/tin]_ingot": "2023-03-29 21:42:58 +0200"
+    },
+    "done": true
+  },
+  "xycraft_world:recipes/xycraft_world/shaped/inverted_bricks_cloud_red": {
+    "criteria": {
+      "has_xychorium_gem_red": "2023-05-06 02:18:48 +0200"
     },
     "done": true
   },
@@ -7686,6 +7729,12 @@
     },
     "done": true
   },
+  "croptopia:recipes/croptopia.croptopia/anchovy_pizza": {
+    "criteria": {
+      "has_anchovies": "2023-05-06 01:52:45 +0200"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/sophisticatedbackpacks/battery_upgrade": {
     "criteria": {
       "has_upgrade_base": "2023-04-02 02:06:01 +0200"
@@ -8029,6 +8078,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/netherite_ingot_from_netherite_block": {
+    "criteria": {
+      "has_netherite_block": "2023-05-06 02:22:50 +0200"
+    },
+    "done": true
+  },
   "deepresonance:recipes/deepresonance/resonating_plate": {
     "criteria": {
       "has_ore": "2023-03-29 21:26:38 +0200"
@@ -8236,6 +8291,12 @@
   "minecraft:recipes/decorations/end_stone_brick_wall_from_end_stone_stonecutting": {
     "criteria": {
       "has_end_stone": "2023-04-02 03:06:01 +0200"
+    },
+    "done": true
+  },
+  "croptopia:recipes/croptopia.croptopia/cooked_shrimp_from_shrimp": {
+    "criteria": {
+      "has_shrimp": "2023-05-06 01:53:08 +0200"
     },
     "done": true
   },
@@ -8744,6 +8805,12 @@
     },
     "done": true
   },
+  "croptopia:recipes/croptopia.croptopia/crab_legs": {
+    "criteria": {
+      "has_crab": "2023-05-06 01:53:51 +0200"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/immersiveengineering/crafting/drillhead_steel": {
     "criteria": {
       "has_steel_ingot": "2023-04-02 02:10:52 +0200"
@@ -8975,6 +9042,12 @@
   "mcwbridges:recipes/blackstone_bridge_stair": {
     "criteria": {
       "has_planks": "2023-04-30 00:16:04 +0200"
+    },
+    "done": true
+  },
+  "croptopia:recipes/croptopia.croptopia/cooked_shrimp_from_smoking_shrimp": {
+    "criteria": {
+      "has_shrimp": "2023-05-06 01:53:08 +0200"
     },
     "done": true
   },
@@ -11434,6 +11507,12 @@
     },
     "done": true
   },
+  "croptopia:recipes/croptopia.croptopia/steamed_crab": {
+    "criteria": {
+      "has_crab": "2023-05-06 01:53:51 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_leggings": {
     "criteria": {
       "has_iron_ingot": "2023-03-29 21:10:16 +0200"
@@ -12466,6 +12545,12 @@
     },
     "done": true
   },
+  "botania:recipes/botania/light_blue_shiny_flower": {
+    "criteria": {
+      "has_item": "2023-05-06 01:26:04 +0200"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/purple_cooler": {
     "criteria": {
       "has_chest": "2023-03-29 21:15:27 +0200"
@@ -12601,6 +12686,12 @@
   "xnet:recipes/xnet/connector_routing": {
     "criteria": {
       "chest": "2023-04-02 02:09:06 +0200"
+    },
+    "done": true
+  },
+  "xycraft_world:recipes/xycraft_world/compacting/xychorium_gem_red": {
+    "criteria": {
+      "has_xychorium_gem_red": "2023-05-06 02:18:48 +0200"
     },
     "done": true
   },
@@ -15068,6 +15159,12 @@
     },
     "done": true
   },
+  "croptopia:recipes/croptopia.croptopia/deep_fried_shrimp": {
+    "criteria": {
+      "has_shrimp": "2023-05-06 01:53:08 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/mahogany/mahogany_connected_from_mahogany_slab_woodcutting": {
     "criteria": {
       "give_recipe": "2023-04-29 19:10:28 +0200"
@@ -16171,6 +16268,12 @@
   "alltheores:recipes/alltheores/silver_nugget_from_ingot": {
     "criteria": {
       "has_item": "2023-03-29 21:48:30 +0200"
+    },
+    "done": true
+  },
+  "croptopia:recipes/croptopia.croptopia/cooked_tuna_from_tuna": {
+    "criteria": {
+      "has_tuna": "2023-05-06 01:52:44 +0200"
     },
     "done": true
   },
@@ -18116,6 +18219,12 @@
     },
     "done": true
   },
+  "productivebees:husbandry/fishy_bees": {
+    "criteria": {
+      "catch": "2023-05-06 01:53:51 +0200"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/reinforced_pink_stained_glass_pane_from_glass": {
     "criteria": {
       "has_glass": "2023-04-02 15:18:39 +0200"
@@ -19689,6 +19798,12 @@
     },
     "done": true
   },
+  "croptopia:recipes/croptopia.croptopia/cooked_anchovy_from_smoking_anchovy": {
+    "criteria": {
+      "has_anchovy": "2023-05-06 01:52:45 +0200"
+    },
+    "done": true
+  },
   "betterdungeons:all_dungeons": {
     "criteria": {
       "in_better_zombie_dungeon": "2023-04-02 16:42:00 +0200"
@@ -20207,6 +20322,12 @@
     },
     "done": true
   },
+  "croptopia:recipes/croptopia.croptopia/tuna_roll": {
+    "criteria": {
+      "has_tuna": "2023-05-06 01:52:44 +0200"
+    },
+    "done": true
+  },
   "alltheores:recipes/alltheores/lead_gear": {
     "criteria": {
       "has_TagKey[minecraft:item / forge:ingots/lead]_ingot": "2023-03-29 21:41:35 +0200"
@@ -20411,6 +20532,12 @@
     },
     "done": true
   },
+  "botania:recipes/botania/petal_black": {
+    "criteria": {
+      "has_item": "2023-05-06 01:26:12 +0200"
+    },
+    "done": true
+  },
   "ftbic:recipes/ftbic/shaped/ingots/lead_to_lead_rod": {
     "criteria": {
       "has_item": "2023-03-29 21:41:35 +0200"
@@ -20574,6 +20701,8 @@
       "minecraft:forest": "2023-03-22 19:54:36 +0100",
       "minecraft:ocean": "2023-03-22 19:56:55 +0100",
       "minecraft:jungle": "2023-04-29 19:00:46 +0200",
+      "minecraft:warm_ocean": "2023-05-06 01:49:40 +0200",
+      "minecraft:deep_lukewarm_ocean": "2023-05-06 01:48:13 +0200",
       "minecraft:savanna": "2023-03-22 20:03:29 +0100",
       "minecraft:plains": "2023-03-22 19:56:07 +0100"
     },
@@ -21124,6 +21253,7 @@
     "criteria": {
       "honey_bottle": "2023-04-29 17:24:23 +0200",
       "chorus_fruit": "2023-03-30 23:31:50 +0200",
+      "beef": "2023-05-06 02:35:49 +0200",
       "apple": "2023-05-03 21:09:44 +0200",
       "pumpkin_pie": "2023-03-29 22:27:54 +0200",
       "bread": "2023-03-22 19:57:37 +0100",
@@ -21330,6 +21460,12 @@
   "silentgear:recipes/silentgear/helmet_template": {
     "criteria": {
       "has_item": "2023-04-02 02:19:28 +0200"
+    },
+    "done": true
+  },
+  "pylons:recipes/pylons/interdiction_pylon": {
+    "criteria": {
+      "has_netherite_block": "2023-05-06 02:22:50 +0200"
     },
     "done": true
   },
@@ -22184,6 +22320,12 @@
   "pneumaticcraft:recipes/pneumaticcraft/refinery_output": {
     "criteria": {
       "has_ingot_iron_compressed": "2023-03-22 19:54:47 +0100"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/petal_light_blue": {
+    "criteria": {
+      "has_item": "2023-05-06 01:26:05 +0200"
     },
     "done": true
   },

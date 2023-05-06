@@ -341,6 +341,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/dark_oak/dark_oak_planks_from_dark_oak_wood_woodcutting": {
+    "criteria": {
+      "give_recipe": "2023-05-05 22:54:18 +0200"
+    },
+    "done": true
+  },
   "botania:challenge/root": {
     "criteria": {
       "flower": "2023-03-25 15:20:11 +0100"
@@ -398,6 +404,12 @@
   "additionallanterns:recipes/additionallanterns/andesite_chain": {
     "criteria": {
       "recipe_condition": "2023-03-22 19:09:27 +0100"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/copper_shingle_slab": {
+    "criteria": {
+      "has_copper_shingles": "2023-05-05 23:41:03 +0200"
     },
     "done": true
   },
@@ -611,6 +623,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/polished_cut_scoria_wall": {
+    "criteria": {
+      "has_polished_cut_scoria": "2023-05-06 00:39:08 +0200"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/kinetics/mechanical_drill": {
     "criteria": {
       "has_item": "2023-03-26 23:13:39 +0200"
@@ -644,6 +662,12 @@
   "minecraft:recipes/decorations/light_gray_glazed_terracotta": {
     "criteria": {
       "has_light_gray_terracotta": "2023-03-22 19:54:05 +0100"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/connectedglass/clear_glass_gray_pane1": {
+    "criteria": {
+      "recipe_condition": "2023-05-06 00:18:23 +0200"
     },
     "done": true
   },
@@ -923,6 +947,12 @@
   "minecraft:recipes/woodcutting/mahogany/polished_mahogany_button_from_mahogany_slab_woodcutting": {
     "criteria": {
       "give_recipe": "2023-04-22 18:02:08 +0200"
+    },
+    "done": true
+  },
+  "silentgear:recipes/silentgear/crimson_iron_ore_blasting": {
+    "criteria": {
+      "has_item": "2023-05-06 00:36:19 +0200"
     },
     "done": true
   },
@@ -1408,6 +1438,12 @@
     },
     "done": true
   },
+  "productivebees:husbandry/bee_cage/quartz_nest": {
+    "criteria": {
+      "get_item": "2023-05-06 00:30:12 +0200"
+    },
+    "done": true
+  },
   "aquaculture:recipes/misc/neptunium_ingot_from_neptunium_block": {
     "criteria": {
       "has_items": "2023-03-22 16:58:38 +0100"
@@ -1516,9 +1552,21 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/small_scoria_brick_wall_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2023-05-06 00:37:04 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cyan_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2023-03-25 17:05:45 +0100"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/twilightforest/equipment/block_and_chain": {
+    "criteria": {
+      "has_ingot": "2023-05-06 00:23:47 +0200"
     },
     "done": true
   },
@@ -1802,6 +1850,12 @@
   "trashcans:recipes/decorations/energy_trash_can": {
     "criteria": {
       "recipe_condition": "2023-03-22 19:37:22 +0100"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/layered_diorite_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2023-05-06 00:38:11 +0200"
     },
     "done": true
   },
@@ -2130,6 +2184,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/dripstone_pillar_trim": {
+    "criteria": {
+      "has_pillar_trim": "2023-05-05 22:43:40 +0200"
+    },
+    "done": true
+  },
   "croptopia:recipes/croptopia.croptopia/cooking_pot": {
     "criteria": {
       "has_iron": "2023-03-22 17:08:36 +0100"
@@ -2151,6 +2211,12 @@
   "xycraft_world:recipes/xycraft_world/compacting/aluminum_raw": {
     "criteria": {
       "has_aluminum_raw": "2023-03-25 15:08:37 +0100"
+    },
+    "done": true
+  },
+  "ftbic:recipes/ftbic/shapeless/aluminum_block_to_aluminum_ingot": {
+    "criteria": {
+      "has_item": "2023-05-05 22:42:56 +0200"
     },
     "done": true
   },
@@ -2550,6 +2616,12 @@
     },
     "done": true
   },
+  "twilightforest:recipes/twilightforest/equipment/knightmetal_helmet": {
+    "criteria": {
+      "has_item": "2023-05-06 00:23:47 +0200"
+    },
+    "done": true
+  },
   "mcwroofs:recipes/prismarine": {
     "criteria": {
       "has_planks": "2023-03-25 16:34:04 +0100"
@@ -2596,6 +2668,12 @@
     "criteria": {
       "has_the_recipe": "2023-03-22 16:59:29 +0100",
       "recipe_condition": "2023-03-22 16:59:29 +0100"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/twilightforest/equipment/knightmetal_shield": {
+    "criteria": {
+      "has_ingot": "2023-05-06 00:23:47 +0200"
     },
     "done": true
   },
@@ -3314,6 +3392,12 @@
     },
     "done": true
   },
+  "connectedglass:recipes/decorations/vanilla_gray_stained_glass_pane": {
+    "criteria": {
+      "recipe_condition": "2023-05-06 00:18:30 +0200"
+    },
+    "done": true
+  },
   "smallships:recipes/envi_willow_drakkar": {
     "criteria": {
       "in_water": "2023-03-22 17:05:53 +0100"
@@ -3580,6 +3664,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/cut_scoria_slab_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2023-05-06 00:37:04 +0200"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/lime_kitchen_counter": {
     "criteria": {
       "has_stone": "2023-03-22 17:50:17 +0100"
@@ -3764,6 +3854,12 @@
   "reliquary:recipes/brewing/uncrafting/glass_bottle": {
     "criteria": {
       "has_witch_hat": "2023-03-26 22:34:25 +0200"
+    },
+    "done": true
+  },
+  "allthemodium:recipes/allthemodium/vibranium_ingot_from_block": {
+    "criteria": {
+      "has_item": "2023-05-06 02:37:26 +0200"
     },
     "done": true
   },
@@ -4178,6 +4274,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/copper/waxed_copper_shingles_from_honeycomb": {
+    "criteria": {
+      "has_unwaxed": "2023-05-05 23:41:03 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/acacia/acacia_door_from_acacia_slab_woodcutting": {
     "criteria": {
       "give_recipe": "2023-03-25 23:00:11 +0100"
@@ -4367,6 +4469,12 @@
   "cfm:recipes/cfm/mangrove_blinds": {
     "criteria": {
       "has_log": "2023-03-22 20:19:06 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_slab": {
+    "criteria": {
+      "has_polished_granite": "2023-05-05 23:00:09 +0200"
     },
     "done": true
   },
@@ -4877,6 +4985,12 @@
     },
     "done": true
   },
+  "ftbic:recipes/ftbic/blasting/ores/uranium_to_ingot": {
+    "criteria": {
+      "has_item": "2023-05-06 02:38:32 +0200"
+    },
+    "done": true
+  },
   "corail_woodcutter:recipes/from_jungle_planks": {
     "criteria": {
       "has_ingredient": "2023-03-22 21:59:07 +0100"
@@ -5069,6 +5183,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/small_diorite_brick_stairs_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2023-05-06 00:38:11 +0200"
+    },
+    "done": true
+  },
   "hexcasting:grant_patchi_book": {
     "criteria": {
       "tick": "2023-03-22 17:39:05 +0100"
@@ -5156,6 +5276,12 @@
   "refinedstorage:recipes/refinedstorage/coloring_recipes/orange_detector": {
     "criteria": {
       "refinedstorage:controller": "2023-03-25 15:09:07 +0100"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/connectedglass/borderless_glass_light_blue_pane2": {
+    "criteria": {
+      "recipe_condition1": "2023-05-06 00:18:19 +0200"
     },
     "done": true
   },
@@ -5288,6 +5414,12 @@
   "croptopia:recipes/croptopia.croptopia/toast_from_smoking_bread": {
     "criteria": {
       "has_bread": "2023-03-22 16:58:55 +0100"
+    },
+    "done": true
+  },
+  "delightful:recipes/knives/knightmetal_knife": {
+    "criteria": {
+      "has_knightmetal": "2023-05-06 00:23:47 +0200"
     },
     "done": true
   },
@@ -5432,6 +5564,12 @@
   "mcwtrpdoors:recipes/jungle/jungle_glass_trapdoor": {
     "criteria": {
       "has_planks": "2023-03-22 16:58:36 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_stairs_from_polished_granite_stonecutting": {
+    "criteria": {
+      "has_polished_granite": "2023-05-05 23:00:09 +0200"
     },
     "done": true
   },
@@ -5652,6 +5790,18 @@
   "create:recipes/create.palettes/cut_andesite_brick_stairs_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2023-04-29 17:21:04 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_blasting_nether_gold_ore": {
+    "criteria": {
+      "has_nether_gold_ore": "2023-05-06 02:38:36 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/small_scoria_brick_stairs_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2023-05-06 00:37:04 +0200"
     },
     "done": true
   },
@@ -6456,6 +6606,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/polished_cut_diorite_slab_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2023-05-06 00:38:11 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/sandstone_slab_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2023-03-22 17:45:29 +0100"
@@ -6588,6 +6744,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/diorite_pillar_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2023-05-06 00:38:11 +0200"
+    },
+    "done": true
+  },
   "extradisks:recipes/extradisks/disk/shapeless/16384k_storage_disk": {
     "criteria": {
       "has_part": "2023-04-25 19:36:50 +0200"
@@ -6645,6 +6807,12 @@
   "xnet:recipes/xnet/connector_upgrade": {
     "criteria": {
       "pearl": "2023-03-26 13:51:06 +0200"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/quartz_pillar_trim": {
+    "criteria": {
+      "has_pillar_trim": "2023-05-05 23:00:30 +0200"
     },
     "done": true
   },
@@ -6975,6 +7143,12 @@
     },
     "done": true
   },
+  "twilightforest:recipes/twilightforest/equipment/knightmetal_sword": {
+    "criteria": {
+      "has_item": "2023-05-06 00:23:47 +0200"
+    },
+    "done": true
+  },
   "smallships:recipes/lotr_cypress_rowboat": {
     "criteria": {
       "in_water": "2023-03-22 17:05:53 +0100"
@@ -7179,6 +7353,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/cut_scoria_brick_slab_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2023-05-06 00:37:04 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/acacia_boat": {
     "criteria": {
       "in_water": "2023-03-22 17:05:53 +0100"
@@ -7288,6 +7468,12 @@
     },
     "done": true
   },
+  "croptopia:recipes/croptopia.croptopia/candied_kumquats": {
+    "criteria": {
+      "has_kumquat": "2023-05-05 22:56:31 +0200"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/kinetics/cart_assembler": {
     "criteria": {
       "has_item": "2023-03-26 21:35:09 +0200"
@@ -7378,6 +7564,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/cut_diorite_slab_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2023-05-06 00:38:11 +0200"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/stripped_mangrove_kitchen_sink_light": {
     "criteria": {
       "has_bucket": "2023-03-22 20:02:20 +0100"
@@ -7429,6 +7621,12 @@
   "securitycraft:recipes/securitycraft/universal_key_changer": {
     "criteria": {
       "has_redstone": "2023-03-22 19:10:56 +0100"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/small_diorite_brick_slab_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2023-05-06 00:38:11 +0200"
     },
     "done": true
   },
@@ -8003,6 +8201,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/cut_diorite_stairs_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2023-05-06 00:38:11 +0200"
+    },
+    "done": true
+  },
   "silentgear:recipes/silentgear/cord_template": {
     "criteria": {
       "has_item": "2023-03-22 17:02:08 +0100"
@@ -8128,6 +8332,15 @@
       "has_trophy": "2023-04-30 01:27:17 +0200"
     },
     "done": true
+  },
+  "productivebees:husbandry/bee_cage/quartz_nest/catch_crystalline_bee/breed_iron_bee/breed_all_productive_bees": {
+    "criteria": {
+      "redstone_bee": "2023-05-06 02:08:12 +0200",
+      "iron_bee": "2023-05-06 01:56:07 +0200",
+      "diamond_bee": "2023-05-06 02:16:20 +0200",
+      "lapis_bee": "2023-05-06 02:10:44 +0200"
+    },
+    "done": false
   },
   "deepresonance:recipes/deepresonance/lens": {
     "criteria": {
@@ -8284,6 +8497,12 @@
   "alchemistry:recipes/dissolver/gray_terracotta": {
     "criteria": {
       "has_the_recipe": "2023-03-22 17:11:06 +0100"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/connectedglass/clear_glass_lime_pane2": {
+    "criteria": {
+      "recipe_condition1": "2023-05-06 00:19:05 +0200"
     },
     "done": true
   },
@@ -9339,6 +9558,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/cut_scoria_stairs_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2023-05-06 00:37:04 +0200"
+    },
+    "done": true
+  },
   "botania:recipes/botania/ice_pendant": {
     "criteria": {
       "has_item": "2023-03-22 20:14:57 +0100"
@@ -9612,6 +9837,12 @@
   "ftbic:recipes/ftbic/extruding/ingots/gold_to_gold_rod": {
     "criteria": {
       "has_item": "2023-03-22 17:17:45 +0100"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/twilightforest/equipment/knightmetal_pickaxe": {
+    "criteria": {
+      "has_item": "2023-05-06 00:23:47 +0200"
     },
     "done": true
   },
@@ -10427,6 +10658,12 @@
     },
     "done": true
   },
+  "twilightforest:recipes/twilightforest/equipment/knightmetal_boots": {
+    "criteria": {
+      "has_item": "2023-05-06 00:23:47 +0200"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/sonic_security_system": {
     "criteria": {
       "has_stick": "2023-03-22 17:05:01 +0100"
@@ -10556,6 +10793,12 @@
   "create:recipes/create.palettes/polished_cut_asurine_stairs_from_asurine_stonecutting": {
     "criteria": {
       "has_asurine": "2023-03-22 18:39:37 +0100"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/polished_cut_scoria_stairs_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2023-05-06 00:37:04 +0200"
     },
     "done": true
   },
@@ -10877,6 +11120,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/cut_diorite_bricks_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2023-05-06 00:38:11 +0200"
+    },
+    "done": true
+  },
   "bambooeverything:recipes/bamboo_stairs": {
     "criteria": {
       "has_bundle": "2023-03-22 16:58:39 +0100"
@@ -11016,6 +11265,12 @@
     },
     "done": true
   },
+  "connectedglass:recipes/connectedglass/borderless_glass_magenta2": {
+    "criteria": {
+      "recipe_condition1": "2023-05-06 00:18:15 +0200"
+    },
+    "done": true
+  },
   "tombstone:adventure/choose_knowledge": {
     "criteria": {
       "coded_trigger": "2023-03-22 21:31:34 +0100"
@@ -11076,9 +11331,21 @@
     },
     "done": true
   },
+  "connectedglass:recipes/connectedglass/borderless_glass_lime_pane2": {
+    "criteria": {
+      "recipe_condition1": "2023-05-06 00:18:19 +0200"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/ars_nouveau/scryers_crystal": {
     "criteria": {
       "has_journal": "2023-03-25 17:12:32 +0100"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/connectedglass/clear_glass_light_blue2": {
+    "criteria": {
+      "recipe_condition1": "2023-05-06 00:19:00 +0200"
     },
     "done": true
   },
@@ -11709,6 +11976,12 @@
     },
     "done": true
   },
+  "silentgear:recipes/silentgear/crimson_iron_ore_smelting": {
+    "criteria": {
+      "has_item": "2023-05-06 00:36:19 +0200"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/cut_asurine_stairs_from_stone_types_asurine_stonecutting": {
     "criteria": {
       "has_stone_types_asurine": "2023-05-02 21:36:43 +0200"
@@ -11724,6 +11997,12 @@
   "croptopia:recipes/croptopia.croptopia/saguaro_juice": {
     "criteria": {
       "has_saguaro": "2023-03-26 23:02:32 +0200"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/connectedglass/clear_glass_light_blue_pane2": {
+    "criteria": {
+      "recipe_condition1": "2023-05-06 00:19:05 +0200"
     },
     "done": true
   },
@@ -12038,6 +12317,12 @@
   "connectedglass:recipes/connectedglass/clear_glass_pink2": {
     "criteria": {
       "recipe_condition2": "2023-03-22 22:11:43 +0100"
+    },
+    "done": true
+  },
+  "alchemistry:recipes/dissolver/honey_bottle": {
+    "criteria": {
+      "has_the_recipe": "2023-05-06 02:31:13 +0200"
     },
     "done": true
   },
@@ -12869,6 +13154,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/small_diorite_bricks_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2023-05-06 00:38:11 +0200"
+    },
+    "done": true
+  },
   "smallships:recipes/jungle_rowboat": {
     "criteria": {
       "in_water": "2023-03-22 17:05:53 +0100"
@@ -12956,6 +13247,12 @@
   "create:recipes/create.base/crafting/kinetics/piston_extension_pole": {
     "criteria": {
       "has_item": "2023-03-26 21:35:09 +0200"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/dripstone_corner_trim": {
+    "criteria": {
+      "has_corner_trim": "2023-05-05 22:43:40 +0200"
     },
     "done": true
   },
@@ -13301,6 +13598,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/copper_shingle_stairs": {
+    "criteria": {
+      "has_copper_shingles": "2023-05-05 23:41:03 +0200"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/rope_oak_bridge": {
     "criteria": {
       "has_planks": "2023-04-29 21:54:12 +0200"
@@ -13354,6 +13657,12 @@
   "minecraft:recipes/decorations/lodestone": {
     "criteria": {
       "has_netherite_ingot": "2023-03-25 16:22:02 +0100"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/connectedglass/borderless_glass_gray_pane1": {
+    "criteria": {
+      "recipe_condition": "2023-05-06 00:17:43 +0200"
     },
     "done": true
   },
@@ -13801,6 +14110,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_granite_stairs": {
+    "criteria": {
+      "has_polished_granite": "2023-05-05 23:00:09 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dark_oak_slab": {
     "criteria": {
       "has_planks": "2023-03-22 22:34:11 +0100"
@@ -13852,6 +14167,12 @@
   "allthemodium:recipes/allthemodium/allthemodium_pickaxe": {
     "criteria": {
       "has_allthemodium_rod": "2023-03-26 22:31:42 +0200"
+    },
+    "done": true
+  },
+  "ftbic:recipes/ftbic/macerating/ores/gold_to_dust": {
+    "criteria": {
+      "has_item": "2023-05-06 02:38:36 +0200"
     },
     "done": true
   },
@@ -14075,6 +14396,12 @@
   "immersiveengineering:main/craft_treatedwood": {
     "criteria": {
       "has_item": "2023-04-02 16:45:42 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/cut_scoria_bricks_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2023-05-06 00:37:04 +0200"
     },
     "done": true
   },
@@ -14478,6 +14805,12 @@
   "minecraft:recipes/tools/netherite_shovel_smithing": {
     "criteria": {
       "has_netherite_ingot": "2023-03-25 16:22:02 +0100"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/scoria_pillar_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2023-05-06 00:37:04 +0200"
     },
     "done": true
   },
@@ -14959,6 +15292,7 @@
   },
   "repurposed_structures:pyramids": {
     "criteria": {
+      "in_pyramid_dark_forest": "2023-05-05 22:54:11 +0200",
       "in_pyramid_ocean": "2023-04-02 02:56:04 +0200",
       "in_pyramid_nether": "2023-05-03 14:30:19 +0200"
     },
@@ -15673,6 +16007,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/polished_cut_scoria_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2023-05-06 00:37:04 +0200"
+    },
+    "done": true
+  },
   "alchemistry:recipes/dissolver/blue_concrete_powder": {
     "criteria": {
       "has_the_recipe": "2023-03-22 17:43:09 +0100"
@@ -16029,6 +16369,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/cut_scoria_brick_wall_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2023-05-06 00:37:04 +0200"
+    },
+    "done": true
+  },
   "rftoolsbuilder:recipes/rftoolsbuilder/vehicle_control_module": {
     "criteria": {
       "paper": "2023-03-22 20:46:57 +0100"
@@ -16038,6 +16384,12 @@
   "alltheores:recipes/alltheores/steel_gear": {
     "criteria": {
       "has_TagKey[minecraft:item / forge:ingots/steel]_ingot": "2023-03-25 13:50:18 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/quartz": {
+    "criteria": {
+      "has_nether_quartz_ore": "2023-05-06 00:30:01 +0200"
     },
     "done": true
   },
@@ -16228,6 +16580,12 @@
   "minecraft:recipes/decorations/blue_carpet": {
     "criteria": {
       "has_blue_wool": "2023-03-27 18:27:10 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/cut_scoria_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2023-05-06 00:37:04 +0200"
     },
     "done": true
   },
@@ -16731,6 +17089,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_diorite_slab_from_polished_diorite_stonecutting": {
+    "criteria": {
+      "has_polished_diorite": "2023-05-05 22:31:24 +0200"
+    },
+    "done": true
+  },
   "xycraft_world:recipes/xycraft_world/shaped/glass_viewer_phantom_dark_chorus": {
     "criteria": {
       "has_chorus": "2023-03-22 22:12:11 +0100"
@@ -17007,6 +17371,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/copper_shingle_stairs_from_copper_shingles_stonecutting": {
+    "criteria": {
+      "has_copper_shingles": "2023-05-05 23:41:03 +0200"
+    },
+    "done": true
+  },
   "hexcasting:recipes/hexcasting/scroll": {
     "criteria": {
       "has_item": "2023-03-25 18:08:29 +0100"
@@ -17148,6 +17518,12 @@
   "alchemistry:recipes/dissolver/purpur_slab": {
     "criteria": {
       "has_the_recipe": "2023-03-27 23:31:20 +0200"
+    },
+    "done": true
+  },
+  "croptopia:recipes/croptopia.croptopia/kumquat_sapling": {
+    "criteria": {
+      "has_kumquat": "2023-05-05 22:56:31 +0200"
     },
     "done": true
   },
@@ -17812,6 +18188,12 @@
     },
     "done": true
   },
+  "connectedglass:recipes/connectedglass/scratched_glass_gray_pane1": {
+    "criteria": {
+      "recipe_condition": "2023-05-06 00:19:12 +0200"
+    },
+    "done": true
+  },
   "connectedglass:recipes/connectedglass/scratched_glass_gray_pane2": {
     "criteria": {
       "recipe_condition2": "2023-05-03 13:27:57 +0200"
@@ -17869,6 +18251,12 @@
   "computercraft:recipes/computercraft/printer": {
     "criteria": {
       "has_computer": "2023-03-29 22:45:29 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/cut_diorite_brick_slab_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2023-05-06 00:38:11 +0200"
     },
     "done": true
   },
@@ -18160,6 +18548,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/quartz_from_blasting": {
+    "criteria": {
+      "has_nether_quartz_ore": "2023-05-06 00:30:01 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/acacia_planks": {
     "criteria": {
       "has_log": "2023-03-22 21:03:53 +0100"
@@ -18205,6 +18599,12 @@
   "create:recipes/create.palettes/polished_cut_dripstone_from_dripstone_block_stonecutting": {
     "criteria": {
       "has_dripstone_block": "2023-03-25 16:53:35 +0100"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/small_scoria_brick_slab_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2023-05-06 00:37:04 +0200"
     },
     "done": true
   },
@@ -18373,6 +18773,12 @@
   "smallships:recipes/acacia_dhow": {
     "criteria": {
       "in_water": "2023-03-22 17:05:53 +0100"
+    },
+    "done": true
+  },
+  "productivebees:husbandry/bee_cage/quartz_nest/catch_crystalline_bee": {
+    "criteria": {
+      "catch": "2023-05-06 00:43:38 +0200"
     },
     "done": true
   },
@@ -18617,6 +19023,12 @@
     },
     "done": true
   },
+  "connectedglass:recipes/connectedglass/clear_glass_magenta_pane2": {
+    "criteria": {
+      "recipe_condition1": "2023-05-06 00:19:05 +0200"
+    },
+    "done": true
+  },
   "refinedstorage:recipes/refinedstorage/coloring_recipes/orange_pattern_grid": {
     "criteria": {
       "refinedstorage:controller": "2023-03-25 15:09:33 +0100"
@@ -18710,6 +19122,12 @@
   "botania:recipes/botania/black_shiny_flower": {
     "criteria": {
       "has_item": "2023-03-25 16:16:52 +0100"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/connectedglass/scratched_glass_pane1": {
+    "criteria": {
+      "recipe_condition": "2023-05-06 00:19:05 +0200"
     },
     "done": true
   },
@@ -18839,6 +19257,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_diorite_stairs": {
+    "criteria": {
+      "has_polished_diorite": "2023-05-05 22:31:24 +0200"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/cut_andesite_brick_wall_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2023-04-29 18:05:45 +0200"
@@ -18848,6 +19272,12 @@
   "utilitix:recipes/utilitix/mob_yoinker": {
     "criteria": {
       "criterion2": "2023-03-22 19:06:00 +0100"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/connectedglass/clear_glass_magenta2": {
+    "criteria": {
+      "recipe_condition1": "2023-05-06 00:19:00 +0200"
     },
     "done": true
   },
@@ -19055,6 +19485,12 @@
     },
     "done": true
   },
+  "byg:recipes/byg.byg/ebony_planks": {
+    "criteria": {
+      "has_logs": "2023-05-05 22:54:02 +0200"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/combat/spike_to_arrow": {
     "criteria": {
       "has_journal": "2023-03-22 17:39:55 +0100"
@@ -19107,6 +19543,12 @@
   "refinedstorage:recipes/refinedstorage/coloring_recipes/red_network_transmitter": {
     "criteria": {
       "refinedstorage:controller": "2023-03-25 15:09:32 +0100"
+    },
+    "done": true
+  },
+  "productivebees:husbandry/bee_cage": {
+    "criteria": {
+      "get_item": "2023-05-06 01:40:27 +0200"
     },
     "done": true
   },
@@ -19422,6 +19864,12 @@
     },
     "done": true
   },
+  "byg:recipes/byg.byg/ebony_wood": {
+    "criteria": {
+      "has_log": "2023-05-05 22:54:02 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/prismarine": {
     "criteria": {
       "has_prismarine_shard": "2023-03-30 23:42:30 +0200"
@@ -19479,6 +19927,12 @@
   "immersiveengineering:recipes/immersiveengineering/crafting/alu_wallmount": {
     "criteria": {
       "has_aluminum_ingot": "2023-03-22 18:27:56 +0100"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/connectedglass/borderless_glass_light_blue2": {
+    "criteria": {
+      "recipe_condition1": "2023-05-06 00:18:15 +0200"
     },
     "done": true
   },
@@ -19704,6 +20158,12 @@
     },
     "done": true
   },
+  "connectedglass:recipes/connectedglass/borderless_glass_pane3": {
+    "criteria": {
+      "recipe_condition": "2023-05-06 00:18:15 +0200"
+    },
+    "done": true
+  },
   "alchemistry:recipes/dissolver/raw_copper_block": {
     "criteria": {
       "has_the_recipe": "2023-03-22 18:27:58 +0100"
@@ -19779,6 +20239,12 @@
   "extradisks:recipes/extradisks/part/262144k_storage_part": {
     "criteria": {
       "has_prev_part": "2023-04-22 18:52:24 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/polished_cut_scoria_stairs": {
+    "criteria": {
+      "has_polished_cut_scoria": "2023-05-06 00:39:08 +0200"
     },
     "done": true
   },
@@ -20554,6 +21020,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/cut_diorite_brick_stairs_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2023-05-06 00:38:11 +0200"
+    },
+    "done": true
+  },
   "naturescompass:natures_compass": {
     "criteria": {
       "has_compass": "2023-03-22 21:04:28 +0100"
@@ -20596,6 +21068,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/polished_cut_diorite_wall_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2023-05-06 00:38:11 +0200"
+    },
+    "done": true
+  },
   "alltheores:recipes/alltheores/copper_dust_from_hammer_ingot_crushing": {
     "criteria": {
       "has_item": "2023-03-25 21:10:16 +0100"
@@ -20617,6 +21095,12 @@
   "alchemistry:recipes/alchemistry/liquifier": {
     "criteria": {
       "has_item": "2023-03-22 17:08:56 +0100"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/twilightforest/equipment/knightmetal_leggings": {
+    "criteria": {
+      "has_item": "2023-05-06 00:23:47 +0200"
     },
     "done": true
   },
@@ -20815,6 +21299,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/cut_diorite_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2023-05-06 00:38:11 +0200"
+    },
+    "done": true
+  },
   "ae2:recipes/ae2.main/network/cables/dense_smart_white": {
     "criteria": {
       "has_dyes/black": "2023-03-22 17:50:34 +0100"
@@ -20878,6 +21368,12 @@
   "pneumaticcraft:recipes/pneumaticcraft/item_life_upgrade": {
     "criteria": {
       "has_lapis_lazuli": "2023-03-22 17:03:29 +0100"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/cut_diorite_brick_wall_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2023-05-06 00:38:11 +0200"
     },
     "done": true
   },
@@ -21273,6 +21769,12 @@
   "alchemistry:recipes/dissolver/chain": {
     "criteria": {
       "has_the_recipe": "2023-03-22 17:08:32 +0100"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/connectedglass/borderless_glass_lime2": {
+    "criteria": {
+      "recipe_condition1": "2023-05-06 00:18:15 +0200"
     },
     "done": true
   },
@@ -22056,6 +22558,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/cut_diorite_wall_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2023-05-06 00:38:11 +0200"
+    },
+    "done": true
+  },
   "rftoolsbase:recipes/rftoolsbase/machine_frame": {
     "criteria": {
       "iron_ingot": "2023-03-22 17:02:07 +0100"
@@ -22191,6 +22699,12 @@
   "minecraft:recipes/tools/diamond_shovel": {
     "criteria": {
       "has_diamond": "2023-03-22 17:08:32 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_slab_from_polished_granite_stonecutting": {
+    "criteria": {
+      "has_polished_granite": "2023-05-05 23:00:09 +0200"
     },
     "done": true
   },
@@ -22634,6 +23148,12 @@
   "smallships:recipes/lotr_cedar_drakkar": {
     "criteria": {
       "in_water": "2023-03-22 17:43:11 +0100"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/small_scoria_bricks_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2023-05-06 00:37:04 +0200"
     },
     "done": true
   },
@@ -23340,6 +23860,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/small_diorite_brick_wall_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2023-05-06 00:38:11 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/oak/barrel_from_oak_slab_woodcutting": {
     "criteria": {
       "give_recipe": "2023-03-22 19:11:41 +0100"
@@ -23974,6 +24500,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/honey_bottle": {
+    "criteria": {
+      "has_honey_block": "2023-05-06 02:31:13 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/oak/oak_fence_from_oak_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2023-03-22 16:58:55 +0100"
@@ -24601,9 +25133,21 @@
     },
     "done": true
   },
+  "productivebees:husbandry/bee_cage/catch_any_bee": {
+    "criteria": {
+      "catch": "2023-05-06 00:43:38 +0200"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/mixed_salad": {
     "criteria": {
       "has_bowl": "2023-04-30 01:53:08 +0200"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/connectedglass/scratched_glass1": {
+    "criteria": {
+      "recipe_condition": "2023-05-06 00:19:00 +0200"
     },
     "done": true
   },
@@ -25483,6 +26027,12 @@
     },
     "done": true
   },
+  "productivebees:husbandry/bee_cage/quartz_nest/catch_crystalline_bee/breed_iron_bee": {
+    "criteria": {
+      "iron_bee": "2023-05-06 01:56:07 +0200"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/ars_nouveau/scribes_table": {
     "criteria": {
       "has_journal": "2023-03-25 17:12:31 +0100"
@@ -26041,6 +26591,12 @@
     "criteria": {
       "has_the_recipe": "2023-03-22 16:59:29 +0100",
       "recipe_condition": "2023-03-22 16:11:45 +0100"
+    },
+    "done": true
+  },
+  "ftbic:recipes/ftbic/macerating/ores/uranium_to_dust": {
+    "criteria": {
+      "has_item": "2023-05-06 02:38:32 +0200"
     },
     "done": true
   },
@@ -26857,9 +27413,21 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/cut_scoria_wall_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2023-05-06 00:37:04 +0200"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/mangrove_bedside_cabinet": {
     "criteria": {
       "has_log": "2023-03-22 17:08:08 +0100"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/twilightforest/equipment/knightmetal_chestplate": {
+    "criteria": {
+      "has_item": "2023-05-06 00:23:47 +0200"
     },
     "done": true
   },
@@ -27061,6 +27629,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/polished_cut_diorite_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2023-05-06 00:38:11 +0200"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/immersiveengineering/crafting/heavy_engineering": {
     "criteria": {
       "has_component_steel": "2023-03-22 17:02:07 +0100"
@@ -27160,6 +27734,12 @@
   "create:belt": {
     "criteria": {
       "0": "2023-04-22 14:22:04 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/polished_cut_scoria_slab": {
+    "criteria": {
+      "has_polished_cut_scoria": "2023-05-06 00:39:08 +0200"
     },
     "done": true
   },
@@ -28303,6 +28883,12 @@
     },
     "done": true
   },
+  "alchemistry:recipes/dissolver/green_glazed_terracotta": {
+    "criteria": {
+      "has_the_recipe": "2023-05-05 23:00:21 +0200"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/ars_nouveau/red_sbed": {
     "criteria": {
       "has_journal": "2023-03-25 17:12:32 +0100"
@@ -29370,6 +29956,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/copper/waxed_copper_shingle_stairs_from_honeycomb": {
+    "criteria": {
+      "has_unwaxed": "2023-05-05 23:45:20 +0200"
+    },
+    "done": true
+  },
   "reliquary:recipes/reliquary/angelheart_vial": {
     "criteria": {
       "has_fertile_essence": "2023-03-29 21:25:35 +0200"
@@ -29517,6 +30109,12 @@
   "botania:recipes/botania/glass_pickaxe": {
     "criteria": {
       "has_item": "2023-03-22 20:14:57 +0100"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/twilightforest/equipment/knightmetal_ring": {
+    "criteria": {
+      "has_item": "2023-05-06 00:23:47 +0200"
     },
     "done": true
   },
@@ -29715,6 +30313,12 @@
   "refinedstorage:recipes/refinedstorage/coloring_recipes/blue_controller": {
     "criteria": {
       "refinedstorage:controller": "2023-03-25 15:09:32 +0100"
+    },
+    "done": true
+  },
+  "alchemistry:recipes/dissolver/quartz": {
+    "criteria": {
+      "has_the_recipe": "2023-05-06 00:30:01 +0200"
     },
     "done": true
   },
@@ -30182,6 +30786,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/quartz_corner_trim": {
+    "criteria": {
+      "has_corner_trim": "2023-05-05 23:00:30 +0200"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/ars_nouveau/smooth_gilded_sourcestone_mosaic_to_sourcestone": {
     "criteria": {
       "has_journal": "2023-03-25 17:12:31 +0100"
@@ -30263,6 +30873,12 @@
   "alltheores:recipes/alltheores/platinum_gear": {
     "criteria": {
       "has_TagKey[minecraft:item / forge:ingots/platinum]_ingot": "2023-03-29 22:25:11 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/polished_cut_diorite_stairs_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2023-05-06 00:38:11 +0200"
     },
     "done": true
   },
@@ -30975,6 +31591,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/copper/waxed_copper_shingle_slab_from_honeycomb": {
+    "criteria": {
+      "has_unwaxed": "2023-05-05 23:41:43 +0200"
+    },
+    "done": true
+  },
   "mcwfences:recipes/blackstone": {
     "criteria": {
       "has_blackstone": "2023-03-22 16:58:37 +0100"
@@ -31098,6 +31720,12 @@
   "rftoolsbase:recipes/rftoolsbase/machine_base": {
     "criteria": {
       "gold": "2023-03-22 18:00:53 +0100"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/twilightforest/equipment/knightmetal_axe": {
+    "criteria": {
+      "has_item": "2023-05-06 00:23:47 +0200"
     },
     "done": true
   },
@@ -31770,6 +32398,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/green_glazed_terracotta": {
+    "criteria": {
+      "has_green_terracotta": "2023-05-05 23:00:21 +0200"
+    },
+    "done": true
+  },
   "alchemistry:recipes/dissolver/light_blue_concrete_powder": {
     "criteria": {
       "has_the_recipe": "2023-03-22 17:43:09 +0100"
@@ -31869,6 +32503,12 @@
   "minecraft:recipes/building_blocks/magenta_stained_glass": {
     "criteria": {
       "has_glass": "2023-03-22 21:08:02 +0100"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/polished_cut_scoria_wall_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2023-05-06 00:37:04 +0200"
     },
     "done": true
   },
@@ -32314,6 +32954,12 @@
   "byg:recipes/byg.byg/pine_stairs": {
     "criteria": {
       "has_planks": "2023-03-25 14:31:35 +0100"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/connectedglass/clear_glass_lime2": {
+    "criteria": {
+      "recipe_condition1": "2023-05-06 00:19:00 +0200"
     },
     "done": true
   },
@@ -32887,6 +33533,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_diorite_slab": {
+    "criteria": {
+      "has_polished_diorite": "2023-05-05 22:31:24 +0200"
+    },
+    "done": true
+  },
   "minecolonies:recipes/combat/chainmailleggings": {
     "criteria": {
       "has_iron": "2023-03-22 17:08:32 +0100"
@@ -33159,6 +33811,12 @@
     },
     "done": true
   },
+  "connectedglass:recipes/connectedglass/clear_glass_pane3": {
+    "criteria": {
+      "recipe_condition": "2023-05-06 00:19:00 +0200"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/acacia/acacia_bark_trapdoor": {
     "criteria": {
       "has_planks": "2023-03-22 16:58:38 +0100"
@@ -33168,6 +33826,12 @@
   "mcwbridges:recipes/oak_bridge_pier": {
     "criteria": {
       "has_planks": "2023-04-29 21:54:12 +0200"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/connectedglass/clear_glass_pane1": {
+    "criteria": {
+      "recipe_condition": "2023-05-06 00:18:19 +0200"
     },
     "done": true
   },
@@ -34205,6 +34869,12 @@
     },
     "done": true
   },
+  "connectedglass:recipes/connectedglass/borderless_glass_magenta_pane2": {
+    "criteria": {
+      "recipe_condition1": "2023-05-06 00:18:19 +0200"
+    },
+    "done": true
+  },
   "apotheosis:affix/boss": {
     "criteria": {
       "sword": "2023-03-22 20:24:12 +0100"
@@ -34527,6 +35197,12 @@
   "create:recipes/create.palettes/small_calcite_brick_wall_from_calcite_stonecutting": {
     "criteria": {
       "has_calcite": "2023-03-25 22:29:50 +0100"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/connectedglass/clear_glass1": {
+    "criteria": {
+      "recipe_condition": "2023-05-06 00:18:15 +0200"
     },
     "done": true
   },
@@ -34880,6 +35556,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_smelting_nether_gold_ore": {
+    "criteria": {
+      "has_nether_gold_ore": "2023-05-06 02:38:36 +0200"
+    },
+    "done": true
+  },
   "refinedstorage:recipes/refinedstorage/coloring_recipes/black_grid": {
     "criteria": {
       "refinedstorage:controller": "2023-03-25 15:09:32 +0100"
@@ -35099,6 +35781,12 @@
   "cfm:recipes/cfm/blue_kitchen_sink": {
     "criteria": {
       "has_bucket": "2023-03-22 20:02:21 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_stairs_from_polished_diorite_stonecutting": {
+    "criteria": {
+      "has_polished_diorite": "2023-05-05 22:31:24 +0200"
     },
     "done": true
   },
@@ -35382,6 +36070,12 @@
   "create:recipes/create.palettes/polished_cut_diorite_slab_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2023-03-22 19:11:12 +0100"
+    },
+    "done": true
+  },
+  "ftbic:recipes/ftbic/smelting/ores/uranium_to_ingot": {
+    "criteria": {
+      "has_item": "2023-05-06 02:38:32 +0200"
     },
     "done": true
   },
@@ -35901,6 +36595,12 @@
     },
     "done": true
   },
+  "twilightforest:recipes/twilightforest/compressed_blocks/knightmetal_block": {
+    "criteria": {
+      "has_item": "2023-05-06 00:23:47 +0200"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/kinetics/vertical_gearboxfrom_conversion": {
     "criteria": {
       "has_item": "2023-03-26 22:29:30 +0200"
@@ -35953,6 +36653,12 @@
   "xycraft_world:recipes/xycraft_world/stonecutting/matte_xychorium_bricks_green": {
     "criteria": {
       "has_for_matte_xychorium_bricks_green": "2023-04-15 20:23:22 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/polished_cut_scoria_slab_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2023-05-06 00:37:04 +0200"
     },
     "done": true
   },
@@ -36265,6 +36971,12 @@
   "create:recipes/create.palettes/cut_granite_wall_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2023-03-22 20:04:15 +0100"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/cut_scoria_brick_stairs_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2023-05-06 00:37:04 +0200"
     },
     "done": true
   },
@@ -36666,6 +37378,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/layered_scoria_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2023-05-06 00:37:04 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/acacia/acacia_boat_from_acacia_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2023-03-22 20:48:52 +0100"
@@ -36699,6 +37417,12 @@
   "create:recipes/create.palettes/cut_asurine_brick_stairs": {
     "criteria": {
       "has_cut_asurine_bricks": "2023-05-02 21:36:43 +0200"
+    },
+    "done": true
+  },
+  "alltheores:recipes/alltheores/aluminum_ingot_from_block": {
+    "criteria": {
+      "has_item": "2023-05-05 22:42:56 +0200"
     },
     "done": true
   },
@@ -37271,6 +37995,12 @@
   "create:recipes/create.palettes/small_asurine_brick_slab_from_stone_types_asurine_stonecutting": {
     "criteria": {
       "has_stone_types_asurine": "2023-05-02 21:36:43 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/copper_shingle_slab_from_copper_shingles_stonecutting": {
+    "criteria": {
+      "has_copper_shingles": "2023-05-05 23:41:03 +0200"
     },
     "done": true
   },
