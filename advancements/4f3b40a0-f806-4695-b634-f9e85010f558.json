@@ -35185,6 +35185,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/copper/waxed_weathered_copper_shingle_stairs_from_honeycomb": {
+    "criteria": {
+      "has_unwaxed": "2023-05-13 23:24:03 +0200"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/spruce_log_bridge_middle": {
     "criteria": {
       "has_planks": "2023-04-29 21:54:12 +0200"
@@ -36735,6 +36741,12 @@
   "mcwtrpdoors:recipes/bamboo/bamboo_beach_trapdoor": {
     "criteria": {
       "has_planks": "2023-03-22 16:58:39 +0100"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/copper/waxed_exposed_copper_shingle_stairs_from_honeycomb": {
+    "criteria": {
+      "has_unwaxed": "2023-05-13 23:24:48 +0200"
     },
     "done": true
   },
