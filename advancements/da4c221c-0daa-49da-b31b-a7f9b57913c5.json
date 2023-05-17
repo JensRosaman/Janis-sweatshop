@@ -101,6 +101,12 @@
     },
     "done": true
   },
+  "botania:recipes/botania/petal_orange_double": {
+    "criteria": {
+      "has_item": "2023-05-15 20:17:44 +0200"
+    },
+    "done": true
+  },
   "pneumaticcraft:recipes/pneumaticcraft/compressed_brick_from_slab": {
     "criteria": {
       "has_ingot_iron_compressed": "2023-03-22 17:08:06 +0100"
@@ -336,6 +342,12 @@
     },
     "done": true
   },
+  "ae2:recipes/ae2.main/network/cables/dense_smart_cyan": {
+    "criteria": {
+      "has_fluix_smart_dense_cable": "2023-05-15 19:04:00 +0200"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/reinforced_white_stained_glass_pane_from_dye": {
     "criteria": {
       "has_glass": "2023-03-25 15:49:01 +0100"
@@ -564,6 +576,12 @@
     },
     "done": true
   },
+  "ae2:recipes/ae2.main/network/cables/dense_smart_green": {
+    "criteria": {
+      "has_fluix_smart_dense_cable": "2023-05-15 19:04:00 +0200"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/dark_oak_log_bridge_stair": {
     "criteria": {
       "has_planks": "2023-04-29 21:56:56 +0200"
@@ -774,6 +792,12 @@
     },
     "done": true
   },
+  "pneumaticcraft:recipes/pressure_chamber/empty_pcb": {
+    "criteria": {
+      "pressure_chamber_valve": "2023-05-15 19:13:35 +0200"
+    },
+    "done": true
+  },
   "repurposed_structures:villages": {
     "criteria": {
       "in_village_badlands": "2023-03-22 17:02:07 +0100"
@@ -957,6 +981,12 @@
   "comforts:sleeping_bag_purple_from_white": {
     "criteria": {
       "has_sleeping_bag": "2023-03-22 17:50:34 +0100"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/pneumaticcraft_fuels/kerosene": {
+    "criteria": {
+      "liquid_compressor": "2023-05-15 20:18:50 +0200"
     },
     "done": true
   },
@@ -1291,6 +1321,18 @@
     },
     "done": true
   },
+  "pneumaticcraft:vortex_tube": {
+    "criteria": {
+      "0": "2023-05-15 19:47:17 +0200"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/pressure_chamber/ice": {
+    "criteria": {
+      "pressure_chamber_valve": "2023-05-15 19:13:35 +0200"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/ars_nouveau/sourcestone_large_bricks_to_sourcestone": {
     "criteria": {
       "has_journal": "2023-03-22 18:47:30 +0100"
@@ -1612,6 +1654,12 @@
     },
     "done": true
   },
+  "appbot:recipes/appbot.tab/portable_mana_storage_cell_256k": {
+    "criteria": {
+      "has_energy_cell": "2023-05-15 19:07:03 +0200"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/immersiveengineering/crafting/alu_wallmount": {
     "criteria": {
       "has_aluminum_ingot": "2023-03-25 15:12:46 +0100"
@@ -1807,6 +1855,12 @@
   "ars_nouveau:recipes/ars_nouveau/volcanic_sourcelink": {
     "criteria": {
       "has_journal": "2023-03-26 13:37:11 +0200"
+    },
+    "done": true
+  },
+  "naturesaura:get_book": {
+    "criteria": {
+      "book": "2023-05-15 23:05:57 +0200"
     },
     "done": true
   },
@@ -3108,6 +3162,12 @@
     },
     "done": true
   },
+  "pneumaticcraft:recipes/pneumaticcraft/display_table_from_shelf": {
+    "criteria": {
+      "has_reinforced_stone": "2023-05-15 19:11:55 +0200"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/bamboo/bamboo_glass_trapdoor": {
     "criteria": {
       "has_planks": "2023-03-22 17:02:07 +0100"
@@ -3147,6 +3207,12 @@
   "pneumaticcraft:recipes/pneumaticcraft/small_tank": {
     "criteria": {
       "has_ingot_iron_compressed": "2023-03-25 17:24:39 +0100"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/pneumaticcraft/reinforced_stone_slab_from_stone_stonecutting": {
+    "criteria": {
+      "has_reinforced_stone": "2023-05-15 19:11:55 +0200"
     },
     "done": true
   },
@@ -3511,6 +3577,12 @@
     },
     "done": true
   },
+  "appbot:recipes/appbot.tab/portable_mana_storage_cell_16k": {
+    "criteria": {
+      "has_energy_cell": "2023-05-15 19:07:03 +0200"
+    },
+    "done": true
+  },
   "minecraft:story/shiny_gear": {
     "criteria": {
       "diamond_chestplate": "2023-03-22 16:58:54 +0100"
@@ -3790,6 +3862,12 @@
     },
     "done": true
   },
+  "minecolonies:recipes/decorations/doublegrass": {
+    "criteria": {
+      "has_grass": "2023-05-15 23:24:43 +0200"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/cut_scorchia_brick_slab_from_scorchia_stonecutting": {
     "criteria": {
       "has_scorchia": "2023-03-25 13:22:31 +0100"
@@ -3808,9 +3886,21 @@
     },
     "done": true
   },
+  "pneumaticcraft:recipes/pressure_chamber/wheat_flour": {
+    "criteria": {
+      "pressure_chamber_valve": "2023-05-15 19:13:35 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_mutton_from_grill_cooking": {
     "criteria": {
       "has_mutton": "2023-03-27 15:36:45 +0200"
+    },
+    "done": true
+  },
+  "ae2:recipes/ae2.main/network/cables/dense_smart_white": {
+    "criteria": {
+      "has_fluix_smart_dense_cable": "2023-05-15 19:04:00 +0200"
     },
     "done": true
   },
@@ -3961,6 +4051,12 @@
   "alltheores:recipes/misc/gold_ingot_from_dust": {
     "criteria": {
       "has_item": "2023-03-27 21:30:05 +0200"
+    },
+    "done": true
+  },
+  "ae2:recipes/ae2.main/network/cables/dense_smart_fluix_clean": {
+    "criteria": {
+      "has_smart_dense_cable": "2023-05-15 19:04:00 +0200"
     },
     "done": true
   },
@@ -5100,6 +5196,18 @@
   "create:recipes/create.palettes/polished_cut_scoria_from_scoria_stonecutting": {
     "criteria": {
       "has_scoria": "2023-03-27 17:28:20 +0200"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/connectedglass/scratched_glass_white_pane2": {
+    "criteria": {
+      "recipe_condition2": "2023-05-15 20:43:01 +0200"
+    },
+    "done": true
+  },
+  "ae2:recipes/ae2.main/network/blocks/quantum_ring": {
+    "criteria": {
+      "has_fluix_smart_dense_cable": "2023-05-15 19:04:00 +0200"
     },
     "done": true
   },
@@ -6853,6 +6961,12 @@
     },
     "done": true
   },
+  "ae2:recipes/ae2.main/network/cables/dense_smart_orange": {
+    "criteria": {
+      "has_fluix_smart_dense_cable": "2023-05-15 19:04:01 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/birch/birch_boat_from_birch_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2023-03-22 22:15:19 +0100"
@@ -7196,6 +7310,12 @@
     },
     "done": true
   },
+  "ae2:recipes/ae2.main/tools/portable_item_cell_4k": {
+    "criteria": {
+      "has_energy_cell": "2023-05-15 19:07:03 +0200"
+    },
+    "done": true
+  },
   "alltheores:recipes/alltheores/silver_gear": {
     "criteria": {
       "has_TagKey[minecraft:item / forge:ingots/silver]_ingot": "2023-03-26 15:38:38 +0200"
@@ -7280,6 +7400,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/lime_dye": {
+    "criteria": {
+      "has_white_dye": "2023-05-15 20:43:01 +0200"
+    },
+    "done": true
+  },
   "alltheores:recipes/alltheores/aluminum_gear": {
     "criteria": {
       "has_TagKey[minecraft:item / forge:ingots/aluminum]_ingot": "2023-03-25 15:12:46 +0100"
@@ -7295,6 +7421,12 @@
   "corail_woodcutter:recipes/from_twilight_oak_planks": {
     "criteria": {
       "has_ingredient": "2023-03-22 17:03:53 +0100"
+    },
+    "done": true
+  },
+  "ae2:recipes/ae2.main/network/blocks/spatial_io_port": {
+    "criteria": {
+      "has_engineering_processor": "2023-05-15 19:06:50 +0200"
     },
     "done": true
   },
@@ -8146,6 +8278,12 @@
     },
     "done": true
   },
+  "ae2:recipes/ae2.main/tools/portable_item_cell_1k": {
+    "criteria": {
+      "has_energy_cell": "2023-05-15 19:07:03 +0200"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/trophy_system": {
     "criteria": {
       "has_iron": "2023-03-22 17:05:45 +0100"
@@ -8430,6 +8568,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/light_gray_dye_from_gray_white_dye": {
+    "criteria": {
+      "has_white_dye": "2023-05-15 20:43:01 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/acacia_sign": {
     "criteria": {
       "has_planks": "2023-03-22 16:02:06 +0100"
@@ -8566,6 +8710,12 @@
   "reliquary:recipes/reliquary/mob_charm_fragments/skeleton": {
     "criteria": {
       "has_rib_bone": "2023-03-22 22:16:43 +0100"
+    },
+    "done": true
+  },
+  "ae2:recipes/ae2.main/network/cells/item_storage_components_cell_1k_part": {
+    "criteria": {
+      "has_logic_processor": "2023-05-15 19:06:47 +0200"
     },
     "done": true
   },
@@ -8821,6 +8971,12 @@
     },
     "done": true
   },
+  "pneumaticcraft:recipes/pressure_chamber/compressed_iron_ingot": {
+    "criteria": {
+      "pressure_chamber_valve": "2023-05-15 19:13:35 +0200"
+    },
+    "done": true
+  },
   "smallships:recipes/birch_dhow": {
     "criteria": {
       "in_water": "2023-03-22 17:05:45 +0100"
@@ -8842,6 +8998,12 @@
   "cfm:recipes/cfm/oak_kitchen_counter": {
     "criteria": {
       "has_planks": "2023-03-27 20:44:43 +0200"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/pneumaticcraft_fuels/ethanol": {
+    "criteria": {
+      "liquid_compressor": "2023-05-15 20:18:50 +0200"
     },
     "done": true
   },
@@ -9578,6 +9740,12 @@
     },
     "done": true
   },
+  "ae2:recipes/ae2.main/tools/portable_item_cell_256k": {
+    "criteria": {
+      "has_energy_cell": "2023-05-15 19:07:03 +0200"
+    },
+    "done": true
+  },
   "botania:recipes/botania/magenta_shiny_flower": {
     "criteria": {
       "has_item": "2023-03-27 17:42:34 +0200"
@@ -9665,6 +9833,12 @@
   "additionallanterns:recipes/additionallanterns/normal_lantern_colorless": {
     "criteria": {
       "recipe_condition": "2023-03-26 16:58:55 +0200"
+    },
+    "done": true
+  },
+  "merequester:recipes/requester": {
+    "criteria": {
+      "has_item": "2023-05-15 19:06:50 +0200"
     },
     "done": true
   },
@@ -10191,6 +10365,12 @@
     },
     "done": true
   },
+  "ae2:recipes/ae2.main/network/cells/spatial_components": {
+    "criteria": {
+      "has_engineering_processor": "2023-05-15 19:06:50 +0200"
+    },
+    "done": true
+  },
   "xycraft_override:recipes/xycraft_override/shaped/end_stone_bricks_red_r": {
     "criteria": {
       "has_end_stone_bricks": "2023-03-22 21:44:31 +0100"
@@ -10522,6 +10702,12 @@
     },
     "done": false
   },
+  "minecraft:recipes/redstone/redstone_lamp": {
+    "criteria": {
+      "has_glowstone": "2023-05-15 22:58:03 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/mossy_cobblestone_slab_from_mossy_cobblestone_stonecutting": {
     "criteria": {
       "has_mossy_cobblestone": "2023-04-01 01:13:03 +0200"
@@ -10732,6 +10918,12 @@
     },
     "done": true
   },
+  "ae2:recipes/ae2.main/network/blocks/energy_dense_energy_cell": {
+    "criteria": {
+      "has_energy_cell": "2023-05-15 19:07:03 +0200"
+    },
+    "done": true
+  },
   "utilitix:recipes/utilitix/jungle_shulker_boat_with_shell": {
     "criteria": {
       "criterion0": "2023-04-02 16:45:42 +0200"
@@ -10777,6 +10969,12 @@
   "ars_nouveau:recipes/ars_nouveau/sourcestone_13": {
     "criteria": {
       "has_journal": "2023-03-26 13:37:12 +0200"
+    },
+    "done": true
+  },
+  "ae2:recipes/ae2.main/tools/portable_item_cell_16k": {
+    "criteria": {
+      "has_energy_cell": "2023-05-15 19:07:03 +0200"
     },
     "done": true
   },
@@ -10847,6 +11045,12 @@
     },
     "done": true
   },
+  "naturesaura:end_flower": {
+    "criteria": {
+      "materials": "2023-05-15 22:56:49 +0200"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/polished_cut_tuff_from_tuff_stonecutting": {
     "criteria": {
       "has_tuff": "2023-03-25 16:33:49 +0100"
@@ -10862,6 +11066,12 @@
   "alltheores:recipes/alltheores/raw_nickel_block": {
     "criteria": {
       "has_raw_TagKey[minecraft:item / forge:raw_materials/nickel]": "2023-03-25 13:26:44 +0100"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/connectedglass/clear_glass_white_pane2": {
+    "criteria": {
+      "recipe_condition2": "2023-05-15 20:43:01 +0200"
     },
     "done": true
   },
@@ -11178,6 +11388,12 @@
     },
     "done": true
   },
+  "pneumaticcraft:recipes/pressure_chamber/etching_acid": {
+    "criteria": {
+      "pressure_chamber_valve": "2023-05-15 19:13:35 +0200"
+    },
+    "done": true
+  },
   "botania:recipes/botania/fel_pumpkin": {
     "criteria": {
       "has_item": "2023-03-22 17:03:28 +0100"
@@ -11378,6 +11594,12 @@
     },
     "done": true
   },
+  "pneumaticcraft:recipes/pneumaticcraft_fuels/lpg": {
+    "criteria": {
+      "liquid_compressor": "2023-05-15 20:18:50 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/deepslate_tile_wall_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2023-03-22 20:28:51 +0100"
@@ -11550,6 +11772,12 @@
   "connectedglass:recipes/connectedglass/scratched_glass_red2": {
     "criteria": {
       "recipe_condition2": "2023-05-07 20:55:26 +0200"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/pressure_chamber/blue_ice": {
+    "criteria": {
+      "pressure_chamber_valve": "2023-05-15 19:13:35 +0200"
     },
     "done": true
   },
@@ -12010,6 +12238,12 @@
     },
     "done": true
   },
+  "pneumaticcraft:recipes/pneumaticcraft/reinforced_bricks_from_tile_stonecutting": {
+    "criteria": {
+      "has_reinforced_stone": "2023-05-15 19:11:55 +0200"
+    },
+    "done": true
+  },
   "computercraft:recipes/computercraft/computer_advanced": {
     "criteria": {
       "has_components": "2023-03-22 22:23:55 +0100"
@@ -12431,6 +12665,12 @@
     },
     "done": true
   },
+  "pneumaticcraft:recipes/pressure_chamber/transistor": {
+    "criteria": {
+      "pressure_chamber_valve": "2023-05-15 19:13:35 +0200"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/oak_kitchen_sink_dark": {
     "criteria": {
       "has_bottom": "2023-03-22 17:02:08 +0100"
@@ -12737,6 +12977,12 @@
     },
     "done": true
   },
+  "ae2:recipes/ae2.main/materials/formationcore": {
+    "criteria": {
+      "has_logic_processor": "2023-05-15 19:06:47 +0200"
+    },
+    "done": true
+  },
   "tombstone:adventure/strong_or_careful": {
     "criteria": {
       "coded_trigger": "2023-03-22 21:41:33 +0100"
@@ -12843,6 +13089,12 @@
   "minecraft:recipes/woodcutting/mahogany/mahogany_door_from_mahogany_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2023-03-27 22:09:03 +0200"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/pressure_chamber/capacitor": {
+    "criteria": {
+      "pressure_chamber_valve": "2023-05-15 19:13:35 +0200"
     },
     "done": true
   },
@@ -12996,6 +13248,12 @@
     },
     "done": true
   },
+  "pneumaticcraft:recipes/pneumaticcraft/reinforced_bricks_from_stone_stonecutting": {
+    "criteria": {
+      "has_reinforced_stone": "2023-05-15 19:11:55 +0200"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/warped/warped_glass_trapdoor": {
     "criteria": {
       "has_planks": "2023-03-22 16:58:39 +0100"
@@ -13005,6 +13263,12 @@
   "minecraft:story/mine_diamond": {
     "criteria": {
       "diamond": "2023-03-22 18:12:48 +0100"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/pressure_chamber/turbine_blade": {
+    "criteria": {
+      "pressure_chamber_valve": "2023-05-15 19:13:35 +0200"
     },
     "done": true
   },
@@ -13047,6 +13311,12 @@
   "minecraft:recipes/building_blocks/cyan_concrete_powder": {
     "criteria": {
       "has_sand": "2023-03-22 17:52:24 +0100"
+    },
+    "done": true
+  },
+  "ae2:recipes/ae2.main/network/cables/dense_smart_pink": {
+    "criteria": {
+      "has_fluix_smart_dense_cable": "2023-05-15 19:04:01 +0200"
     },
     "done": true
   },
@@ -13989,6 +14259,12 @@
     },
     "done": true
   },
+  "pneumaticcraft:air_compressor": {
+    "criteria": {
+      "0": "2023-05-15 20:26:27 +0200"
+    },
+    "done": true
+  },
   "smallships:recipes/lotr_larch_brigg": {
     "criteria": {
       "in_water": "2023-03-22 17:05:40 +0100"
@@ -14016,6 +14292,12 @@
   "alltheores:recipes/alltheores/zinc_dust_from_hammer_ingot_crushing": {
     "criteria": {
       "has_item": "2023-03-26 14:02:05 +0200"
+    },
+    "done": true
+  },
+  "appbot:recipes/appbot.tab/portable_mana_storage_cell_1k": {
+    "criteria": {
+      "has_energy_cell": "2023-05-15 19:07:03 +0200"
     },
     "done": true
   },
@@ -14245,6 +14527,12 @@
   "mekanism:radiation_poisoning": {
     "criteria": {
       "poisoned": "2023-05-04 00:22:37 +0200"
+    },
+    "done": true
+  },
+  "appbot:recipes/appbot.tab/portable_mana_storage_cell_4k": {
+    "criteria": {
+      "has_energy_cell": "2023-05-15 19:07:03 +0200"
     },
     "done": true
   },
@@ -14725,6 +15013,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/blue_ice_from_freezing": {
+    "criteria": {
+      "has_packed_ice": "2023-05-15 19:49:48 +0200"
+    },
+    "done": true
+  },
   "silentgear:recipes/silentgear/raw_crimson_iron_block": {
     "criteria": {
       "has_item": "2023-03-25 13:21:20 +0100"
@@ -14965,6 +15259,12 @@
     },
     "done": true
   },
+  "ae2:recipes/ae2.main/network/blocks/security_station": {
+    "criteria": {
+      "has_engineering_processor": "2023-05-15 19:06:50 +0200"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/birch_desk_cabinet": {
     "criteria": {
       "has_log": "2023-03-22 18:08:02 +0100"
@@ -15016,6 +15316,12 @@
   "minecraft:story/iron_tools": {
     "criteria": {
       "iron_pickaxe": "2023-03-27 20:43:26 +0200"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/pressure_chamber/packed_ice": {
+    "criteria": {
+      "pressure_chamber_valve": "2023-05-15 19:13:35 +0200"
     },
     "done": true
   },
@@ -15296,6 +15602,12 @@
     },
     "done": true
   },
+  "pneumaticcraft:recipes/pneumaticcraft/display_table": {
+    "criteria": {
+      "has_reinforced_stone": "2023-05-15 19:11:55 +0200"
+    },
+    "done": true
+  },
   "rftoolsutility:recipes/rftoolsutility/energy_module": {
     "criteria": {
       "ingot": "2023-03-22 17:43:08 +0100"
@@ -15428,6 +15740,12 @@
     },
     "done": true
   },
+  "ae2:recipes/ae2.main/tools/portable_fluid_cell_64k": {
+    "criteria": {
+      "has_energy_cell": "2023-05-15 19:07:03 +0200"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/white_kitchen_counter": {
     "criteria": {
       "has_stone": "2023-03-22 19:09:27 +0100"
@@ -15473,6 +15791,12 @@
   "cfm:recipes/cfm/purple_cooler": {
     "criteria": {
       "has_chest": "2023-03-22 17:39:05 +0100"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/pressure_chamber/solar_wafer": {
+    "criteria": {
+      "pressure_chamber_valve": "2023-05-15 19:13:35 +0200"
     },
     "done": true
   },
@@ -15676,6 +16000,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/acacia_hedge": {
+    "criteria": {
+      "has_leaves": "2023-05-15 23:24:39 +0200"
+    },
+    "done": true
+  },
   "ae2:recipes/tools/tools/nether_quartz_axe": {
     "criteria": {
       "has_nether_quartz": "2023-03-22 17:05:53 +0100"
@@ -15697,6 +16027,12 @@
   "alchemistry:recipes/dissolver/slime_block": {
     "criteria": {
       "has_the_recipe": "2023-03-22 19:11:12 +0100"
+    },
+    "done": true
+  },
+  "ae2:recipes/ae2.main/tools/portable_fluid_cell_1k": {
+    "criteria": {
+      "has_energy_cell": "2023-05-15 19:07:03 +0200"
     },
     "done": true
   },
@@ -15763,6 +16099,12 @@
   "minecraft:recipes/building_blocks/cracked_stone_bricks": {
     "criteria": {
       "has_stone_bricks": "2023-03-27 22:04:28 +0200"
+    },
+    "done": true
+  },
+  "alchemistry:recipes/dissolver/blue_ice": {
+    "criteria": {
+      "has_the_recipe": "2023-05-15 19:49:48 +0200"
     },
     "done": true
   },
@@ -16078,6 +16420,12 @@
     },
     "done": true
   },
+  "ae2:recipes/ae2.main/tools/portable_fluid_cell_4k": {
+    "criteria": {
+      "has_energy_cell": "2023-05-15 19:07:03 +0200"
+    },
+    "done": true
+  },
   "ae2:main/fluix": {
     "criteria": {
       "certus": "2023-05-07 20:58:32 +0200"
@@ -16132,6 +16480,12 @@
     },
     "done": true
   },
+  "appbot:recipes/appbot.tab/portable_mana_storage_cell_64k": {
+    "criteria": {
+      "has_energy_cell": "2023-05-15 19:07:03 +0200"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/gray_kitchen_counter": {
     "criteria": {
       "has_stone": "2023-03-22 17:50:53 +0100"
@@ -16159,6 +16513,12 @@
   "apotheosis:enchanting/100ench": {
     "criteria": {
       "enchanted_item": "2023-04-29 18:08:35 +0200"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/pneumaticcraft_fuels/crude_oil": {
+    "criteria": {
+      "liquid_compressor": "2023-05-15 20:18:50 +0200"
     },
     "done": true
   },
@@ -16546,6 +16906,12 @@
     },
     "done": true
   },
+  "ae2:recipes/ae2.main/materials/annihilationcore": {
+    "criteria": {
+      "has_logic_processor": "2023-05-15 19:06:46 +0200"
+    },
+    "done": true
+  },
   "smallships:recipes/bop_palm_brigg": {
     "criteria": {
       "in_water": "2023-03-22 16:05:45 +0100"
@@ -16567,6 +16933,12 @@
   "minecraft:recipes/redstone/acacia_trapdoor": {
     "criteria": {
       "has_planks": "2023-03-22 17:42:06 +0100"
+    },
+    "done": true
+  },
+  "xycraft_world:recipes/xycraft_world/stonecutting/matte_xychorium_bricks_light": {
+    "criteria": {
+      "has_for_matte_xychorium_bricks_light": "2023-05-15 23:11:19 +0200"
     },
     "done": true
   },
@@ -16723,6 +17095,12 @@
   "create:recipes/create.base/crafting/appliances/crafting_blueprint": {
     "criteria": {
       "has_item": "2023-03-22 17:22:41 +0100"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/pneumaticcraft/reinforced_brick_wall_from_bricks_stonecutting": {
+    "criteria": {
+      "has_reinforced_stone": "2023-05-15 19:11:55 +0200"
     },
     "done": true
   },
@@ -17106,6 +17484,12 @@
     },
     "done": true
   },
+  "ae2:recipes/ae2.main/network/blocks/storage_drive": {
+    "criteria": {
+      "has_engineering_processor": "2023-05-15 19:06:50 +0200"
+    },
+    "done": true
+  },
   "littlelogistics:recipes/transportation/receiver_component": {
     "criteria": {
       "has_item": "2023-04-30 00:41:01 +0200"
@@ -17254,6 +17638,12 @@
   "additionallanterns:recipes/misc/normal_lantern_yellow": {
     "criteria": {
       "recipe_condition": "2023-03-22 20:04:08 +0100"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/pneumaticcraft/compressed_iron_ingot_from_block": {
+    "criteria": {
+      "has_compressed_iron_block": "2023-05-15 20:17:43 +0200"
     },
     "done": true
   },
@@ -17452,6 +17842,12 @@
   "ftbic:recipes/misc/separating/flint": {
     "criteria": {
       "has_item": "2023-03-25 16:37:22 +0100"
+    },
+    "done": true
+  },
+  "appmek:recipes/appmek/portable_chemical_storage_cell_16k": {
+    "criteria": {
+      "has_energy_cell": "2023-05-15 19:07:03 +0200"
     },
     "done": true
   },
@@ -17765,6 +18161,12 @@
     "criteria": {
       "has_the_recipe": "2023-03-22 17:26:52 +0100",
       "recipe_condition": "2023-03-22 18:27:56 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_candle": {
+    "criteria": {
+      "has_white_dye": "2023-05-15 20:43:01 +0200"
     },
     "done": true
   },
@@ -18207,6 +18609,12 @@
     },
     "done": true
   },
+  "pneumaticcraft:pressure_chamber": {
+    "criteria": {
+      "0": "2023-05-15 19:20:47 +0200"
+    },
+    "done": true
+  },
   "mcwfences:recipes/mud_brick": {
     "criteria": {
       "has_qq": "2023-03-25 13:49:21 +0100"
@@ -18414,6 +18822,18 @@
   "mcwbridges:recipes/warped_rail_bridge": {
     "criteria": {
       "has_planks": "2023-03-25 15:09:32 +0100"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/pneumaticcraft/reinforced_brick_slab_from_bricks_stonecutting": {
+    "criteria": {
+      "has_reinforced_stone": "2023-05-15 19:11:55 +0200"
+    },
+    "done": true
+  },
+  "ae2:recipes/ae2.main/network/cables/glass_white": {
+    "criteria": {
+      "has_dyes/black": "2023-05-15 20:43:01 +0200"
     },
     "done": true
   },
@@ -19099,6 +19519,12 @@
     },
     "done": true
   },
+  "appmek:recipes/appmek/portable_chemical_storage_cell_4k": {
+    "criteria": {
+      "has_energy_cell": "2023-05-15 19:07:03 +0200"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/cut_asurine_stairs_from_asurine_stonecutting": {
     "criteria": {
       "has_asurine": "2023-03-22 20:28:51 +0100"
@@ -19327,6 +19753,12 @@
     },
     "done": true
   },
+  "ae2:recipes/ae2.main/network/cables/dense_smart_yellow": {
+    "criteria": {
+      "has_fluix_smart_dense_cable": "2023-05-15 19:04:01 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/acacia/acacia_door_from_acacia_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2023-03-22 17:50:34 +0100"
@@ -19354,6 +19786,18 @@
   "botania:recipes/botania/sextant": {
     "criteria": {
       "has_item": "2023-03-27 17:26:58 +0200"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/pneumaticcraft_fuels/diesel": {
+    "criteria": {
+      "liquid_compressor": "2023-05-15 20:18:50 +0200"
+    },
+    "done": true
+  },
+  "xycraft_world:recipes/xycraft_world/stonecutting/inverted_tiles_cloud_light": {
+    "criteria": {
+      "has_for_inverted_tiles_cloud_light": "2023-05-15 23:11:19 +0200"
     },
     "done": true
   },
@@ -19617,6 +20061,12 @@
     },
     "done": true
   },
+  "connectedglass:recipes/connectedglass/clear_glass_white2": {
+    "criteria": {
+      "recipe_condition2": "2023-05-15 20:43:01 +0200"
+    },
+    "done": true
+  },
   "xycraft_world:recipes/xycraft_world/shaped/aluminum_torch_raw": {
     "criteria": {
       "has_aluminum": "2023-03-25 13:24:45 +0100"
@@ -19725,6 +20175,12 @@
     },
     "done": true
   },
+  "ae2:recipes/ae2.main/network/cables/dense_covered_white": {
+    "criteria": {
+      "has_dyes/black": "2023-05-15 20:43:01 +0200"
+    },
+    "done": true
+  },
   "minecraft:husbandry/root": {
     "criteria": {
       "consumed_item": "2023-03-22 17:05:21 +0100"
@@ -19764,6 +20220,12 @@
   "apotheosis:affix/chests": {
     "criteria": {
       "sword": "2023-03-22 17:43:08 +0100"
+    },
+    "done": true
+  },
+  "appmek:recipes/appmek/portable_chemical_storage_cell_1k": {
+    "criteria": {
+      "has_energy_cell": "2023-05-15 19:07:03 +0200"
     },
     "done": true
   },
@@ -19875,6 +20337,12 @@
     },
     "done": true
   },
+  "ae2:recipes/ae2.main/network/cables/smart_white": {
+    "criteria": {
+      "has_dyes/black": "2023-05-15 20:43:01 +0200"
+    },
+    "done": true
+  },
   "smallships:recipes/envi_willow_rowboat": {
     "criteria": {
       "in_water": "2023-03-22 17:05:33 +0100"
@@ -19929,9 +20397,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/blue_ice": {
+    "criteria": {
+      "has_packed_ice": "2023-05-15 19:49:48 +0200"
+    },
+    "done": true
+  },
   "xycraft_world:recipes/xycraft_world/shaped/aluminum_bricks_cloud_blue_r": {
     "criteria": {
       "has_ingots/aluminum": "2023-03-25 15:12:46 +0100"
+    },
+    "done": true
+  },
+  "ae2:recipes/ae2.main/network/cables/dense_smart_brown": {
+    "criteria": {
+      "has_fluix_smart_dense_cable": "2023-05-15 19:04:01 +0200"
     },
     "done": true
   },
@@ -20067,6 +20547,12 @@
     },
     "done": true
   },
+  "ae2:recipes/ae2.main/network/parts/tunnels_me": {
+    "criteria": {
+      "has_engineering_processor": "2023-05-15 19:06:50 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/smooth_stone_slab_from_smooth_stone_stonecutting": {
     "criteria": {
       "has_smooth_stone": "2023-03-25 15:09:32 +0100"
@@ -20178,6 +20664,12 @@
   "ftbic:recipes/ftbic/smelting/raw_materials/tin_to_ingot": {
     "criteria": {
       "has_item": "2023-03-25 21:30:41 +0100"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/connectedglass/tinted_borderless_glass_white2": {
+    "criteria": {
+      "recipe_condition2": "2023-05-15 20:43:01 +0200"
     },
     "done": true
   },
@@ -20416,6 +20908,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/white_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_white_dye": "2023-05-15 20:43:01 +0200"
+    },
+    "done": true
+  },
   "xycraft_override:recipes/xycraft_override/shaped/stone_bricks_green_r": {
     "criteria": {
       "has_stone_bricks": "2023-03-27 23:04:30 +0200"
@@ -20432,6 +20930,12 @@
     "criteria": {
       "has_the_recipe": "2023-04-19 22:39:45 +0200",
       "recipe_condition": "2023-04-19 22:39:45 +0200"
+    },
+    "done": true
+  },
+  "megacells:recipes/megacells.tab/crafting/mega_crafting_unit": {
+    "criteria": {
+      "has_logic_processor": "2023-05-15 19:06:46 +0200"
     },
     "done": true
   },
@@ -20939,6 +21443,18 @@
     },
     "done": true
   },
+  "pneumaticcraft:recipes/pressure_chamber/coal_to_diamond": {
+    "criteria": {
+      "pressure_chamber_valve": "2023-05-15 19:13:35 +0200"
+    },
+    "done": true
+  },
+  "ae2:recipes/ae2.main/network/parts/terminals": {
+    "criteria": {
+      "has_logic_processor": "2023-05-15 19:06:46 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/dark_oak/dark_oak_pressure_plate_from_dark_oak_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2023-03-22 17:07:55 +0100"
@@ -21205,6 +21721,12 @@
     },
     "done": true
   },
+  "ae2:recipes/ae2.main/network/cables/dense_smart_light_blue": {
+    "criteria": {
+      "has_fluix_smart_dense_cable": "2023-05-15 19:04:00 +0200"
+    },
+    "done": true
+  },
   "mcwroofs:recipes/dark_oak": {
     "criteria": {
       "has_planks": "2023-03-22 17:02:53 +0100"
@@ -21325,6 +21847,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/display_case": {
+    "criteria": {
+      "has_item_frame": "2023-05-15 23:09:56 +0200"
+    },
+    "done": true
+  },
   "byg:recipes/byg.byg/witch_hazel_chest_boat": {
     "criteria": {
       "has_boat": "2023-03-03 20:17:33 +0100"
@@ -21427,6 +21955,12 @@
     },
     "done": true
   },
+  "pneumaticcraft:recipes/pressure_chamber/compressed_stone": {
+    "criteria": {
+      "pressure_chamber_valve": "2023-05-15 19:13:35 +0200"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/bamboo_bridge_stair": {
     "criteria": {
       "has_planks": "2023-03-25 16:51:54 +0100"
@@ -21457,6 +21991,12 @@
     },
     "done": true
   },
+  "ae2:recipes/ae2.main/tools/misctools_entropy_manipulator": {
+    "criteria": {
+      "has_engineering_processor": "2023-05-15 19:06:50 +0200"
+    },
+    "done": true
+  },
   "pneumaticcraft:recipes/pneumaticcraft/compressed_brick_tile_from_bricks_stonecutting": {
     "criteria": {
       "has_compressed_stone": "2023-03-25 13:18:02 +0100"
@@ -21478,6 +22018,12 @@
   "sophisticatedbackpacks:recipes/sophisticatedbackpacks/blasting_upgrade": {
     "criteria": {
       "has_upgrade_base": "2023-03-22 22:30:27 +0100"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/pneumaticcraft/reinforced_brick_tile_from_bricks_stonecutting": {
+    "criteria": {
+      "has_reinforced_stone": "2023-05-15 19:11:55 +0200"
     },
     "done": true
   },
@@ -21766,6 +22312,12 @@
   "minecraft:recipes/building_blocks/polished_deepslate_slab_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2023-04-30 01:24:45 +0200"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/connectedglass/borderless_glass_white2": {
+    "criteria": {
+      "recipe_condition2": "2023-05-15 20:43:01 +0200"
     },
     "done": true
   },
@@ -22125,6 +22677,12 @@
     },
     "done": true
   },
+  "ae2:recipes/ae2.main/tools/portable_fluid_cell_256k": {
+    "criteria": {
+      "has_energy_cell": "2023-05-15 19:07:03 +0200"
+    },
+    "done": true
+  },
   "byg:recipes/byg.byg/cypress_chest_boat": {
     "criteria": {
       "has_boat": "2023-03-22 19:31:45 +0100"
@@ -22457,6 +23015,12 @@
     },
     "done": true
   },
+  "ae2:recipes/ae2.main/network/cables/dense_smart_gray": {
+    "criteria": {
+      "has_fluix_smart_dense_cable": "2023-05-15 19:04:01 +0200"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/mangrove_cabinet": {
     "criteria": {
       "has_log": "2023-03-22 17:52:23 +0100"
@@ -22553,6 +23117,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/glow_display_case": {
+    "criteria": {
+      "has_item_frame": "2023-05-15 23:09:47 +0200"
+    },
+    "done": true
+  },
   "aquaculture:recipes/aquaculture/bobber": {
     "criteria": {
       "has_items": "2023-03-22 17:02:08 +0100"
@@ -22613,6 +23183,12 @@
     },
     "done": true
   },
+  "ae2:recipes/ae2.main/tools/portable_item_cell_64k": {
+    "criteria": {
+      "has_energy_cell": "2023-05-15 19:07:03 +0200"
+    },
+    "done": true
+  },
   "smallships:recipes/lotr_larch_dhow": {
     "criteria": {
       "in_water": "2023-03-22 17:00:42 +0100"
@@ -22628,6 +23204,12 @@
   "tombstone:adventure/ambush": {
     "criteria": {
       "coded_trigger": "2023-03-22 18:05:45 +0100"
+    },
+    "done": true
+  },
+  "pneumaticcraft:machine_vandal": {
+    "criteria": {
+      "0": "2023-05-15 19:18:29 +0200"
     },
     "done": true
   },
@@ -22734,6 +23316,12 @@
     },
     "done": true
   },
+  "naturesaura:root": {
+    "criteria": {
+      "book": "2023-05-15 23:05:57 +0200"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/acacia_desk_cabinet": {
     "criteria": {
       "has_planks": "2023-03-22 18:42:38 +0100"
@@ -22791,6 +23379,12 @@
   "minecraft:recipes/building_blocks/stone_slab_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2023-03-25 14:58:09 +0100"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/pneumaticcraft_fuels/biodiesel": {
+    "criteria": {
+      "liquid_compressor": "2023-05-15 20:18:50 +0200"
     },
     "done": true
   },
@@ -22968,6 +23562,12 @@
     },
     "done": true
   },
+  "connectedglass:recipes/connectedglass/scratched_glass_white2": {
+    "criteria": {
+      "recipe_condition2": "2023-05-15 20:43:01 +0200"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/warped/warped_four_panel_trapdoor": {
     "criteria": {
       "has_planks": "2023-03-25 15:09:33 +0100"
@@ -23031,6 +23631,12 @@
   "sophisticatedstorage:recipes/sophisticatedstorage/dark_oak_chest": {
     "criteria": {
       "has_dark_oak_plank": "2023-03-22 20:33:09 +0100"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/pressure_chamber/compressed_iron_block": {
+    "criteria": {
+      "pressure_chamber_valve": "2023-05-15 19:13:35 +0200"
     },
     "done": true
   },
@@ -23326,6 +23932,12 @@
   "minecraft:recipes/building_blocks/dark_oak_wood": {
     "criteria": {
       "has_log": "2023-03-22 21:08:02 +0100"
+    },
+    "done": true
+  },
+  "allthetweaks:recipes/misc/nether_star_from_nether_star_block": {
+    "criteria": {
+      "has_item": "2023-05-15 21:04:13 +0200"
     },
     "done": true
   },
@@ -23725,6 +24337,12 @@
     },
     "done": true
   },
+  "pneumaticcraft:liquid_compressor": {
+    "criteria": {
+      "0": "2023-05-15 20:18:50 +0200"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/oak/oak_ranch_trapdoor": {
     "criteria": {
       "has_planks": "2023-03-22 17:02:06 +0100"
@@ -24117,6 +24735,12 @@
   "xycraft_override:recipes/xycraft_override/shaped/magma_blue_r": {
     "criteria": {
       "has_magma_block": "2023-03-22 21:17:51 +0100"
+    },
+    "done": true
+  },
+  "appmek:recipes/appmek/portable_chemical_storage_cell_64k": {
+    "criteria": {
+      "has_energy_cell": "2023-05-15 19:07:03 +0200"
     },
     "done": true
   },
@@ -24545,6 +25169,12 @@
   "ars_nouveau:recipes/ars_nouveau/starbuncle_shades": {
     "criteria": {
       "has_journal": "2023-03-26 13:37:11 +0200"
+    },
+    "done": true
+  },
+  "ae2:recipes/ae2.main/tools/portable_fluid_cell_16k": {
+    "criteria": {
+      "has_energy_cell": "2023-05-15 19:07:03 +0200"
     },
     "done": true
   },
@@ -25144,6 +25774,12 @@
     },
     "done": true
   },
+  "megacells:recipes/megacells.tab/crafting/mega_energy_cell": {
+    "criteria": {
+      "has_engineering_processor": "2023-05-15 19:06:50 +0200"
+    },
+    "done": true
+  },
   "minecraft:end/root": {
     "criteria": {
       "entered_end": "2023-03-29 22:06:48 +0200"
@@ -25190,6 +25826,12 @@
   "immersiveengineering:recipes/immersiveengineering/crafting/rs_engineering": {
     "criteria": {
       "has_redstone": "2023-03-22 22:23:55 +0100"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/pressure_chamber/milk_to_slime_balls": {
+    "criteria": {
+      "pressure_chamber_valve": "2023-05-15 19:13:35 +0200"
     },
     "done": true
   },
@@ -25364,6 +26006,12 @@
   "botanypots:husbandry/get_basic_pot": {
     "criteria": {
       "get_botany_pot": "2023-03-25 15:06:38 +0100"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/pneumaticcraft/reinforced_brick_pillar_from_bricks_stonecutting": {
+    "criteria": {
+      "has_reinforced_stone": "2023-05-15 19:11:55 +0200"
     },
     "done": true
   },
@@ -26098,6 +26746,12 @@
     },
     "done": true
   },
+  "xycraft_world:recipes/xycraft_world/stonecutting/inverted_bricks_cloud_light": {
+    "criteria": {
+      "has_for_inverted_bricks_cloud_light": "2023-05-15 23:11:19 +0200"
+    },
+    "done": true
+  },
   "croptopia:recipes/chicken_and_noodles": {
     "criteria": {
       "has_chicken": "2023-04-19 22:56:10 +0200"
@@ -26152,6 +26806,12 @@
     },
     "done": true
   },
+  "pneumaticcraft:recipes/pneumaticcraft/display_shelf": {
+    "criteria": {
+      "has_reinforced_stone": "2023-05-15 19:11:55 +0200"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/ars_nouveau/sourcestone_9": {
     "criteria": {
       "has_journal": "2023-03-26 23:04:02 +0200"
@@ -26167,6 +26827,12 @@
   "ars_nouveau:recipes/ars_nouveau/sourcestone_7": {
     "criteria": {
       "has_journal": "2023-03-22 18:24:27 +0100"
+    },
+    "done": true
+  },
+  "ae2:recipes/ae2.main/network/cables/dense_smart_light_gray": {
+    "criteria": {
+      "has_fluix_smart_dense_cable": "2023-05-15 19:04:01 +0200"
     },
     "done": true
   },
@@ -26428,6 +27094,12 @@
     },
     "done": true
   },
+  "appmek:recipes/appmek/portable_chemical_storage_cell_256k": {
+    "criteria": {
+      "has_energy_cell": "2023-05-15 19:07:03 +0200"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/rope_acacia_bridge": {
     "criteria": {
       "has_planks": "2023-04-29 22:56:57 +0200"
@@ -26673,6 +27345,12 @@
     },
     "done": true
   },
+  "botania:recipes/botania/red_string_comparator": {
+    "criteria": {
+      "has_base_block": "2023-05-16 00:01:30 +0200"
+    },
+    "done": true
+  },
   "alltheores:recipes/alltheores/aluminum_ingot_from_raw_blasting": {
     "criteria": {
       "has_item": "2023-03-22 20:15:01 +0100"
@@ -26823,6 +27501,12 @@
     },
     "done": true
   },
+  "pneumaticcraft:recipes/pneumaticcraft_fuels/gasoline": {
+    "criteria": {
+      "liquid_compressor": "2023-05-15 20:18:50 +0200"
+    },
+    "done": true
+  },
   "smallships:recipes/lotr_lebethron_dhow": {
     "criteria": {
       "in_water": "2023-03-22 21:08:08 +0100"
@@ -26956,6 +27640,12 @@
     },
     "done": true
   },
+  "pneumaticcraft:recipes/pneumaticcraft/reinforced_brick_stairs_from_bricks_stonecutting": {
+    "criteria": {
+      "has_reinforced_stone": "2023-05-15 19:11:55 +0200"
+    },
+    "done": true
+  },
   "smallships:recipes/lotr_mirk_oak_brigg": {
     "criteria": {
       "in_water": "2023-03-22 17:05:45 +0100"
@@ -26989,6 +27679,12 @@
   "smallships:recipes/oak_cog": {
     "criteria": {
       "in_water": "2023-03-22 17:05:45 +0100"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/connectedglass/borderless_glass_white_pane2": {
+    "criteria": {
+      "recipe_condition2": "2023-05-15 20:43:01 +0200"
     },
     "done": true
   },
@@ -27304,6 +28000,12 @@
     },
     "done": true
   },
+  "ae2:recipes/ae2.main/network/cables/dense_smart_magenta": {
+    "criteria": {
+      "has_fluix_smart_dense_cable": "2023-05-15 19:04:00 +0200"
+    },
+    "done": true
+  },
   "alltheores:recipes/alltheores/uranium_dust_from_hammer_crushing": {
     "criteria": {
       "has_item": "2023-03-26 14:02:05 +0200"
@@ -27458,6 +28160,12 @@
   "create:recipes/create.palettes/cut_andesite_bricks_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2023-03-22 17:08:33 +0100"
+    },
+    "done": true
+  },
+  "ae2:recipes/ae2.main/network/cables/dense_smart_lime": {
+    "criteria": {
+      "has_fluix_smart_dense_cable": "2023-05-15 19:04:00 +0200"
     },
     "done": true
   },
@@ -27626,6 +28334,12 @@
   "byg:recipes/byg.byg/pine_chest_boat": {
     "criteria": {
       "has_boat": "2023-03-22 19:31:45 +0100"
+    },
+    "done": true
+  },
+  "ae2:recipes/ae2.main/tools/network_color_applicator": {
+    "criteria": {
+      "has_energy_cell": "2023-05-15 19:07:03 +0200"
     },
     "done": true
   },

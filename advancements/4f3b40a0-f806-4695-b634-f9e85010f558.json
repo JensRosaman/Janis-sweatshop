@@ -738,6 +738,12 @@
     },
     "done": true
   },
+  "pneumaticcraft:recipes/pneumaticcraft_fuels/kerosene": {
+    "criteria": {
+      "liquid_compressor": "2023-05-15 20:01:54 +0200"
+    },
+    "done": true
+  },
   "ae2:recipes/tools/tools/nether_quartz_spade": {
     "criteria": {
       "has_nether_quartz": "2023-03-22 22:30:27 +0100"
@@ -6391,6 +6397,12 @@
   "byg:recipes/byg.byg/fir_chest_boat": {
     "criteria": {
       "has_boat": "2023-03-22 17:07:07 +0100"
+    },
+    "done": true
+  },
+  "productivebees:husbandry/bee_cage/overworld_nest/consume_sugarbag_comb": {
+    "criteria": {
+      "consume": "2023-05-15 18:41:45 +0200"
     },
     "done": true
   },
@@ -12597,6 +12609,12 @@
   "mcwbridges:recipes/warped_rail_bridge": {
     "criteria": {
       "has_planks": "2023-04-29 21:54:12 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/black_dye_from_wither_rose": {
+    "criteria": {
+      "has_wither_rose": "2023-05-15 00:10:29 +0200"
     },
     "done": true
   },
@@ -19416,6 +19434,12 @@
     },
     "done": true
   },
+  "mekanism:antimatter": {
+    "criteria": {
+      "pellet_antimatter": "2023-05-15 19:03:09 +0200"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/spruce_kitchen_drawer": {
     "criteria": {
       "has_chest": "2023-03-22 20:53:10 +0100"
@@ -22021,6 +22045,12 @@
   "pneumaticcraft:recipes/pneumaticcraft/item_life_upgrade": {
     "criteria": {
       "has_lapis_lazuli": "2023-03-22 17:03:29 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_rose_bush": {
+    "criteria": {
+      "has_rose_bush": "2023-05-16 22:52:13 +0200"
     },
     "done": true
   },
@@ -24633,6 +24663,12 @@
     },
     "done": true
   },
+  "pneumaticcraft:recipes/pneumaticcraft/fluid_mixer": {
+    "criteria": {
+      "has_small_tank": "2023-05-15 20:01:52 +0200"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/sandstone_bridge_pier": {
     "criteria": {
       "has_planks": "2023-04-22 18:39:05 +0200"
@@ -25553,6 +25589,12 @@
   "refinedstorage:recipes/refinedstorage/coloring_recipes/cyan_pattern_grid": {
     "criteria": {
       "refinedstorage:controller": "2023-03-25 15:42:06 +0100"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/pneumaticcraft_fuels/ethanol": {
+    "criteria": {
+      "liquid_compressor": "2023-05-15 20:01:54 +0200"
     },
     "done": true
   },
@@ -27335,6 +27377,12 @@
   "refinedstorage:recipes/refinedstorage/crafting_grid/pink_crafting_grid": {
     "criteria": {
       "refinedstorage:grid": "2023-03-25 15:15:23 +0100"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/pneumaticcraft_fuels/lpg": {
+    "criteria": {
+      "liquid_compressor": "2023-05-15 20:01:54 +0200"
     },
     "done": true
   },
@@ -29495,6 +29543,12 @@
     },
     "done": true
   },
+  "gravitationalmodulatingunittweaks:recipes/mekanism/module_gravitational_modulating_additional_unit": {
+    "criteria": {
+      "has_module_gravitational_modulating_unit": "2023-05-15 19:04:11 +0200"
+    },
+    "done": true
+  },
   "additionallanterns:recipes/misc/crimson_lantern": {
     "criteria": {
       "has_the_recipe": "2023-03-22 16:59:29 +0100",
@@ -30868,6 +30922,12 @@
   "apotheosis:enchanting/100ench": {
     "criteria": {
       "enchanted_item": "2023-04-29 22:48:57 +0200"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/pneumaticcraft_fuels/crude_oil": {
+    "criteria": {
+      "liquid_compressor": "2023-05-15 20:01:54 +0200"
     },
     "done": true
   },
@@ -33003,6 +33063,12 @@
   "minecraft:recipes/woodcutting/dark_oak/dark_oak_button_from_dark_oak_slab_woodcutting": {
     "criteria": {
       "give_recipe": "2023-03-27 15:28:10 +0200"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/pneumaticcraft_fuels/diesel": {
+    "criteria": {
+      "liquid_compressor": "2023-05-15 20:01:54 +0200"
     },
     "done": true
   },
@@ -35413,6 +35479,12 @@
     },
     "done": true
   },
+  "pneumaticcraft:recipes/pneumaticcraft_fuels/biodiesel": {
+    "criteria": {
+      "liquid_compressor": "2023-05-15 20:01:54 +0200"
+    },
+    "done": true
+  },
   "mekanism:sps": {
     "criteria": {
       "sps_casing": "2023-04-27 21:47:01 +0200",
@@ -35994,6 +36066,12 @@
   "delightful:recipes/knives/allthemodium_knife": {
     "criteria": {
       "has_allthemodium": "2023-03-26 22:31:20 +0200"
+    },
+    "done": true
+  },
+  "pneumaticcraft:liquid_compressor": {
+    "criteria": {
+      "0": "2023-05-15 20:01:54 +0200"
     },
     "done": true
   },
@@ -38352,6 +38430,12 @@
   "deeperdarker:recipes/deeperdarker/warden_chestplate_smithing": {
     "criteria": {
       "has_reinforced_echo_shard": "2023-04-02 18:18:23 +0200"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/pneumaticcraft_fuels/gasoline": {
+    "criteria": {
+      "liquid_compressor": "2023-05-15 20:01:54 +0200"
     },
     "done": true
   },
