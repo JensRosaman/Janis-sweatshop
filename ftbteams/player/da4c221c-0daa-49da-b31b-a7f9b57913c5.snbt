@@ -1,26 +1,26 @@
 {
-	id: "da4c221c-0daa-49da-b31b-a7f9b57913c5"
 	type: "player"
-	player_name: "Lojekoje5"
-	ranks: { }
+	id: "da4c221c-0daa-49da-b31b-a7f9b57913c5"
 	properties: {
+		"ftbchunks:block_edit_mode": "allies"
+		"ftbchunks:allow_explosions": 0b
+		"ftbchunks:claim_visibility": "public"
+		"ftbchunks:allow_mob_griefing": 0b
+		"ftbchunks:block_interact_mode": "allies"
+		"ftbchunks:allow_named_fake_players": [ ]
+		"ftbteams:max_msg_history_size": 1000
 		"ftbteams:display_name": "Lojekoje5"
 		"ftbteams:description": ""
-		"ftbteams:color": "#C459FF"
-		"ftbteams:free_to_join": 0b
-		"ftbteams:max_msg_history_size": 1000
-		"ftbchunks:allow_explosions": 0b
-		"ftbchunks:allow_mob_griefing": 0b
-		"ftbchunks:allow_fake_players": 0b
-		"ftbchunks:allow_named_fake_players": [ ]
 		"ftbchunks:allow_fake_players_by_id": 1b
-		"ftbchunks:block_edit_mode": "allies"
-		"ftbchunks:block_interact_mode": "allies"
-		"ftbchunks:entity_interact_mode": "allies"
-		"ftbchunks:nonliving_entity_attack_mode": "allies"
-		"ftbchunks:claim_visibility": "public"
 		"ftbchunks:location_mode": "allies"
+		"ftbchunks:allow_fake_players": 0b
+		"ftbchunks:entity_interact_mode": "allies"
+		"ftbteams:free_to_join": 0b
+		"ftbchunks:nonliving_entity_attack_mode": "allies"
+		"ftbteams:color": "#C459FF"
 	}
-	message_history: [ ]
 	extra: { }
+	player_name: "Lojekoje5"
+	message_history: [ ]
+	ranks: { }
 }

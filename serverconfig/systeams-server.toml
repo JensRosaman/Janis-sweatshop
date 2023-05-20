@@ -24,6 +24,8 @@ steam_dynamo_output_multiplier = 2.0
 	disenchantment = 0.5
 	#Range: 0.05 ~ 100.0
 	gourmand = 0.5
+	#Range: 0.05 ~ 100.0
+	pneumatic = 0.5
 
 ["Boiler Speed Multipliers"]
 	#The speed multiplier on each boiler's mB/t
@@ -41,4 +43,11 @@ steam_dynamo_output_multiplier = 2.0
 	disenchantment = 2.0
 	#Range: 0.05 ~ 20.0
 	gourmand = 2.0
+	#Range: 0.05 ~ 20.0
+	pneumatic = 2.0
+
+["Integration settings"]
+	#If you can shift right click a Pneumatic Boiler with an Advanced Pneumatic Tube to convert it to a Pneumatic Dynamo
+	#This can get annoying when trying to place Advanced Pneumatic Tubes next to boilers
+	pneumatic_boiler_conversion_to_dynamo = true
 

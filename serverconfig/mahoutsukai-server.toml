@@ -435,6 +435,12 @@
 		#This is how often the boundary does it's thing
 		#Range: 0 ~ 100000000
 		GRAVITY_BARRIER_CYCLE = 1
+		#This is a multiplicative inrease in downward velocity
+		#Range: 0.0 ~ 1.0E8
+		GRAVITY_BARRIER_FACTOR = 1.4
+		#This is how often the boundary does it's thing
+		#Range: 0.0 ~ 1.0E8
+		GRAVITY_BARRIER_MAX = 5.0E7
 
 	[boundary.enclosure]
 		#This is the mana cost per cycle
