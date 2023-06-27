@@ -2,22 +2,22 @@
 	muted: false
 	fly: false
 	god: false
-	nick: ""
-	last_seen: { dim: "minecraft:overworld", x: 2868, y: 65, z: 1865, time: 1684188544274L }
-	recording: 0
 	teleport_history: [
-		{ dim: "twilightforest:twilight_forest", x: 4045, y: -13, z: 2343, time: 1682811566243L }
-		{ dim: "minecraft:the_end", x: -6, y: 60, z: 6, time: 1682854684559L }
-		{ dim: "minecraft:the_end", x: -42, y: 89, z: -1, time: 1682855840138L }
-		{ dim: "minecraft:the_end", x: -41, y: 88, z: 0, time: 1682856587367L }
-		{ dim: "minecraft:the_end", x: -41, y: 88, z: -2, time: 1683127805954L }
-		{ dim: "allthemodium:the_other", x: -1121, y: 196, z: 2918, time: 1683128164311L }
-		{ dim: "minecraft:the_nether", x: -432, y: 68, z: -1662, time: 1683151998895L }
-		{ dim: "allthemodium:mining", x: 2848, y: 253, z: 1853, time: 1683382058513L }
-		{ dim: "allthemodium:mining", x: 2850, y: 254, z: 1852, time: 1683382208519L }
-		{ dim: "allthemodium:mining", x: 2807, y: 65, z: 1842, time: 1684187108446L }
+		{ dim: "minecraft:the_end", time: 1682856587367L, z: 0, y: 88, x: -41 }
+		{ dim: "minecraft:the_end", time: 1683127805954L, z: -2, y: 88, x: -41 }
+		{ dim: "allthemodium:the_other", time: 1683128164311L, z: 2918, y: 196, x: -1121 }
+		{ dim: "minecraft:the_nether", time: 1683151998895L, z: -1662, y: 68, x: -432 }
+		{ dim: "allthemodium:mining", time: 1683382058513L, z: 1853, y: 253, x: 2848 }
+		{ dim: "allthemodium:mining", time: 1683382208519L, z: 1852, y: 254, x: 2850 }
+		{ dim: "allthemodium:mining", time: 1684187108446L, z: 1842, y: 65, x: 2807 }
+		{ dim: "minecraft:the_end", time: 1686674809610L, z: 24, y: 103, x: -35 }
+		{ dim: "allthemodium:mining", time: 1686739435425L, z: 1852, y: 73, x: 2827 }
+		{ dim: "minecraft:the_nether", time: 1686741920243L, z: -1210, y: 31, x: 876 }
 	]
 	homes: {
-		home: { dim: "minecraft:overworld", x: 2862, y: 65, z: 1868, time: 1679831604332L }
+		home: { dim: "minecraft:overworld", time: 1679831604332L, z: 1868, y: 65, x: 2862 }
 	}
+	recording: 0
+	last_seen: { dim: "minecraft:overworld", time: 1686745697280L, z: 1865, y: 65, x: 2868 }
+	nick: ""
 }

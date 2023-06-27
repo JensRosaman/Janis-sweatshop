@@ -11,21 +11,9 @@
     },
     "done": true
   },
-  "smallships:recipes/lotr_green_oak_war_galley": {
-    "criteria": {
-      "in_water": "2023-03-22 19:52:51 +0100"
-    },
-    "done": true
-  },
   "ars_nouveau:recipes/ars_nouveau/red_archwood_wood": {
     "criteria": {
       "has_journal": "2023-04-02 02:03:28 +0200"
-    },
-    "done": true
-  },
-  "mcwtrpdoors:recipes/acacia/acacia_mystic_trapdoor": {
-    "criteria": {
-      "has_planks": "2023-03-22 19:47:50 +0100"
     },
     "done": true
   },
@@ -149,21 +137,9 @@
     },
     "done": true
   },
-  "smallships:recipes/lotr_beech_dhow": {
-    "criteria": {
-      "in_water": "2023-03-22 19:52:51 +0100"
-    },
-    "done": true
-  },
   "refinedstorage:recipes/refinedstorage/pattern_grid/green_pattern_grid": {
     "criteria": {
       "refinedstorage:grid": "2023-04-02 17:19:44 +0200"
-    },
-    "done": true
-  },
-  "smallships:recipes/lotr_mallorn_galley": {
-    "criteria": {
-      "in_water": "2023-03-22 19:52:51 +0100"
     },
     "done": true
   },
@@ -239,15 +215,9 @@
     },
     "done": true
   },
-  "smallships:recipes/lotr_aspen_cog": {
+  "mythicbotany:recipes/mythicbotany/kvasir_mead": {
     "criteria": {
-      "in_water": "2023-03-22 19:52:51 +0100"
-    },
-    "done": true
-  },
-  "smallships:recipes/birch_brigg": {
-    "criteria": {
-      "in_water": "2023-03-22 19:52:51 +0100"
+      "criterion1": "2023-06-16 00:12:00 +0200"
     },
     "done": true
   },
@@ -311,12 +281,6 @@
     },
     "done": true
   },
-  "smallships:recipes/lotr_rotten_dhow": {
-    "criteria": {
-      "in_water": "2023-03-22 19:52:51 +0100"
-    },
-    "done": true
-  },
   "alltheores:recipes/alltheores/iridium_dust_from_hammer_crushing": {
     "criteria": {
       "has_item": "2023-03-29 23:10:47 +0200"
@@ -344,6 +308,12 @@
   "botania:recipes/botania/virus_necrodermal": {
     "criteria": {
       "has_alt_item": "2023-04-30 01:59:05 +0200"
+    },
+    "done": true
+  },
+  "elementalcraft:recipes/elementalcraft/whiterock_fence": {
+    "criteria": {
+      "has_whiterock": "2023-06-16 00:45:27 +0200"
     },
     "done": true
   },
@@ -399,12 +369,6 @@
   "functionalstorage:recipes/functionalstorage/netherite_upgrade": {
     "criteria": {
       "has_netherite_ingot": "2023-03-29 22:40:28 +0200"
-    },
-    "done": true
-  },
-  "smallships:recipes/sail_item": {
-    "criteria": {
-      "in_water": "2023-03-22 19:52:51 +0100"
     },
     "done": true
   },
@@ -525,18 +489,6 @@
   "ftbic:recipes/ftbic/extruding/ingots/tin_to_tin_rod": {
     "criteria": {
       "has_item": "2023-03-29 21:42:58 +0200"
-    },
-    "done": true
-  },
-  "smallships:recipes/bop_jacaranda_war_galley": {
-    "criteria": {
-      "in_water": "2023-03-22 19:52:51 +0100"
-    },
-    "done": true
-  },
-  "smallships:recipes/lotr_rotten_drakkar": {
-    "criteria": {
-      "in_water": "2023-03-22 19:52:51 +0100"
     },
     "done": true
   },
@@ -666,9 +618,9 @@
     },
     "done": true
   },
-  "mcwtrpdoors:recipes/acacia/jungle_bark_trapdoor": {
+  "alltheores:recipes/alltheores/invar_block": {
     "criteria": {
-      "has_planks": "2023-03-22 19:47:50 +0100"
+      "has_TagKey[minecraft:item / forge:ingots/invar]_ingot": "2023-06-16 00:21:08 +0200"
     },
     "done": true
   },
@@ -744,12 +696,6 @@
     },
     "done": true
   },
-  "mcwtrpdoors:recipes/metal/metal_warning_trapdoor": {
-    "criteria": {
-      "has_planks": "2023-03-22 19:47:51 +0100"
-    },
-    "done": true
-  },
   "ae2:recipes/tools/tools/nether_quartz_spade": {
     "criteria": {
       "has_nether_quartz": "2023-04-02 02:14:10 +0200"
@@ -759,12 +705,6 @@
   "ftbic:recipes/ftbic/macerating/ingots/tin_to_dust": {
     "criteria": {
       "has_item": "2023-03-29 21:42:58 +0200"
-    },
-    "done": true
-  },
-  "smallships:recipes/bop_hellbark_cog": {
-    "criteria": {
-      "in_water": "2023-03-22 19:52:51 +0100"
     },
     "done": true
   },
@@ -817,12 +757,6 @@
     },
     "done": true
   },
-  "smallships:recipes/lotr_larch_cog": {
-    "criteria": {
-      "in_water": "2023-03-22 19:52:51 +0100"
-    },
-    "done": true
-  },
   "sophisticatedstorage:recipes/sophisticatedstorage/stonecutter_upgrade": {
     "criteria": {
       "has_upgrade_base": "2023-04-02 02:21:13 +0200"
@@ -832,12 +766,6 @@
   "twilightforest:recipes/twilightforest/equipment/fiery_boots": {
     "criteria": {
       "has_item": "2023-04-30 02:16:23 +0200"
-    },
-    "done": true
-  },
-  "smallships:recipes/bop_hellbark_dhow": {
-    "criteria": {
-      "in_water": "2023-03-22 19:52:51 +0100"
     },
     "done": true
   },
@@ -867,12 +795,6 @@
     },
     "done": true
   },
-  "smallships:recipes/bop_dead_war_galley": {
-    "criteria": {
-      "in_water": "2023-03-22 19:52:51 +0100"
-    },
-    "done": true
-  },
   "sophisticatedstorage:recipes/sophisticatedstorage/acacia_limited_barrel_1": {
     "criteria": {
       "has_acacia_plank": "2023-04-02 15:43:05 +0200"
@@ -888,12 +810,6 @@
   "sophisticatedstorage:recipes/sophisticatedstorage/acacia_limited_barrel_4": {
     "criteria": {
       "has_acacia_plank": "2023-04-02 15:43:05 +0200"
-    },
-    "done": true
-  },
-  "smallships:recipes/bop_mahogany_cog": {
-    "criteria": {
-      "in_water": "2023-03-22 19:52:51 +0100"
     },
     "done": true
   },
@@ -945,12 +861,6 @@
     },
     "done": true
   },
-  "smallships:recipes/bop_jacaranda_galley": {
-    "criteria": {
-      "in_water": "2023-03-22 19:52:51 +0100"
-    },
-    "done": true
-  },
   "mcwbridges:recipes/spruce_rail_bridge": {
     "criteria": {
       "has_planks": "2023-04-30 00:16:04 +0200"
@@ -999,12 +909,6 @@
     },
     "done": true
   },
-  "mcwtrpdoors:recipes/print_cottage": {
-    "criteria": {
-      "has_planks": "2023-03-22 19:47:52 +0100"
-    },
-    "done": true
-  },
   "pneumaticcraft:recipes/pneumaticcraft/block_tracker_upgrade": {
     "criteria": {
       "has_lapis_lazuli": "2023-04-02 15:15:09 +0200"
@@ -1017,9 +921,9 @@
     },
     "done": true
   },
-  "smallships:recipes/bop_mahogany_rowboat": {
+  "elementalcraft:recipes/elementalcraft/strongly_contained_crystal": {
     "criteria": {
-      "in_water": "2023-03-22 19:52:51 +0100"
+      "has_contained_crystal": "2023-06-16 00:45:21 +0200"
     },
     "done": true
   },
@@ -1032,12 +936,6 @@
   "create:recipes/create.base/crafting/appliances/diving_helmet": {
     "criteria": {
       "has_item": "2023-04-02 02:20:54 +0200"
-    },
-    "done": true
-  },
-  "smallships:recipes/lotr_pear_war_galley": {
-    "criteria": {
-      "in_water": "2023-03-22 19:52:51 +0100"
     },
     "done": true
   },
@@ -1077,6 +975,12 @@
     },
     "done": true
   },
+  "elementalcraft:recipes/elementalcraft/instrument_retriever": {
+    "criteria": {
+      "has_drenched_iron_ingot": "2023-06-16 00:45:37 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/mahogany/polished_mahogany_button_from_mahogany_slab_woodcutting": {
     "criteria": {
       "give_recipe": "2023-04-29 19:10:28 +0200"
@@ -1113,12 +1017,6 @@
     },
     "done": true
   },
-  "mcwtrpdoors:recipes/bamboo/bamboo_barred_trapdoor": {
-    "criteria": {
-      "has_planks": "2023-03-22 19:47:52 +0100"
-    },
-    "done": true
-  },
   "minecraft:end/dragon_egg": {
     "criteria": {
       "dragon_egg": "2023-04-02 03:06:05 +0200"
@@ -1140,12 +1038,6 @@
   "twilightforest:recipes/twilightforest/material/armor_shard_cluster": {
     "criteria": {
       "has_item": "2023-04-30 01:58:51 +0200"
-    },
-    "done": true
-  },
-  "smallships:recipes/envi_wisteria_brigg": {
-    "criteria": {
-      "in_water": "2023-03-22 19:52:51 +0100"
     },
     "done": true
   },
@@ -1299,9 +1191,9 @@
     },
     "done": true
   },
-  "smallships:recipes/lotr_apple_galley": {
+  "elementalcraft:recipes/elementalcraft/improved_elementpipe_from_impaired_elementpipe_and_ingot": {
     "criteria": {
-      "in_water": "2023-03-22 19:52:51 +0100"
+      "has_swift_alloy_ingot": "2023-06-16 00:45:37 +0200"
     },
     "done": true
   },
@@ -1497,12 +1389,6 @@
     },
     "done": true
   },
-  "smallships:recipes/lotr_larch_galley": {
-    "criteria": {
-      "in_water": "2023-03-22 19:52:51 +0100"
-    },
-    "done": true
-  },
   "alltheores:recipes/alltheores/osmium_gear": {
     "criteria": {
       "has_TagKey[minecraft:item / forge:ingots/osmium]_ingot": "2023-04-02 02:10:46 +0200"
@@ -1560,18 +1446,6 @@
   "alltheores:recipes/alltheores/uranium_ingot_from_raw_blasting": {
     "criteria": {
       "has_item": "2023-04-02 15:16:46 +0200"
-    },
-    "done": true
-  },
-  "smallships:recipes/jungle_drakkar": {
-    "criteria": {
-      "in_water": "2023-03-22 19:52:51 +0100"
-    },
-    "done": true
-  },
-  "smallships:recipes/lotr_green_oak_dhow": {
-    "criteria": {
-      "in_water": "2023-03-22 19:52:51 +0100"
     },
     "done": true
   },
@@ -1635,6 +1509,12 @@
     },
     "done": true
   },
+  "elementalcraft:recipes/elementalcraft/source_breeder_pedestal": {
+    "criteria": {
+      "has_whiterock": "2023-06-16 00:45:27 +0200"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/ars_nouveau/ritual_flowering": {
     "criteria": {
       "has_journal": "2023-04-02 02:03:28 +0200"
@@ -1644,6 +1524,12 @@
   "alchemistry:recipes/dissolver/polished_granite": {
     "criteria": {
       "has_the_recipe": "2023-04-02 17:01:46 +0200"
+    },
+    "done": true
+  },
+  "elementalcraft:recipes/elementalcraft/source_displacement_plate_water": {
+    "criteria": {
+      "has_whiterock": "2023-06-16 00:45:27 +0200"
     },
     "done": true
   },
@@ -1882,27 +1768,21 @@
     },
     "done": true
   },
-  "mcwtrpdoors:recipes/oak/oak_swamp_trapdoor": {
-    "criteria": {
-      "has_planks": "2023-03-22 19:47:52 +0100"
-    },
-    "done": true
-  },
   "alchemistry:recipes/dissolver/copper_block": {
     "criteria": {
       "has_the_recipe": "2023-04-02 02:20:54 +0200"
     },
     "done": true
   },
-  "mcwtrpdoors:recipes/jungle/jungle_swamp_trapdoor": {
-    "criteria": {
-      "has_planks": "2023-03-22 19:47:50 +0100"
-    },
-    "done": true
-  },
   "alchemistry:recipes/dissolver/nether_brick": {
     "criteria": {
       "has_the_recipe": "2023-05-03 23:29:45 +0200"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/dye_black": {
+    "criteria": {
+      "has_item": "2023-06-16 00:45:58 +0200"
     },
     "done": true
   },
@@ -1933,12 +1813,6 @@
   "alltheores:recipes/alltheores/lead_plate": {
     "criteria": {
       "has_TagKey[minecraft:item / forge:ingots/lead]_ingot": "2023-03-29 21:41:35 +0200"
-    },
-    "done": true
-  },
-  "smallships:recipes/lotr_fir_dhow": {
-    "criteria": {
-      "in_water": "2023-03-22 19:52:51 +0100"
     },
     "done": true
   },
@@ -2002,12 +1876,6 @@
     },
     "done": true
   },
-  "smallships:recipes/dark_oak_war_galley": {
-    "criteria": {
-      "in_water": "2023-03-22 19:52:51 +0100"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/stone_brick_stairs": {
     "criteria": {
       "has_stone_bricks": "2023-03-22 19:54:43 +0100"
@@ -2020,12 +1888,6 @@
     },
     "done": true
   },
-  "smallships:recipes/envi_wisteria_rowboat": {
-    "criteria": {
-      "in_water": "2023-03-22 19:52:51 +0100"
-    },
-    "done": true
-  },
   "ars_nouveau:recipes/misc/wing_to_leather": {
     "criteria": {
       "has_journal": "2023-04-02 02:03:28 +0200"
@@ -2035,18 +1897,6 @@
   "minecraft:recipes/combat/golden_boots": {
     "criteria": {
       "has_gold_ingot": "2023-03-29 21:22:24 +0200"
-    },
-    "done": true
-  },
-  "mcwtrpdoors:recipes/warped/warped_paper_trapdoor": {
-    "criteria": {
-      "has_planks": "2023-03-22 19:47:51 +0100"
-    },
-    "done": true
-  },
-  "smallships:recipes/bop_magic_cog": {
-    "criteria": {
-      "in_water": "2023-03-22 19:52:51 +0100"
     },
     "done": true
   },
@@ -2158,12 +2008,6 @@
     },
     "done": true
   },
-  "smallships:recipes/lotr_lairelosse_dhow": {
-    "criteria": {
-      "in_water": "2023-03-22 19:52:51 +0100"
-    },
-    "done": true
-  },
   "mcwtrpdoors:recipes/crimson/crimson_classic_trapdoor": {
     "criteria": {
       "has_planks": "2023-03-22 19:47:52 +0100"
@@ -2236,12 +2080,6 @@
     },
     "done": true
   },
-  "smallships:recipes/birch_galley": {
-    "criteria": {
-      "in_water": "2023-03-22 19:52:51 +0100"
-    },
-    "done": true
-  },
   "securitycraft:recipes/securitycraft/reinforced_andesite": {
     "criteria": {
       "has_cobblestone": "2023-03-22 19:53:41 +0100"
@@ -2287,6 +2125,12 @@
   "littlelogistics:recipes/transportation/junction_rail": {
     "criteria": {
       "has_item": "2023-04-29 19:12:00 +0200"
+    },
+    "done": true
+  },
+  "ae2:recipes/ae2.main/smelting/silicon_from_certus_quartz_dust": {
+    "criteria": {
+      "has_certus_quartz_dust": "2023-06-16 00:33:24 +0200"
     },
     "done": true
   },
@@ -2398,6 +2242,12 @@
     },
     "done": true
   },
+  "elementalcraft:recipes/elementalcraft/elementpipe_improved": {
+    "criteria": {
+      "has_contained_crystal": "2023-06-16 00:45:21 +0200"
+    },
+    "done": true
+  },
   "mekanism:moving_blocks": {
     "criteria": {
       "cardboard_box": "2023-04-02 17:22:40 +0200"
@@ -2501,24 +2351,6 @@
     },
     "done": true
   },
-  "mcwtrpdoors:recipes/dark_oak/dark_oak_glass_trapdoor": {
-    "criteria": {
-      "has_planks": "2023-03-22 19:47:51 +0100"
-    },
-    "done": true
-  },
-  "smallships:recipes/bop_fir_dhow": {
-    "criteria": {
-      "in_water": "2023-03-22 19:52:51 +0100"
-    },
-    "done": true
-  },
-  "mcwtrpdoors:recipes/bamboo/bamboo_glass_trapdoor": {
-    "criteria": {
-      "has_planks": "2023-03-22 19:47:52 +0100"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/pink_wool": {
     "criteria": {
       "has_white_wool": "2023-03-22 20:05:27 +0100"
@@ -2528,12 +2360,6 @@
   "mcwroofs:recipes/andesite": {
     "criteria": {
       "has_planks": "2023-03-22 19:47:51 +0100"
-    },
-    "done": true
-  },
-  "smallships:recipes/lotr_pine_drakkar": {
-    "criteria": {
-      "in_water": "2023-03-22 19:52:51 +0100"
     },
     "done": true
   },
@@ -2549,12 +2375,6 @@
     },
     "done": true
   },
-  "smallships:recipes/bop_dead_drakkar": {
-    "criteria": {
-      "in_water": "2023-03-22 19:52:51 +0100"
-    },
-    "done": true
-  },
   "pneumaticcraft:recipes/pneumaticcraft/small_tank": {
     "criteria": {
       "has_ingot_iron_compressed": "2023-03-22 19:54:47 +0100"
@@ -2564,6 +2384,12 @@
   "croptopia:recipes/campfire_caramel": {
     "criteria": {
       "has_sugar": "2023-03-29 22:05:35 +0200"
+    },
+    "done": true
+  },
+  "delightful:recipes/knives/invar_knife": {
+    "criteria": {
+      "has_invar": "2023-06-16 00:21:08 +0200"
     },
     "done": true
   },
@@ -2588,12 +2414,6 @@
   "croptopia:recipes/shaped_beef_stew": {
     "criteria": {
       "has_beef": "2023-03-29 21:44:13 +0200"
-    },
-    "done": true
-  },
-  "mcwtrpdoors:recipes/warped/warped_swamp_trapdoor": {
-    "criteria": {
-      "has_planks": "2023-03-22 19:47:50 +0100"
     },
     "done": true
   },
@@ -2624,24 +2444,6 @@
   "ae2:recipes/ae2.main/network/cables/smart_fluix": {
     "criteria": {
       "has_dusts/redstone": "2023-04-02 02:09:25 +0200"
-    },
-    "done": true
-  },
-  "mcwtrpdoors:recipes/birch/birch_ranch_trapdoor": {
-    "criteria": {
-      "has_planks": "2023-03-22 19:47:52 +0100"
-    },
-    "done": true
-  },
-  "smallships:recipes/lotr_holly_rowboat": {
-    "criteria": {
-      "in_water": "2023-03-22 19:52:51 +0100"
-    },
-    "done": true
-  },
-  "mcwtrpdoors:recipes/oak/oak_paper_trapdoor": {
-    "criteria": {
-      "has_planks": "2023-03-22 19:47:52 +0100"
     },
     "done": true
   },
@@ -2681,12 +2483,6 @@
     },
     "done": true
   },
-  "smallships:recipes/lotr_maple_galley": {
-    "criteria": {
-      "in_water": "2023-03-22 19:52:51 +0100"
-    },
-    "done": true
-  },
   "xycraft_world:recipes/xycraft_world/shaped/kivi_bricks_cloud_dark_r": {
     "criteria": {
       "has_kivi": "2023-05-03 21:12:54 +0200"
@@ -2720,6 +2516,12 @@
   "minecraft:recipes/woodcutting/mahogany/polished_mahogany_trapdoor_from_mahogany_slab_woodcutting": {
     "criteria": {
       "give_recipe": "2023-04-29 19:10:28 +0200"
+    },
+    "done": true
+  },
+  "alltheores:recipes/alltheores/invar_nugget_from_ingot": {
+    "criteria": {
+      "has_item": "2023-06-16 00:21:08 +0200"
     },
     "done": true
   },
@@ -2760,12 +2562,6 @@
     },
     "done": true
   },
-  "smallships:recipes/lotr_mallorn_dhow": {
-    "criteria": {
-      "in_water": "2023-03-22 19:52:51 +0100"
-    },
-    "done": true
-  },
   "repurposed_structures:igloos": {
     "criteria": {
       "in_igloo_grassy": "2023-03-22 20:07:35 +0100"
@@ -2778,9 +2574,9 @@
     },
     "done": true
   },
-  "smallships:recipes/bop_hellbark_war_galley": {
+  "elementalcraft:recipes/elementalcraft/fireblastfurnace": {
     "criteria": {
-      "in_water": "2023-03-22 19:52:51 +0100"
+      "has_whiterock": "2023-06-16 00:45:27 +0200"
     },
     "done": true
   },
@@ -2874,12 +2670,6 @@
     },
     "done": true
   },
-  "mcwtrpdoors:recipes/acacia/acacia_ranch_trapdoor": {
-    "criteria": {
-      "has_planks": "2023-03-22 19:47:50 +0100"
-    },
-    "done": true
-  },
   "twilightforest:recipes/twilightforest/equipment/knightmetal_leggings": {
     "criteria": {
       "has_item": "2023-04-30 02:17:14 +0200"
@@ -2907,12 +2697,6 @@
   "minecraft:recipes/building_blocks/cobbled_deepslate_slab": {
     "criteria": {
       "has_cobbled_deepslate": "2023-03-29 21:21:15 +0200"
-    },
-    "done": true
-  },
-  "mcwtrpdoors:recipes/acacia/crimson_bark_trapdoor": {
-    "criteria": {
-      "has_planks": "2023-03-22 19:47:51 +0100"
     },
     "done": true
   },
@@ -2956,12 +2740,6 @@
   "minecraft:recipes/misc/stick": {
     "criteria": {
       "has_planks": "2023-03-22 19:47:53 +0100"
-    },
-    "done": true
-  },
-  "smallships:recipes/spruce_brigg": {
-    "criteria": {
-      "in_water": "2023-03-22 19:52:51 +0100"
     },
     "done": true
   },
@@ -3073,12 +2851,6 @@
     },
     "done": true
   },
-  "smallships:recipes/bop_umbran_cog": {
-    "criteria": {
-      "in_water": "2023-03-22 19:52:51 +0100"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/pink_terracotta": {
     "criteria": {
       "has_terracotta": "2023-04-02 15:13:10 +0200"
@@ -3113,6 +2885,12 @@
   "pneumaticcraft:recipes/pneumaticcraft/ender_visor_upgrade": {
     "criteria": {
       "has_lapis_lazuli": "2023-04-02 15:15:09 +0200"
+    },
+    "done": true
+  },
+  "elementalcraft:recipes/elementalcraft/crystallizer": {
+    "criteria": {
+      "has_whiterock": "2023-06-16 00:45:27 +0200"
     },
     "done": true
   },
@@ -3219,12 +2997,6 @@
     },
     "done": true
   },
-  "smallships:recipes/lotr_mallorn_rowboat": {
-    "criteria": {
-      "in_water": "2023-03-22 19:52:51 +0100"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/magenta_dye_from_purple_and_pink": {
     "criteria": {
       "has_pink_dye": "2023-03-22 20:03:02 +0100"
@@ -3243,21 +3015,9 @@
     },
     "done": true
   },
-  "smallships:recipes/bop_dead_dhow": {
-    "criteria": {
-      "in_water": "2023-03-22 19:52:51 +0100"
-    },
-    "done": true
-  },
   "pneumaticcraft:recipes/pneumaticcraft/air_cannon": {
     "criteria": {
       "has_pressure_tube": "2023-03-22 19:54:46 +0100"
-    },
-    "done": true
-  },
-  "smallships:recipes/lotr_pine_galley": {
-    "criteria": {
-      "in_water": "2023-03-22 19:52:51 +0100"
     },
     "done": true
   },
@@ -3306,12 +3066,6 @@
   "reliquary:recipes/decorations/uncrafting/wither_skeleton_skull": {
     "criteria": {
       "has_withered_rib": "2023-03-29 22:19:53 +0200"
-    },
-    "done": true
-  },
-  "smallships:recipes/lotr_holly_brigg": {
-    "criteria": {
-      "in_water": "2023-03-22 19:52:51 +0100"
     },
     "done": true
   },
@@ -3438,21 +3192,15 @@
     },
     "done": true
   },
-  "smallships:recipes/lotr_apple_brigg": {
+  "elementalcraft:recipes/elementalcraft/whiterock_mossy": {
     "criteria": {
-      "in_water": "2023-03-22 19:52:51 +0100"
+      "has_whiterock": "2023-06-16 00:45:27 +0200"
     },
     "done": true
   },
   "securitycraft:recipes/securitycraft/reinforced_cyan_stained_glass_pane_from_dye": {
     "criteria": {
       "has_glass": "2023-04-02 15:18:39 +0200"
-    },
-    "done": true
-  },
-  "smallships:recipes/lotr_cherry_brigg": {
-    "criteria": {
-      "in_water": "2023-03-22 19:52:51 +0100"
     },
     "done": true
   },
@@ -3492,12 +3240,6 @@
     },
     "done": true
   },
-  "smallships:recipes/bop_magic_rowboat": {
-    "criteria": {
-      "in_water": "2023-03-22 19:52:51 +0100"
-    },
-    "done": true
-  },
   "twilightforest:progress_glacier": {
     "criteria": {
       "previous_progression": "2023-04-30 01:27:10 +0200",
@@ -3529,12 +3271,6 @@
     },
     "done": true
   },
-  "mcwtrpdoors:recipes/jungle/jungle_ranch_trapdoor": {
-    "criteria": {
-      "has_planks": "2023-03-22 19:47:52 +0100"
-    },
-    "done": true
-  },
   "pneumaticcraft:recipes/pneumaticcraft/liquid_compressor": {
     "criteria": {
       "has_ingot_iron_compressed": "2023-03-22 19:54:47 +0100"
@@ -3544,12 +3280,6 @@
   "securitycraft:recipes/securitycraft/universal_block_modifier": {
     "criteria": {
       "has_redstone": "2023-04-02 02:09:25 +0200"
-    },
-    "done": true
-  },
-  "mcwtrpdoors:recipes/birch/birch_barn_trapdoor": {
-    "criteria": {
-      "has_planks": "2023-03-22 19:47:52 +0100"
     },
     "done": true
   },
@@ -3568,6 +3298,12 @@
   "alltheores:recipes/alltheores/constantan_block": {
     "criteria": {
       "has_TagKey[minecraft:item / forge:ingots/constantan]_ingot": "2023-05-03 23:52:29 +0200"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/twig_wand": {
+    "criteria": {
+      "has_item": "2023-06-16 00:45:57 +0200"
     },
     "done": true
   },
@@ -3709,12 +3445,6 @@
     },
     "done": true
   },
-  "smallships:recipes/bop_magic_dhow": {
-    "criteria": {
-      "in_water": "2023-03-22 19:52:51 +0100"
-    },
-    "done": true
-  },
   "xnet:recipes/xnet/connector_yellow_dye": {
     "criteria": {
       "chest": "2023-04-02 02:09:06 +0200"
@@ -3799,27 +3529,9 @@
     },
     "done": true
   },
-  "smallships:recipes/spruce_dhow": {
-    "criteria": {
-      "in_water": "2023-03-22 19:52:51 +0100"
-    },
-    "done": true
-  },
   "littlelogistics:recipes/transportation/tee_junction_rail": {
     "criteria": {
       "has_item": "2023-04-29 19:12:00 +0200"
-    },
-    "done": true
-  },
-  "mcwtrpdoors:recipes/acacia/acacia_barn_trapdoor": {
-    "criteria": {
-      "has_planks": "2023-03-22 19:47:51 +0100"
-    },
-    "done": true
-  },
-  "smallships:recipes/lotr_mallorn_cog": {
-    "criteria": {
-      "in_water": "2023-03-22 19:52:51 +0100"
     },
     "done": true
   },
@@ -3832,12 +3544,6 @@
   "minecraft:recipes/redstone/stone_button": {
     "criteria": {
       "has_stone": "2023-04-02 02:04:33 +0200"
-    },
-    "done": true
-  },
-  "smallships:recipes/lotr_cypress_brigg": {
-    "criteria": {
-      "in_water": "2023-03-22 19:52:51 +0100"
     },
     "done": true
   },
@@ -3877,12 +3583,6 @@
     },
     "done": true
   },
-  "mcwtrpdoors:recipes/birch/birch_beach_trapdoor": {
-    "criteria": {
-      "has_planks": "2023-03-22 19:47:51 +0100"
-    },
-    "done": true
-  },
   "securitycraft:recipes/securitycraft/portable_tune_player": {
     "criteria": {
       "has_redstone": "2023-04-02 02:09:25 +0200"
@@ -3898,12 +3598,6 @@
   "alltheores:recipes/alltheores/lumium_dust_from_alloy_blending": {
     "criteria": {
       "has_item": "2023-03-29 23:10:47 +0200"
-    },
-    "done": true
-  },
-  "mcwtrpdoors:recipes/bamboo/bamboo_cottage_trapdoor": {
-    "criteria": {
-      "has_planks": "2023-03-22 19:47:51 +0100"
     },
     "done": true
   },
@@ -3931,21 +3625,15 @@
     },
     "done": true
   },
-  "smallships:recipes/bop_jacaranda_rowboat": {
-    "criteria": {
-      "in_water": "2023-03-22 19:52:51 +0100"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/stone": {
     "criteria": {
       "has_cobblestone": "2023-03-29 21:18:32 +0200"
     },
     "done": true
   },
-  "smallships:recipes/envi_willow_drakkar": {
+  "elementalcraft:recipes/elementalcraft/major_rune_slate": {
     "criteria": {
-      "in_water": "2023-03-22 19:52:51 +0100"
+      "has_whiterock": "2023-06-16 00:45:27 +0200"
     },
     "done": true
   },
@@ -3986,18 +3674,6 @@
     },
     "done": true
   },
-  "smallships:recipes/envi_cherry_war_galley": {
-    "criteria": {
-      "in_water": "2023-03-22 19:52:51 +0100"
-    },
-    "done": true
-  },
-  "mcwtrpdoors:recipes/acacia/acacia_barred_trapdoor": {
-    "criteria": {
-      "has_planks": "2023-03-22 19:47:52 +0100"
-    },
-    "done": true
-  },
   "cfm:recipes/cfm/stripped_acacia_kitchen_sink_light": {
     "criteria": {
       "has_bucket": "2023-03-29 22:02:57 +0200"
@@ -4019,12 +3695,6 @@
   "minecraft:recipes/redstone/stone_pressure_plate": {
     "criteria": {
       "has_stone": "2023-04-02 02:04:33 +0200"
-    },
-    "done": true
-  },
-  "smallships:recipes/bop_palm_dhow": {
-    "criteria": {
-      "in_water": "2023-03-22 19:52:51 +0100"
     },
     "done": true
   },
@@ -4058,18 +3728,6 @@
     },
     "done": true
   },
-  "smallships:recipes/lotr_apple_drakkar": {
-    "criteria": {
-      "in_water": "2023-03-22 19:52:51 +0100"
-    },
-    "done": true
-  },
-  "smallships:recipes/lotr_mallorn_war_galley": {
-    "criteria": {
-      "in_water": "2023-03-22 19:52:51 +0100"
-    },
-    "done": true
-  },
   "constructionwand:recipes/tools/infinity_wand": {
     "criteria": {
       "has_item": "2023-04-02 02:24:13 +0200"
@@ -4091,6 +3749,12 @@
   "create:recipes/create.base/crafting/kinetics/smart_fluid_pipe": {
     "criteria": {
       "has_item": "2023-04-02 02:20:55 +0200"
+    },
+    "done": true
+  },
+  "elementalcraft:recipes/elementalcraft/drenched_saw_blade": {
+    "criteria": {
+      "has_drenched_iron_ingot": "2023-06-16 00:45:32 +0200"
     },
     "done": true
   },
@@ -4184,6 +3848,12 @@
     },
     "done": true
   },
+  "elementalcraft:pickup/swift_alloy_ingot": {
+    "criteria": {
+      "has_swift_alloy_ingot": "2023-06-16 00:45:37 +0200"
+    },
+    "done": true
+  },
   "xnet:recipes/xnet/connector_red_dye": {
     "criteria": {
       "chest": "2023-04-02 02:09:06 +0200"
@@ -4211,12 +3881,6 @@
   "minecraft:recipes/building_blocks/yellow_terracotta": {
     "criteria": {
       "has_terracotta": "2023-04-02 15:13:10 +0200"
-    },
-    "done": true
-  },
-  "smallships:recipes/lotr_lairelosse_drakkar": {
-    "criteria": {
-      "in_water": "2023-03-22 19:52:51 +0100"
     },
     "done": true
   },
@@ -4256,12 +3920,6 @@
     },
     "done": true
   },
-  "smallships:recipes/lotr_holly_galley": {
-    "criteria": {
-      "in_water": "2023-03-22 19:52:51 +0100"
-    },
-    "done": true
-  },
   "mcwroofs:recipes/jungle": {
     "criteria": {
       "has_planks": "2023-03-22 19:47:50 +0100"
@@ -4271,12 +3929,6 @@
   "silentgear:recipes/silentgear/sickle_template": {
     "criteria": {
       "has_item": "2023-04-02 02:19:28 +0200"
-    },
-    "done": true
-  },
-  "mcwtrpdoors:recipes/dark_oak/dark_oak_cottage_trapdoor": {
-    "criteria": {
-      "has_planks": "2023-03-22 19:47:50 +0100"
     },
     "done": true
   },
@@ -4352,12 +4004,6 @@
     },
     "done": true
   },
-  "smallships:recipes/bop_magic_war_galley": {
-    "criteria": {
-      "in_water": "2023-03-22 19:52:51 +0100"
-    },
-    "done": true
-  },
   "croptopia:recipes/chilli_relleno": {
     "criteria": {
       "has_egg": "2023-04-02 03:23:03 +0200"
@@ -4382,12 +4028,6 @@
     },
     "done": true
   },
-  "mcwtrpdoors:recipes/acacia/acacia_beach_trapdoor": {
-    "criteria": {
-      "has_planks": "2023-03-22 19:47:52 +0100"
-    },
-    "done": true
-  },
   "cfm:recipes/cfm/stripped_oak_table": {
     "criteria": {
       "has_planks": "2023-04-02 01:56:30 +0200"
@@ -4397,12 +4037,6 @@
   "farmersdelight:recipes/farmersdelight/safety_net": {
     "criteria": {
       "has_rope": "2023-03-29 22:33:27 +0200"
-    },
-    "done": true
-  },
-  "smallships:recipes/lotr_rotten_galley": {
-    "criteria": {
-      "in_water": "2023-03-22 19:52:51 +0100"
     },
     "done": true
   },
@@ -4448,6 +4082,12 @@
     },
     "done": true
   },
+  "elementalcraft:recipes/elementalcraft/burnt_glass_pane": {
+    "criteria": {
+      "has_burnt_glass": "2023-06-16 00:45:27 +0200"
+    },
+    "done": true
+  },
   "reliquary:recipes/brewing/uncrafting/glass_bottle": {
     "criteria": {
       "has_witch_hat": "2023-04-02 02:42:36 +0200"
@@ -4466,9 +4106,9 @@
     },
     "done": true
   },
-  "smallships:recipes/lotr_holly_dhow": {
+  "elementalcraft:pickup/burnt_glass": {
     "criteria": {
-      "in_water": "2023-03-22 19:52:51 +0100"
+      "has_burnt_glass": "2023-06-16 00:45:27 +0200"
     },
     "done": true
   },
@@ -4481,6 +4121,12 @@
   "mcwbridges:recipes/red_sandstone_bridge_pier": {
     "criteria": {
       "has_planks": "2023-04-30 00:16:04 +0200"
+    },
+    "done": true
+  },
+  "ae2:recipes/tools/tools/certus_quartz_pickaxe": {
+    "criteria": {
+      "has_certus_quartz": "2023-06-16 00:33:27 +0200"
     },
     "done": true
   },
@@ -4580,12 +4226,6 @@
     },
     "done": true
   },
-  "smallships:recipes/bop_hellbark_drakkar": {
-    "criteria": {
-      "in_water": "2023-03-22 19:52:51 +0100"
-    },
-    "done": true
-  },
   "immersiveengineering:recipes/immersiveengineering/crafting/sawblade": {
     "criteria": {
       "has_steel_ingot": "2023-04-02 02:10:52 +0200"
@@ -4641,27 +4281,21 @@
     },
     "done": true
   },
-  "smallships:recipes/lotr_charred_dhow": {
-    "criteria": {
-      "in_water": "2023-03-22 19:52:51 +0100"
-    },
-    "done": true
-  },
   "cfm:recipes/cfm/stripped_warped_kitchen_sink_light": {
     "criteria": {
       "has_bucket": "2023-03-29 22:02:57 +0200"
     },
     "done": true
   },
-  "immersiveengineering:recipes/immersiveengineering/crafting/component_iron": {
+  "elementalcraft:recipes/elementalcraft/minor_rune_slate": {
     "criteria": {
-      "has_iron_ingot": "2023-03-29 21:10:15 +0200"
+      "has_whiterock": "2023-06-16 00:45:27 +0200"
     },
     "done": true
   },
-  "smallships:recipes/lotr_aspen_drakkar": {
+  "immersiveengineering:recipes/immersiveengineering/crafting/component_iron": {
     "criteria": {
-      "in_water": "2023-03-22 19:52:51 +0100"
+      "has_iron_ingot": "2023-03-29 21:10:15 +0200"
     },
     "done": true
   },
@@ -4701,12 +4335,6 @@
     },
     "done": true
   },
-  "smallships:recipes/bop_redwood_dhow": {
-    "criteria": {
-      "in_water": "2023-03-22 19:52:51 +0100"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/dark_oak_stairs": {
     "criteria": {
       "has_planks": "2023-03-22 19:51:20 +0100"
@@ -4731,12 +4359,6 @@
     },
     "done": true
   },
-  "smallships:recipes/bop_redwood_cog": {
-    "criteria": {
-      "in_water": "2023-03-22 19:52:51 +0100"
-    },
-    "done": true
-  },
   "botania:recipes/botania/conversions/manasteel_block_deconstruct": {
     "criteria": {
       "has_item": "2023-04-02 02:42:29 +0200"
@@ -4746,12 +4368,6 @@
   "minecraft:recipes/building_blocks/granite_slab": {
     "criteria": {
       "has_granite": "2023-04-02 17:01:46 +0200"
-    },
-    "done": true
-  },
-  "smallships:recipes/bop_fir_rowboat": {
-    "criteria": {
-      "in_water": "2023-03-22 19:52:51 +0100"
     },
     "done": true
   },
@@ -4776,12 +4392,6 @@
   "tombstone:adventure/first_knowledge": {
     "criteria": {
       "coded_trigger": "2023-03-29 22:12:16 +0200"
-    },
-    "done": true
-  },
-  "smallships:recipes/envi_wisteria_cog": {
-    "criteria": {
-      "in_water": "2023-03-22 19:52:51 +0100"
     },
     "done": true
   },
@@ -4837,12 +4447,6 @@
   "sophisticatedstorage:recipes/sophisticatedstorage/oak_barrel": {
     "criteria": {
       "has_oak_plank": "2023-03-22 19:47:53 +0100"
-    },
-    "done": true
-  },
-  "smallships:recipes/bop_hellbark_brigg": {
-    "criteria": {
-      "in_water": "2023-03-22 19:52:51 +0100"
     },
     "done": true
   },
@@ -5112,12 +4716,6 @@
     },
     "done": true
   },
-  "smallships:recipes/bop_redwood_brigg": {
-    "criteria": {
-      "in_water": "2023-03-22 19:52:51 +0100"
-    },
-    "done": true
-  },
   "mcwroofs:recipes/crimson": {
     "criteria": {
       "has_planks": "2023-03-22 19:47:50 +0100"
@@ -5127,24 +4725,6 @@
   "elementalcraft:recipes/elementalcraft/powerful_air_shard_from_air_shards": {
     "criteria": {
       "has_air_shard": "2023-04-02 03:07:48 +0200"
-    },
-    "done": true
-  },
-  "mcwtrpdoors:recipes/jungle/jungle_barn_trapdoor": {
-    "criteria": {
-      "has_planks": "2023-03-22 19:47:52 +0100"
-    },
-    "done": true
-  },
-  "smallships:recipes/lotr_cedar_drakkar": {
-    "criteria": {
-      "in_water": "2023-03-22 19:52:51 +0100"
-    },
-    "done": true
-  },
-  "smallships:recipes/bop_cherry_war_galley": {
-    "criteria": {
-      "in_water": "2023-03-22 19:52:51 +0100"
     },
     "done": true
   },
@@ -5172,12 +4752,6 @@
     },
     "done": true
   },
-  "mcwtrpdoors:recipes/bamboo/bamboo_paper_trapdoor": {
-    "criteria": {
-      "has_planks": "2023-03-22 19:47:52 +0100"
-    },
-    "done": true
-  },
   "cfm:recipes/cfm/dark_oak_kitchen_counter": {
     "criteria": {
       "has_log": "2023-03-22 19:49:41 +0100"
@@ -5196,15 +4770,15 @@
     },
     "done": true
   },
-  "apotheosis:affix/common": {
+  "elementalcraft:recipes/elementalcraft/source_stabilizer": {
     "criteria": {
-      "sword": "2023-03-22 19:55:57 +0100"
+      "has_swift_alloy_ingot": "2023-06-16 00:45:37 +0200"
     },
     "done": true
   },
-  "mcwtrpdoors:recipes/oak/oak_glass_trapdoor": {
+  "apotheosis:affix/common": {
     "criteria": {
-      "has_planks": "2023-03-22 19:47:51 +0100"
+      "sword": "2023-03-22 19:55:57 +0100"
     },
     "done": true
   },
@@ -5241,12 +4815,6 @@
   "ftbic:recipes/ftbic/shaped/uranium_ingot_to_uranium_block": {
     "criteria": {
       "has_item": "2023-04-02 15:17:01 +0200"
-    },
-    "done": true
-  },
-  "smallships:recipes/dark_oak_rowboat": {
-    "criteria": {
-      "in_water": "2023-03-22 19:52:51 +0100"
     },
     "done": true
   },
@@ -5289,12 +4857,6 @@
   "apotheosis:enchanting/bookshelf": {
     "criteria": {
       "bookshelf": "2023-04-02 02:13:48 +0200"
-    },
-    "done": true
-  },
-  "smallships:recipes/lotr_maple_dhow": {
-    "criteria": {
-      "in_water": "2023-03-22 19:52:51 +0100"
     },
     "done": true
   },
@@ -5370,18 +4932,6 @@
     },
     "done": true
   },
-  "smallships:recipes/birch_rowboat": {
-    "criteria": {
-      "in_water": "2023-03-22 19:52:51 +0100"
-    },
-    "done": true
-  },
-  "smallships:recipes/bop_mahogany_war_galley": {
-    "criteria": {
-      "in_water": "2023-03-22 19:52:51 +0100"
-    },
-    "done": true
-  },
   "silentgear:recipes/silentgear/coating_template": {
     "criteria": {
       "has_item": "2023-04-02 02:19:28 +0200"
@@ -5391,12 +4941,6 @@
   "minecraft:recipes/decorations/brown_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2023-04-02 17:10:22 +0200"
-    },
-    "done": true
-  },
-  "smallships:recipes/lotr_cherry_cog": {
-    "criteria": {
-      "in_water": "2023-03-22 19:52:51 +0100"
     },
     "done": true
   },
@@ -5425,12 +4969,6 @@
     },
     "done": true
   },
-  "smallships:recipes/bop_hellbark_galley": {
-    "criteria": {
-      "in_water": "2023-03-22 19:52:51 +0100"
-    },
-    "done": true
-  },
   "twilightforest:progress_lich": {
     "criteria": {
       "twilight_scepter": "2023-04-30 01:25:26 +0200",
@@ -5438,15 +4976,9 @@
     },
     "done": true
   },
-  "smallships:recipes/lotr_lebethron_brigg": {
+  "elementalcraft:recipes/elementalcraft/diffuser": {
     "criteria": {
-      "in_water": "2023-03-22 19:52:51 +0100"
-    },
-    "done": true
-  },
-  "smallships:recipes/lotr_cypress_cog": {
-    "criteria": {
-      "in_water": "2023-03-22 19:52:51 +0100"
+      "has_contained_crystal": "2023-06-16 00:45:21 +0200"
     },
     "done": true
   },
@@ -5483,12 +5015,6 @@
   "pneumaticcraft:pneumatic_wrench": {
     "criteria": {
       "0": "2023-04-29 17:41:33 +0200"
-    },
-    "done": true
-  },
-  "mcwtrpdoors:recipes/oak/oak_mystic_trapdoor": {
-    "criteria": {
-      "has_planks": "2023-03-22 19:47:51 +0100"
     },
     "done": true
   },
@@ -5584,12 +5110,6 @@
     },
     "done": true
   },
-  "mcwtrpdoors:recipes/dark_oak/dark_oak_beach_trapdoor": {
-    "criteria": {
-      "has_planks": "2023-03-22 19:47:50 +0100"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/lime_concrete_powder": {
     "criteria": {
       "has_gravel": "2023-05-04 00:20:02 +0200"
@@ -5617,12 +5137,6 @@
   "cfm:recipes/cfm/stripped_acacia_table": {
     "criteria": {
       "has_planks": "2023-04-02 15:42:56 +0200"
-    },
-    "done": true
-  },
-  "mcwtrpdoors:recipes/bamboo/bamboo_barn_trapdoor": {
-    "criteria": {
-      "has_planks": "2023-03-22 19:47:52 +0100"
     },
     "done": true
   },
@@ -5702,18 +5216,6 @@
   "ars_nouveau:recipes/building_blocks/conjuration_essence_to_soul_sand": {
     "criteria": {
       "has_journal": "2023-04-02 02:03:28 +0200"
-    },
-    "done": true
-  },
-  "smallships:recipes/lotr_cherry_rowboat": {
-    "criteria": {
-      "in_water": "2023-03-22 19:52:51 +0100"
-    },
-    "done": true
-  },
-  "smallships:recipes/lotr_maple_rowboat": {
-    "criteria": {
-      "in_water": "2023-03-22 19:52:51 +0100"
     },
     "done": true
   },
@@ -5807,6 +5309,12 @@
     },
     "done": true
   },
+  "elementalcraft:recipes/elementalcraft/swift_alloy_block_from_swift_alloy_ingot": {
+    "criteria": {
+      "has_swift_alloy_ingot": "2023-06-16 00:45:37 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/lime_dye": {
     "criteria": {
       "has_green_dye": "2023-04-02 16:58:22 +0200"
@@ -5828,12 +5336,6 @@
   "minecraft:recipes/woodcutting/jungle/jungle_planks_from_stripped_jungle_log_woodcutting": {
     "criteria": {
       "give_recipe": "2023-04-29 17:58:53 +0200"
-    },
-    "done": true
-  },
-  "smallships:recipes/dark_oak_brigg": {
-    "criteria": {
-      "in_water": "2023-03-22 19:52:51 +0100"
     },
     "done": true
   },
@@ -5928,12 +5430,6 @@
     },
     "done": true
   },
-  "mcwtrpdoors:recipes/bamboo/bamboo_tropical_trapdoor": {
-    "criteria": {
-      "has_planks": "2023-03-22 19:47:52 +0100"
-    },
-    "done": true
-  },
   "mcwroofs:recipes/acacia_planks": {
     "criteria": {
       "has_planks": "2023-03-22 19:47:52 +0100"
@@ -5949,12 +5445,6 @@
   "minecraft:recipes/misc/copper_ingot_from_blasting_raw_copper": {
     "criteria": {
       "has_raw_copper": "2023-04-02 02:03:17 +0200"
-    },
-    "done": true
-  },
-  "mcwtrpdoors:recipes/bamboo/bamboo_swamp_trapdoor": {
-    "criteria": {
-      "has_planks": "2023-03-22 19:47:51 +0100"
     },
     "done": true
   },
@@ -6184,12 +5674,6 @@
     },
     "done": true
   },
-  "smallships:recipes/bop_magic_galley": {
-    "criteria": {
-      "in_water": "2023-03-22 19:52:51 +0100"
-    },
-    "done": true
-  },
   "minecraft:husbandry/tame_an_animal": {
     "criteria": {
       "tamed_animal": "2023-03-29 21:38:09 +0200"
@@ -6250,21 +5734,15 @@
     },
     "done": true
   },
+  "elementalcraft:recipes/elementalcraft/drenched_iron_nugget_from_drenched_iron_ingot": {
+    "criteria": {
+      "has_drenched_iron_ingot": "2023-06-16 00:45:32 +0200"
+    },
+    "done": true
+  },
   "pneumaticcraft:recipes/pneumaticcraft/reinforced_brick_from_slab": {
     "criteria": {
       "has_ingot_iron_compressed": "2023-03-22 19:54:47 +0100"
-    },
-    "done": true
-  },
-  "smallships:recipes/lotr_aspen_brigg": {
-    "criteria": {
-      "in_water": "2023-03-22 19:52:51 +0100"
-    },
-    "done": true
-  },
-  "smallships:recipes/lotr_larch_drakkar": {
-    "criteria": {
-      "in_water": "2023-03-22 19:52:51 +0100"
     },
     "done": true
   },
@@ -6292,12 +5770,6 @@
     },
     "done": true
   },
-  "mcwtrpdoors:recipes/jungle/jungle_tropical_trapdoor": {
-    "criteria": {
-      "has_planks": "2023-03-22 19:47:51 +0100"
-    },
-    "done": true
-  },
   "pneumaticcraft:recipes/pneumaticcraft/thermal_compressor": {
     "criteria": {
       "has_ingot_iron_compressed": "2023-03-22 19:54:47 +0100"
@@ -6319,6 +5791,12 @@
   "refinedstorage:recipes/refinedstorage/crafting_grid/brown_crafting_grid": {
     "criteria": {
       "refinedstorage:grid": "2023-04-02 17:19:44 +0200"
+    },
+    "done": true
+  },
+  "ae2:recipes/tools/tools/certus_quartz_axe": {
+    "criteria": {
+      "has_certus_quartz": "2023-06-16 00:33:27 +0200"
     },
     "done": true
   },
@@ -6460,12 +5938,6 @@
     },
     "done": true
   },
-  "smallships:recipes/bop_palm_war_galley": {
-    "criteria": {
-      "in_water": "2023-03-22 19:52:51 +0100"
-    },
-    "done": true
-  },
   "alltheores:recipes/alltheores/tin_rod": {
     "criteria": {
       "has_TagKey[minecraft:item / forge:ingots/tin]_ingot": "2023-03-29 21:42:58 +0200"
@@ -6478,15 +5950,15 @@
     },
     "done": true
   },
-  "smallships:recipes/oak_galley": {
-    "criteria": {
-      "in_water": "2023-03-22 19:52:51 +0100"
-    },
-    "done": true
-  },
   "ars_nouveau:recipes/decorations/archwood_to_chest": {
     "criteria": {
       "has_journal": "2023-04-02 02:03:28 +0200"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/conversions/black_petal_block_deconstruct": {
+    "criteria": {
+      "has_item": "2023-06-16 00:45:58 +0200"
     },
     "done": true
   },
@@ -6514,12 +5986,6 @@
     },
     "done": true
   },
-  "smallships:recipes/lotr_green_oak_cog": {
-    "criteria": {
-      "in_water": "2023-03-22 19:52:51 +0100"
-    },
-    "done": true
-  },
   "alchemistry:recipes/dissolver/diorite": {
     "criteria": {
       "has_the_recipe": "2023-04-02 02:14:10 +0200"
@@ -6529,12 +5995,6 @@
   "minecraft:recipes/building_blocks/granite_stairs_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2023-04-02 17:01:46 +0200"
-    },
-    "done": true
-  },
-  "smallships:recipes/lotr_charred_rowboat": {
-    "criteria": {
-      "in_water": "2023-03-22 19:52:51 +0100"
     },
     "done": true
   },
@@ -6610,21 +6070,9 @@
     },
     "done": true
   },
-  "mcwtrpdoors:recipes/jungle/jungle_glass_trapdoor": {
-    "criteria": {
-      "has_planks": "2023-03-22 19:47:50 +0100"
-    },
-    "done": true
-  },
   "alltheores:recipes/alltheores/zinc_nugget_from_ingot": {
     "criteria": {
       "has_item": "2023-03-29 21:41:29 +0200"
-    },
-    "done": true
-  },
-  "smallships:recipes/lotr_lebethron_war_galley": {
-    "criteria": {
-      "in_water": "2023-03-22 19:52:51 +0100"
     },
     "done": true
   },
@@ -6641,21 +6089,9 @@
     },
     "done": true
   },
-  "smallships:recipes/dark_oak_dhow": {
-    "criteria": {
-      "in_water": "2023-03-22 19:52:51 +0100"
-    },
-    "done": true
-  },
   "pneumaticcraft:recipes/pneumaticcraft/volume_upgrade": {
     "criteria": {
       "has_lapis_lazuli": "2023-04-02 15:15:09 +0200"
-    },
-    "done": true
-  },
-  "smallships:recipes/bop_jacaranda_brigg": {
-    "criteria": {
-      "in_water": "2023-03-22 19:52:51 +0100"
     },
     "done": true
   },
@@ -6687,18 +6123,6 @@
   "mcwbridges:recipes/birch_rope_bridge_stair": {
     "criteria": {
       "has_planks": "2023-04-30 00:16:04 +0200"
-    },
-    "done": true
-  },
-  "mcwtrpdoors:recipes/print_paper": {
-    "criteria": {
-      "has_planks": "2023-03-22 19:47:52 +0100"
-    },
-    "done": true
-  },
-  "smallships:recipes/lotr_aspen_dhow": {
-    "criteria": {
-      "in_water": "2023-03-22 19:52:51 +0100"
     },
     "done": true
   },
@@ -6751,12 +6175,6 @@
     },
     "done": false
   },
-  "mcwtrpdoors:recipes/bamboo/bamboo_classic_trapdoor": {
-    "criteria": {
-      "has_planks": "2023-03-22 19:47:52 +0100"
-    },
-    "done": true
-  },
   "minecraft:recipes/woodcutting/mahogany/polished_mahogany_fence_from_mahogany_slab_woodcutting": {
     "criteria": {
       "give_recipe": "2023-04-29 19:10:28 +0200"
@@ -6796,12 +6214,6 @@
   "farmersdelight:recipes/farmersdelight/cooking/pumpkin_soup": {
     "criteria": {
       "has_any_ingredient": "2023-03-22 19:49:20 +0100"
-    },
-    "done": true
-  },
-  "mcwtrpdoors:recipes/oak/oak_beach_trapdoor": {
-    "criteria": {
-      "has_planks": "2023-03-22 19:47:51 +0100"
     },
     "done": true
   },
@@ -7003,18 +6415,6 @@
     },
     "done": true
   },
-  "smallships:recipes/lotr_fir_cog": {
-    "criteria": {
-      "in_water": "2023-03-22 19:52:51 +0100"
-    },
-    "done": true
-  },
-  "smallships:recipes/lotr_fir_rowboat": {
-    "criteria": {
-      "in_water": "2023-03-22 19:52:51 +0100"
-    },
-    "done": true
-  },
   "minecolonies:recipes/minecolonies/blockconstructiontape": {
     "criteria": {
       "has_wool": "2023-03-22 20:05:27 +0100"
@@ -7069,12 +6469,6 @@
     },
     "done": true
   },
-  "smallships:recipes/lotr_aspen_war_galley": {
-    "criteria": {
-      "in_water": "2023-03-22 19:52:51 +0100"
-    },
-    "done": true
-  },
   "byg:recipes/byg.byg/cika_wood": {
     "criteria": {
       "has_log": "2023-03-22 19:52:44 +0100"
@@ -7126,18 +6520,6 @@
   "quarryplus:recipes/workbench": {
     "criteria": {
       "has_storage_blocks/iron": "2023-03-29 21:22:00 +0200"
-    },
-    "done": true
-  },
-  "smallships:recipes/envi_cherry_drakkar": {
-    "criteria": {
-      "in_water": "2023-03-22 19:52:51 +0100"
-    },
-    "done": true
-  },
-  "smallships:recipes/birch_dhow": {
-    "criteria": {
-      "in_water": "2023-03-22 19:52:51 +0100"
     },
     "done": true
   },
@@ -7316,12 +6698,6 @@
     },
     "done": false
   },
-  "smallships:recipes/bop_cherry_galley": {
-    "criteria": {
-      "in_water": "2023-03-22 19:52:51 +0100"
-    },
-    "done": true
-  },
   "immersiveengineering:recipes/immersiveengineering/crafting/hammer": {
     "criteria": {
       "has_iron_ingot": "2023-03-29 21:10:16 +0200"
@@ -7337,12 +6713,6 @@
   "alchemistry:recipes/dissolver/raw_iron_block": {
     "criteria": {
       "has_the_recipe": "2023-03-29 21:20:48 +0200"
-    },
-    "done": true
-  },
-  "smallships:recipes/envi_cherry_dhow": {
-    "criteria": {
-      "in_water": "2023-03-22 19:52:51 +0100"
     },
     "done": true
   },
@@ -7367,6 +6737,12 @@
   "reliquary:recipes/food/uncrafting/spider_eye": {
     "criteria": {
       "has_chelicerae": "2023-04-02 17:15:48 +0200"
+    },
+    "done": true
+  },
+  "elementalcraft:pickup/whiterock": {
+    "criteria": {
+      "has_whiterock": "2023-06-16 00:45:27 +0200"
     },
     "done": true
   },
@@ -7436,12 +6812,6 @@
     },
     "done": false
   },
-  "smallships:recipes/lotr_pear_galley": {
-    "criteria": {
-      "in_water": "2023-03-22 19:52:51 +0100"
-    },
-    "done": true
-  },
   "minecraft:recipes/woodcutting/dark_oak/dark_oak_door_from_dark_oak_slab_woodcutting": {
     "criteria": {
       "give_recipe": "2023-04-29 18:25:51 +0200"
@@ -7457,12 +6827,6 @@
   "sophisticatedstorage:recipes/sophisticatedstorage/stack_upgrade_tier_2": {
     "criteria": {
       "has_upgrade_base": "2023-04-02 03:18:36 +0200"
-    },
-    "done": true
-  },
-  "smallships:recipes/bop_fir_war_galley": {
-    "criteria": {
-      "in_water": "2023-03-22 19:52:51 +0100"
     },
     "done": true
   },
@@ -7502,21 +6866,9 @@
     },
     "done": true
   },
-  "smallships:recipes/lotr_lebethron_drakkar": {
-    "criteria": {
-      "in_water": "2023-03-22 19:52:51 +0100"
-    },
-    "done": true
-  },
   "create:recipes/create.palettes/layered_granite_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2023-04-02 17:01:45 +0200"
-    },
-    "done": true
-  },
-  "smallships:recipes/oak_rowboat": {
-    "criteria": {
-      "in_water": "2023-03-22 19:52:51 +0100"
     },
     "done": true
   },
@@ -7541,12 +6893,6 @@
   "reliquary:recipes/reliquary/magicbane": {
     "criteria": {
       "has_nebulous_heart": "2023-04-29 19:32:45 +0200"
-    },
-    "done": true
-  },
-  "mcwtrpdoors:recipes/birch/birch_barred_trapdoor": {
-    "criteria": {
-      "has_planks": "2023-03-22 19:47:51 +0100"
     },
     "done": true
   },
@@ -7619,6 +6965,12 @@
   "minecraft:recipes/decorations/green_carpet_from_white_carpet": {
     "criteria": {
       "has_green_dye": "2023-04-02 16:58:22 +0200"
+    },
+    "done": true
+  },
+  "elementalcraft:recipes/elementalcraft/extractor_improved": {
+    "criteria": {
+      "has_whiterock": "2023-06-16 00:45:27 +0200"
     },
     "done": true
   },
@@ -7813,12 +7165,6 @@
     },
     "done": true
   },
-  "smallships:recipes/lotr_aspen_galley": {
-    "criteria": {
-      "in_water": "2023-03-22 19:52:51 +0100"
-    },
-    "done": true
-  },
   "evilcraft:first_age": {
     "criteria": {
       "criteria_0": "2023-03-29 21:25:49 +0200"
@@ -7886,12 +7232,6 @@
     },
     "done": true
   },
-  "smallships:recipes/acacia_galley": {
-    "criteria": {
-      "in_water": "2023-03-22 19:52:51 +0100"
-    },
-    "done": true
-  },
   "xycraft_world:recipes/xycraft_world/stonecutting/glass_viewer_dire": {
     "criteria": {
       "has_for_glass_viewer_dire": "2023-04-02 15:18:39 +0200"
@@ -7928,21 +7268,9 @@
     },
     "done": true
   },
-  "smallships:recipes/bop_palm_galley": {
-    "criteria": {
-      "in_water": "2023-03-22 19:52:51 +0100"
-    },
-    "done": true
-  },
   "mcwbridges:recipes/bamboo_bridge": {
     "criteria": {
       "has_planks": "2023-04-30 00:16:04 +0200"
-    },
-    "done": true
-  },
-  "smallships:recipes/envi_willow_galley": {
-    "criteria": {
-      "in_water": "2023-03-22 19:52:51 +0100"
     },
     "done": true
   },
@@ -7955,12 +7283,6 @@
   "minecraft:recipes/decorations/jungle_sign": {
     "criteria": {
       "has_planks": "2023-04-29 17:56:42 +0200"
-    },
-    "done": true
-  },
-  "mcwtrpdoors:recipes/warped/warped_tropical_trapdoor": {
-    "criteria": {
-      "has_planks": "2023-03-22 19:47:51 +0100"
     },
     "done": true
   },
@@ -7991,18 +7313,6 @@
   "alltheores:recipes/alltheores/nickel_nugget_from_ingot": {
     "criteria": {
       "has_item": "2023-03-29 21:47:01 +0200"
-    },
-    "done": true
-  },
-  "smallships:recipes/lotr_charred_brigg": {
-    "criteria": {
-      "in_water": "2023-03-22 19:52:51 +0100"
-    },
-    "done": true
-  },
-  "smallships:recipes/lotr_cypress_dhow": {
-    "criteria": {
-      "in_water": "2023-03-22 19:52:51 +0100"
     },
     "done": true
   },
@@ -8096,21 +7406,9 @@
     },
     "done": true
   },
-  "smallships:recipes/lotr_beech_drakkar": {
-    "criteria": {
-      "in_water": "2023-03-22 19:52:51 +0100"
-    },
-    "done": true
-  },
   "botania:recipes/botania/lens_normal": {
     "criteria": {
       "has_item": "2023-04-02 02:42:29 +0200"
-    },
-    "done": true
-  },
-  "mcwtrpdoors:recipes/birch/birch_four_panel_trapdoor": {
-    "criteria": {
-      "has_planks": "2023-03-22 19:47:51 +0100"
     },
     "done": true
   },
@@ -8183,6 +7481,12 @@
   "twilightforest:recipes/twilightforest/equipment/fiery_chestplate": {
     "criteria": {
       "has_item": "2023-04-30 02:16:23 +0200"
+    },
+    "done": true
+  },
+  "elementalcraft:recipes/elementalcraft/rune_slate": {
+    "criteria": {
+      "has_whiterock": "2023-06-16 00:45:27 +0200"
     },
     "done": true
   },
@@ -8372,12 +7676,6 @@
     },
     "done": true
   },
-  "smallships:recipes/lotr_lairelosse_brigg": {
-    "criteria": {
-      "in_water": "2023-03-22 19:52:51 +0100"
-    },
-    "done": true
-  },
   "pneumaticcraft:recipes/pneumaticcraft/compressed_brick_slab": {
     "criteria": {
       "has_ingot_iron_compressed": "2023-03-22 19:54:47 +0100"
@@ -8399,12 +7697,6 @@
   "create:recipes/create.base/crafting/kinetics/light_gray_seat": {
     "criteria": {
       "has_wool": "2023-03-22 20:05:27 +0100"
-    },
-    "done": true
-  },
-  "mcwtrpdoors:recipes/metal/metal_full_trapdoor": {
-    "criteria": {
-      "has_planks": "2023-03-22 19:47:50 +0100"
     },
     "done": true
   },
@@ -8468,6 +7760,12 @@
     },
     "done": true
   },
+  "ae2:recipes/ae2.main/network/blocks/energy_energy_cell": {
+    "criteria": {
+      "has_crystals/certus": "2023-06-16 00:33:27 +0200"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/ars_nouveau/sourcestone_18": {
     "criteria": {
       "has_journal": "2023-04-02 02:03:28 +0200"
@@ -8480,12 +7778,6 @@
     },
     "done": true
   },
-  "mcwtrpdoors:recipes/acacia/acacia_paper_trapdoor": {
-    "criteria": {
-      "has_planks": "2023-03-22 19:47:51 +0100"
-    },
-    "done": true
-  },
   "twilightforest:progress_naga": {
     "criteria": {
       "was_in_fight": "2023-04-30 01:22:06 +0200"
@@ -8495,6 +7787,12 @@
   "blue_skies:recipes/blue_skies_dungeon/glowing_nature_stonebrick_from_glowstone": {
     "criteria": {
       "has_item": "2023-04-30 00:30:57 +0200"
+    },
+    "done": true
+  },
+  "elementalcraft:pickup/contained_crystal": {
+    "criteria": {
+      "has_contained_crystal": "2023-06-16 00:45:21 +0200"
     },
     "done": true
   },
@@ -8618,12 +7916,6 @@
     },
     "done": true
   },
-  "smallships:recipes/lotr_fir_war_galley": {
-    "criteria": {
-      "in_water": "2023-03-22 19:52:51 +0100"
-    },
-    "done": true
-  },
   "delightful:recipes/knives/nickel_knife": {
     "criteria": {
       "has_nickel": "2023-03-29 21:47:01 +0200"
@@ -8681,18 +7973,6 @@
   "byg:recipes/byg.byg/ebony_chest_boat": {
     "criteria": {
       "has_boat": "2023-03-22 19:58:43 +0100"
-    },
-    "done": true
-  },
-  "smallships:recipes/lotr_green_oak_drakkar": {
-    "criteria": {
-      "in_water": "2023-03-22 19:52:51 +0100"
-    },
-    "done": true
-  },
-  "smallships:recipes/lotr_cypress_rowboat": {
-    "criteria": {
-      "in_water": "2023-03-22 19:52:51 +0100"
     },
     "done": true
   },
@@ -8949,12 +8229,6 @@
     },
     "done": true
   },
-  "smallships:recipes/bop_mahogany_galley": {
-    "criteria": {
-      "in_water": "2023-03-22 19:52:51 +0100"
-    },
-    "done": true
-  },
   "twilightforest:recipes/twilightforest/equipment/fiery_fiery_helmet": {
     "criteria": {
       "has_item": "2023-04-30 01:54:12 +0200"
@@ -8967,21 +8241,9 @@
     },
     "done": true
   },
-  "mcwtrpdoors:recipes/spruce/spruce_ranch_trapdoor": {
-    "criteria": {
-      "has_planks": "2023-03-22 19:47:52 +0100"
-    },
-    "done": true
-  },
   "twilightforest:recipes/twilightforest/material/fiery_iron_ingot_reversed": {
     "criteria": {
       "has_item": "2023-04-30 02:16:23 +0200"
-    },
-    "done": true
-  },
-  "smallships:recipes/bop_umbran_dhow": {
-    "criteria": {
-      "in_water": "2023-03-22 19:52:51 +0100"
     },
     "done": true
   },
@@ -9088,6 +8350,12 @@
     },
     "done": true
   },
+  "elementalcraft:recipes/elementalcraft/element_beam": {
+    "criteria": {
+      "has_swift_alloy_ingot": "2023-06-16 00:45:37 +0200"
+    },
+    "done": true
+  },
   "allthemodium:recipes/allthemodium/raw_vibranium_block": {
     "criteria": {
       "has_raw_vibranium": "2023-03-30 23:08:06 +0200"
@@ -9115,6 +8383,12 @@
   "blue_skies:recipes/blue_skies_everbright_blocks/coarse_turquoise_dirt": {
     "criteria": {
       "has_item": "2023-05-04 00:20:02 +0200"
+    },
+    "done": true
+  },
+  "ae2:recipes/tools/tools/certus_quartz_spade": {
+    "criteria": {
+      "has_certus_quartz": "2023-06-16 00:33:27 +0200"
     },
     "done": true
   },
@@ -9238,22 +8512,9 @@
     },
     "done": true
   },
-  "mcwtrpdoors:recipes/dark_oak/dark_oak_barred_trapdoor": {
-    "criteria": {
-      "has_planks": "2023-03-22 19:47:50 +0100"
-    },
-    "done": true
-  },
   "mekanism:fluid_transport": {
     "criteria": {
       "basic_mechanical_pipe": "2023-04-02 15:22:33 +0200"
-    },
-    "done": true
-  },
-  "smallships:recipes/spruce_drakkar": {
-    "criteria": {
-      "in_water": "2023-03-22 19:52:51 +0100",
-      "has_the_recipe": "2023-03-22 19:52:51 +0100"
     },
     "done": true
   },
@@ -9272,12 +8533,6 @@
   "mcwroofs:recipes/terracotta": {
     "criteria": {
       "has_planks": "2023-03-22 19:47:51 +0100"
-    },
-    "done": true
-  },
-  "mcwtrpdoors:recipes/mangrove/mangrove_barn_trapdoor": {
-    "criteria": {
-      "has_planks": "2023-03-22 19:47:50 +0100"
     },
     "done": true
   },
@@ -9329,12 +8584,6 @@
     },
     "done": true
   },
-  "smallships:recipes/lotr_lairelosse_galley": {
-    "criteria": {
-      "in_water": "2023-03-22 19:52:51 +0100"
-    },
-    "done": true
-  },
   "cfm:recipes/cfm/cyan_kitchen_drawer": {
     "criteria": {
       "has_chest": "2023-03-29 21:15:27 +0200"
@@ -9344,12 +8593,6 @@
   "cfm:recipes/cfm/oak_chair": {
     "criteria": {
       "has_planks": "2023-03-22 19:47:52 +0100"
-    },
-    "done": true
-  },
-  "mcwtrpdoors:recipes/oak/oak_cottage_trapdoor": {
-    "criteria": {
-      "has_planks": "2023-03-22 19:47:51 +0100"
     },
     "done": true
   },
@@ -9392,12 +8635,6 @@
   "create:recipes/create.palettes/cut_andesite_slab_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2023-04-02 15:17:52 +0200"
-    },
-    "done": true
-  },
-  "mcwtrpdoors:recipes/warped/warped_barred_trapdoor": {
-    "criteria": {
-      "has_planks": "2023-03-22 19:47:51 +0100"
     },
     "done": true
   },
@@ -9479,12 +8716,6 @@
     },
     "done": true
   },
-  "mcwtrpdoors:recipes/jungle/jungle_barred_trapdoor": {
-    "criteria": {
-      "has_planks": "2023-03-22 19:47:51 +0100"
-    },
-    "done": true
-  },
   "pneumaticcraft:recipes/pneumaticcraft/compressed_brick_stairs": {
     "criteria": {
       "has_ingot_iron_compressed": "2023-03-22 19:54:47 +0100"
@@ -9500,12 +8731,6 @@
   "alltheores:recipes/alltheores/constantan_gear": {
     "criteria": {
       "has_TagKey[minecraft:item / forge:ingots/constantan]_ingot": "2023-05-03 23:52:29 +0200"
-    },
-    "done": true
-  },
-  "mcwtrpdoors:recipes/warped/warped_beach_trapdoor": {
-    "criteria": {
-      "has_planks": "2023-03-22 19:47:51 +0100"
     },
     "done": true
   },
@@ -9581,6 +8806,12 @@
     },
     "done": true
   },
+  "elementalcraft:recipes/elementalcraft/source_analysis_glass": {
+    "criteria": {
+      "has_swift_alloy_ingot": "2023-06-16 00:45:37 +0200"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/ars_nouveau/smooth_gilded_sourcestone_large_bricks_to_sourcestone": {
     "criteria": {
       "has_journal": "2023-04-02 02:03:28 +0200"
@@ -9597,12 +8828,6 @@
     "criteria": {
       "has_alt_items": "2023-03-22 19:47:51 +0100",
       "has_items": "2023-03-22 19:47:51 +0100"
-    },
-    "done": true
-  },
-  "smallships:recipes/envi_wisteria_war_galley": {
-    "criteria": {
-      "in_water": "2023-03-22 19:52:51 +0100"
     },
     "done": true
   },
@@ -9642,12 +8867,6 @@
     },
     "done": true
   },
-  "smallships:recipes/lotr_green_oak_galley": {
-    "criteria": {
-      "in_water": "2023-03-22 19:52:51 +0100"
-    },
-    "done": true
-  },
   "tombstone:recipes/from_grave_dust": {
     "criteria": {
       "has_ingredient": "2023-03-29 21:24:05 +0200"
@@ -9678,12 +8897,6 @@
     },
     "done": true
   },
-  "smallships:recipes/envi_willow_war_galley": {
-    "criteria": {
-      "in_water": "2023-03-22 19:52:51 +0100"
-    },
-    "done": true
-  },
   "pneumaticcraft:recipes/pneumaticcraft/network_io_port": {
     "criteria": {
       "has_capacitor": "2023-03-29 22:36:15 +0200"
@@ -9702,12 +8915,6 @@
     },
     "done": true
   },
-  "mcwtrpdoors:recipes/dark_oak/dark_oak_barn_trapdoor": {
-    "criteria": {
-      "has_planks": "2023-03-22 19:47:50 +0100"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/barrel": {
     "criteria": {
       "has_planks": "2023-03-22 19:47:53 +0100"
@@ -9717,6 +8924,12 @@
   "immersiveengineering:recipes/immersiveengineering/crafting/jerrycan": {
     "criteria": {
       "has_bucket": "2023-03-29 22:02:57 +0200"
+    },
+    "done": true
+  },
+  "elementalcraft:recipes/elementalcraft/elementpipe_impaired": {
+    "criteria": {
+      "has_contained_crystal": "2023-06-16 00:45:21 +0200"
     },
     "done": true
   },
@@ -9774,21 +8987,9 @@
     },
     "done": true
   },
-  "smallships:recipes/lotr_pine_dhow": {
-    "criteria": {
-      "in_water": "2023-03-22 19:52:51 +0100"
-    },
-    "done": true
-  },
   "computercraft:recipes/computercraft/computer_advanced": {
     "criteria": {
       "has_components": "2023-04-02 15:46:59 +0200"
-    },
-    "done": true
-  },
-  "mcwtrpdoors:recipes/acacia/acacia_swamp_trapdoor": {
-    "criteria": {
-      "has_planks": "2023-03-22 19:47:51 +0100"
     },
     "done": true
   },
@@ -9936,27 +9137,9 @@
     },
     "done": true
   },
-  "smallships:recipes/envi_cherry_brigg": {
-    "criteria": {
-      "in_water": "2023-03-22 19:52:51 +0100"
-    },
-    "done": true
-  },
-  "smallships:recipes/envi_wisteria_drakkar": {
-    "criteria": {
-      "in_water": "2023-03-22 19:52:51 +0100"
-    },
-    "done": true
-  },
   "cfm:recipes/cfm/light_blue_kitchen_counter": {
     "criteria": {
       "has_stone": "2023-04-02 15:13:10 +0200"
-    },
-    "done": true
-  },
-  "smallships:recipes/lotr_cedar_cog": {
-    "criteria": {
-      "in_water": "2023-03-22 19:52:51 +0100"
     },
     "done": true
   },
@@ -9969,12 +9152,6 @@
   "croptopia:recipes/fried_chicken": {
     "criteria": {
       "has_chicken": "2023-03-22 20:06:17 +0100"
-    },
-    "done": true
-  },
-  "smallships:recipes/lotr_maple_brigg": {
-    "criteria": {
-      "in_water": "2023-03-22 19:52:51 +0100"
     },
     "done": true
   },
@@ -10027,18 +9204,6 @@
     },
     "done": true
   },
-  "mcwtrpdoors:recipes/mangrove/mangrove_ranch_trapdoor": {
-    "criteria": {
-      "has_planks": "2023-03-22 19:47:52 +0100"
-    },
-    "done": true
-  },
-  "mcwtrpdoors:recipes/oak/oak_barn_trapdoor": {
-    "criteria": {
-      "has_planks": "2023-03-22 19:47:52 +0100"
-    },
-    "done": true
-  },
   "mcwlights:recipes/tiki_torches": {
     "criteria": {
       "torch": "2023-03-22 19:47:51 +0100"
@@ -10048,6 +9213,12 @@
   "create:recipes/create.palettes/cut_tuff_brick_wall_from_tuff_stonecutting": {
     "criteria": {
       "has_tuff": "2023-03-29 21:25:55 +0200"
+    },
+    "done": true
+  },
+  "elementalcraft:recipes/elementalcraft/improved_elementpipe_from_elementpipe_and_ingot": {
+    "criteria": {
+      "has_swift_alloy_ingot": "2023-06-16 00:45:37 +0200"
     },
     "done": true
   },
@@ -10078,12 +9249,6 @@
   "refinedstorage:recipes/refinedstorage/pattern_grid/pattern_grid": {
     "criteria": {
       "refinedstorage:grid": "2023-04-02 17:19:44 +0200"
-    },
-    "done": true
-  },
-  "smallships:recipes/bop_umbran_brigg": {
-    "criteria": {
-      "in_water": "2023-03-22 19:52:51 +0100"
     },
     "done": true
   },
@@ -10159,21 +9324,9 @@
     },
     "done": true
   },
-  "mcwtrpdoors:recipes/birch/birch_cottage_trapdoor": {
-    "criteria": {
-      "has_planks": "2023-03-22 19:47:52 +0100"
-    },
-    "done": true
-  },
   "farmersdelight:recipes/farmersdelight/grilled_salmon": {
     "criteria": {
       "has_salmon": "2023-03-22 19:47:53 +0100"
-    },
-    "done": true
-  },
-  "mcwtrpdoors:recipes/mangrove/mangrove_cottage_trapdoor": {
-    "criteria": {
-      "has_planks": "2023-03-22 19:47:52 +0100"
     },
     "done": true
   },
@@ -10188,6 +9341,12 @@
       "lumber_bee": "2023-05-04 00:10:05 +0200"
     },
     "done": false
+  },
+  "elementalcraft:recipes/elementalcraft/shrinebase": {
+    "criteria": {
+      "has_whiterock": "2023-06-16 00:45:27 +0200"
+    },
+    "done": true
   },
   "additionallanterns:recipes/additionallanterns/basalt_chain": {
     "criteria": {
@@ -10231,21 +9390,9 @@
     },
     "done": true
   },
-  "smallships:recipes/bop_redwood_war_galley": {
-    "criteria": {
-      "in_water": "2023-03-22 19:52:51 +0100"
-    },
-    "done": true
-  },
   "twilightforest:recipes/twilightforest/carminite_builder": {
     "criteria": {
       "has_item": "2023-04-30 02:17:21 +0200"
-    },
-    "done": true
-  },
-  "mcwtrpdoors:recipes/bamboo/bamboo_ranch_trapdoor": {
-    "criteria": {
-      "has_planks": "2023-03-22 19:47:50 +0100"
     },
     "done": true
   },
@@ -10279,6 +9426,12 @@
     },
     "done": true
   },
+  "elementalcraft:recipes/elementalcraft/whiterock_wall_from_whiterock_stonecutting": {
+    "criteria": {
+      "has_whiterock": "2023-06-16 00:45:27 +0200"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/fried_egg_from_campfire_cooking": {
     "criteria": {
       "fried_egg": "2023-04-02 03:23:03 +0200"
@@ -10306,12 +9459,6 @@
   "aquaculture:recipes/aquaculture/light_hook": {
     "criteria": {
       "has_items": "2023-03-22 19:47:51 +0100"
-    },
-    "done": true
-  },
-  "smallships:recipes/lotr_lebethron_cog": {
-    "criteria": {
-      "in_water": "2023-03-22 19:52:51 +0100"
     },
     "done": true
   },
@@ -10363,18 +9510,6 @@
     },
     "done": true
   },
-  "smallships:recipes/acacia_rowboat": {
-    "criteria": {
-      "in_water": "2023-03-22 19:52:51 +0100"
-    },
-    "done": true
-  },
-  "smallships:recipes/jungle_cog": {
-    "criteria": {
-      "in_water": "2023-03-22 19:52:51 +0100"
-    },
-    "done": true
-  },
   "rootsclassic:recipes/rootsclassic/altar": {
     "criteria": {
       "has_gold_block": "2023-04-02 02:02:27 +0200"
@@ -10384,6 +9519,12 @@
   "rftoolsbuilder:recipes/rftoolsbuilder/blue_shield_template_block": {
     "criteria": {
       "glass": "2023-04-02 15:18:39 +0200"
+    },
+    "done": true
+  },
+  "elementalcraft:recipes/elementalcraft/inscriber": {
+    "criteria": {
+      "has_whiterock": "2023-06-16 00:45:27 +0200"
     },
     "done": true
   },
@@ -10420,12 +9561,6 @@
   "xnet:recipes/xnet/advanced_connector_green": {
     "criteria": {
       "chest": "2023-04-02 02:09:06 +0200"
-    },
-    "done": true
-  },
-  "mcwtrpdoors:recipes/oak/oak_barred_trapdoor": {
-    "criteria": {
-      "has_planks": "2023-03-22 19:47:52 +0100"
     },
     "done": true
   },
@@ -10471,12 +9606,6 @@
     },
     "done": true
   },
-  "smallships:recipes/bop_cherry_rowboat": {
-    "criteria": {
-      "in_water": "2023-03-22 19:52:51 +0100"
-    },
-    "done": true
-  },
   "ftbic:recipes/ftbic/smelting/rubber": {
     "criteria": {
       "has_item": "2023-04-02 17:31:08 +0200"
@@ -10486,12 +9615,6 @@
   "reliquary:recipes/reliquary/mob_charm_fragments/zombified_piglin": {
     "criteria": {
       "has_zombie_heart": "2023-03-22 20:03:14 +0100"
-    },
-    "done": true
-  },
-  "mcwtrpdoors:recipes/spruce/spruce_tropical_trapdoor": {
-    "criteria": {
-      "has_planks": "2023-03-22 19:47:52 +0100"
     },
     "done": true
   },
@@ -10549,12 +9672,6 @@
     },
     "done": true
   },
-  "smallships:recipes/lotr_rotten_war_galley": {
-    "criteria": {
-      "in_water": "2023-03-22 19:52:51 +0100"
-    },
-    "done": true
-  },
   "utilitix:recipes/utilitix/reinforced_filter_rail": {
     "criteria": {
       "criterion1": "2023-03-29 23:13:46 +0200"
@@ -10570,12 +9687,6 @@
   "minecraft:recipes/woodcutting/dark_oak/dark_oak_fence_gate_from_dark_oak_slab_woodcutting": {
     "criteria": {
       "give_recipe": "2023-04-29 18:25:51 +0200"
-    },
-    "done": true
-  },
-  "mcwtrpdoors:recipes/warped/warped_glass_trapdoor": {
-    "criteria": {
-      "has_planks": "2023-03-22 19:47:52 +0100"
     },
     "done": true
   },
@@ -10676,9 +9787,15 @@
     },
     "done": true
   },
-  "smallships:recipes/envi_wisteria_dhow": {
+  "elementalcraft:recipes/elementalcraft/whiterock_wall": {
     "criteria": {
-      "in_water": "2023-03-22 19:52:51 +0100"
+      "has_whiterock": "2023-06-16 00:45:27 +0200"
+    },
+    "done": true
+  },
+  "elementalcraft:recipes/elementalcraft/elementpipe": {
+    "criteria": {
+      "has_contained_crystal": "2023-06-16 00:45:21 +0200"
     },
     "done": true
   },
@@ -10754,12 +9871,6 @@
     },
     "done": true
   },
-  "mcwtrpdoors:recipes/mangrove/mangrove_barred_trapdoor": {
-    "criteria": {
-      "has_planks": "2023-03-22 19:47:51 +0100"
-    },
-    "done": true
-  },
   "mcwbridges:recipes/mangrove_bridge_pier": {
     "criteria": {
       "has_planks": "2023-04-30 00:16:04 +0200"
@@ -10775,18 +9886,6 @@
   "minecraft:recipes/misc/nether_brick": {
     "criteria": {
       "has_netherrack": "2023-05-03 23:29:45 +0200"
-    },
-    "done": true
-  },
-  "smallships:recipes/bop_fir_cog": {
-    "criteria": {
-      "in_water": "2023-03-22 19:52:51 +0100"
-    },
-    "done": true
-  },
-  "smallships:recipes/bop_willow_drakkar": {
-    "criteria": {
-      "in_water": "2023-03-22 19:52:51 +0100"
     },
     "done": true
   },
@@ -10838,12 +9937,6 @@
     },
     "done": true
   },
-  "smallships:recipes/lotr_maple_cog": {
-    "criteria": {
-      "in_water": "2023-03-22 19:52:51 +0100"
-    },
-    "done": true
-  },
   "tombstone:adventure/root": {
     "criteria": {
       "auto": "2023-03-22 19:44:54 +0100"
@@ -10853,6 +9946,12 @@
   "ars_nouveau:recipes/building_blocks/water_essence_to_obsidian": {
     "criteria": {
       "has_journal": "2023-04-02 02:03:28 +0200"
+    },
+    "done": true
+  },
+  "alltheores:recipes/alltheores/invar_gear": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/invar]_ingot": "2023-06-16 00:21:08 +0200"
     },
     "done": true
   },
@@ -10934,12 +10033,6 @@
     },
     "done": true
   },
-  "mcwtrpdoors:recipes/spruce/spruce_classic_trapdoor": {
-    "criteria": {
-      "has_planks": "2023-03-22 19:47:51 +0100"
-    },
-    "done": true
-  },
   "ftbic:recipes/ftbic_fuel/basic_generator_fuel/sugar_cane": {
     "criteria": {
       "has_item": "2023-03-22 19:54:08 +0100"
@@ -10952,15 +10045,15 @@
     },
     "done": true
   },
-  "smallships:recipes/bop_dead_cog": {
-    "criteria": {
-      "in_water": "2023-03-22 19:52:51 +0100"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/polished_basalt": {
     "criteria": {
       "has_basalt": "2023-04-02 16:33:00 +0200"
+    },
+    "done": true
+  },
+  "elementalcraft:pickup/elementpipe_impaired": {
+    "criteria": {
+      "has_elementpipe_impaired": "2023-06-16 00:45:22 +0200"
     },
     "done": true
   },
@@ -11123,27 +10216,21 @@
     },
     "done": true
   },
+  "elementalcraft:recipes/elementalcraft/whiterock_stairs": {
+    "criteria": {
+      "has_whiterock": "2023-06-16 00:45:27 +0200"
+    },
+    "done": true
+  },
   "pneumaticcraft:recipes/pneumaticcraft/compressed_iron_block_from_ingot": {
     "criteria": {
       "has_ingot_iron_compressed": "2023-03-22 19:54:47 +0100"
     },
     "done": true
   },
-  "smallships:recipes/jungle_brigg": {
-    "criteria": {
-      "in_water": "2023-03-22 19:52:51 +0100"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/iron_ingot_from_nuggets": {
     "criteria": {
       "has_iron_nugget": "2023-03-29 23:13:46 +0200"
-    },
-    "done": true
-  },
-  "smallships:recipes/spruce_war_galley": {
-    "criteria": {
-      "in_water": "2023-03-22 19:52:51 +0100"
     },
     "done": true
   },
@@ -11162,12 +10249,6 @@
   "extradisks:recipes/extradisks/advanced_machine_casing": {
     "criteria": {
       "has_processor": "2023-04-02 17:20:38 +0200"
-    },
-    "done": true
-  },
-  "smallships:recipes/envi_willow_brigg": {
-    "criteria": {
-      "in_water": "2023-03-22 19:52:51 +0100"
     },
     "done": true
   },
@@ -11228,12 +10309,6 @@
   "minecraft:recipes/building_blocks/stripped_jungle_wood": {
     "criteria": {
       "has_log": "2023-04-29 17:58:53 +0200"
-    },
-    "done": true
-  },
-  "smallships:recipes/lotr_cedar_war_galley": {
-    "criteria": {
-      "in_water": "2023-03-22 19:52:51 +0100"
     },
     "done": true
   },
@@ -11321,12 +10396,6 @@
     },
     "done": true
   },
-  "smallships:recipes/lotr_rotten_rowboat": {
-    "criteria": {
-      "in_water": "2023-03-22 19:52:51 +0100"
-    },
-    "done": true
-  },
   "immersiveengineering:recipes/immersiveengineering/crafting/plate_constantan_hammering": {
     "criteria": {
       "has_constantan_ingot": "2023-05-03 23:52:29 +0200"
@@ -11345,12 +10414,6 @@
     },
     "done": true
   },
-  "mcwtrpdoors:recipes/spruce/spruce_barn_trapdoor": {
-    "criteria": {
-      "has_planks": "2023-03-22 19:47:52 +0100"
-    },
-    "done": true
-  },
   "utilitix:recipes/utilitix/comparator_redirector_up": {
     "criteria": {
       "criterion1": "2023-03-22 19:53:41 +0100"
@@ -11360,18 +10423,6 @@
   "create:recipes/create.palettes/small_tuff_brick_wall_from_tuff_stonecutting": {
     "criteria": {
       "has_tuff": "2023-03-29 21:25:56 +0200"
-    },
-    "done": true
-  },
-  "smallships:recipes/lotr_cedar_dhow": {
-    "criteria": {
-      "in_water": "2023-03-22 19:52:51 +0100"
-    },
-    "done": true
-  },
-  "mcwtrpdoors:recipes/acacia/acacia_glass_trapdoor": {
-    "criteria": {
-      "has_planks": "2023-03-22 19:47:50 +0100"
     },
     "done": true
   },
@@ -11390,12 +10441,6 @@
   "pneumaticcraft:air_compressor": {
     "criteria": {
       "0": "2023-04-29 17:39:38 +0200"
-    },
-    "done": true
-  },
-  "smallships:recipes/lotr_larch_brigg": {
-    "criteria": {
-      "in_water": "2023-03-22 19:52:51 +0100"
     },
     "done": true
   },
@@ -11420,12 +10465,6 @@
   "productivebees:husbandry/bee_cage/nest_locator": {
     "criteria": {
       "get_item": "2023-04-02 17:38:06 +0200"
-    },
-    "done": true
-  },
-  "smallships:recipes/lotr_pine_brigg": {
-    "criteria": {
-      "in_water": "2023-03-22 19:52:51 +0100"
     },
     "done": true
   },
@@ -11471,12 +10510,6 @@
     },
     "done": true
   },
-  "smallships:recipes/lotr_lebethron_galley": {
-    "criteria": {
-      "in_water": "2023-03-22 19:52:51 +0100"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/lime_terracotta": {
     "criteria": {
       "has_terracotta": "2023-04-02 15:13:10 +0200"
@@ -11492,12 +10525,6 @@
   "minecraft:recipes/food/cake": {
     "criteria": {
       "has_egg": "2023-04-02 03:23:03 +0200"
-    },
-    "done": true
-  },
-  "smallships:recipes/bop_umbran_drakkar": {
-    "criteria": {
-      "in_water": "2023-03-22 19:52:51 +0100"
     },
     "done": true
   },
@@ -11552,6 +10579,12 @@
   "minecraft:recipes/decorations/gray_bed": {
     "criteria": {
       "has_gray_wool": "2023-04-02 16:33:21 +0200"
+    },
+    "done": true
+  },
+  "elementalcraft:pickup/elementpipe": {
+    "criteria": {
+      "has_elementpipe": "2023-06-16 00:45:34 +0200"
     },
     "done": true
   },
@@ -11616,12 +10649,6 @@
     },
     "done": true
   },
-  "smallships:recipes/envi_cherry_galley": {
-    "criteria": {
-      "in_water": "2023-03-22 19:52:51 +0100"
-    },
-    "done": true
-  },
   "reliquary:recipes/brewing/uncrafting/ghast_tear": {
     "criteria": {
       "has_catalyzing_gland": "2023-04-02 17:58:28 +0200"
@@ -11643,12 +10670,6 @@
   "reliquary:recipes/misc/uncrafting/string": {
     "criteria": {
       "has_chelicerae": "2023-04-02 17:15:48 +0200"
-    },
-    "done": true
-  },
-  "smallships:recipes/lotr_cherry_war_galley": {
-    "criteria": {
-      "in_water": "2023-03-22 19:52:51 +0100"
     },
     "done": true
   },
@@ -11710,12 +10731,6 @@
   "cfm:recipes/cfm/brown_kitchen_drawer": {
     "criteria": {
       "has_chest": "2023-03-29 21:15:27 +0200"
-    },
-    "done": true
-  },
-  "smallships:recipes/dark_oak_cog": {
-    "criteria": {
-      "in_water": "2023-03-22 19:52:51 +0100"
     },
     "done": true
   },
@@ -11896,33 +10911,21 @@
     },
     "done": true
   },
-  "smallships:recipes/lotr_holly_drakkar": {
-    "criteria": {
-      "in_water": "2023-03-22 19:52:51 +0100"
-    },
-    "done": true
-  },
   "alltheores:recipes/alltheores/raw_zinc_block": {
     "criteria": {
       "has_raw_TagKey[minecraft:item / forge:raw_materials/zinc]": "2023-03-29 21:30:05 +0200"
     },
     "done": true
   },
-  "smallships:recipes/lotr_cypress_galley": {
+  "elementalcraft:recipes/elementalcraft/whiterock_stairs_from_whiterock_stonecutting": {
     "criteria": {
-      "in_water": "2023-03-22 19:52:51 +0100"
+      "has_whiterock": "2023-06-16 00:45:27 +0200"
     },
     "done": true
   },
   "cfm:recipes/cfm/stripped_jungle_bedside_cabinet": {
     "criteria": {
       "has_log": "2023-04-29 17:58:53 +0200"
-    },
-    "done": true
-  },
-  "smallships:recipes/lotr_charred_galley": {
-    "criteria": {
-      "in_water": "2023-03-22 19:52:51 +0100"
     },
     "done": true
   },
@@ -11992,12 +10995,6 @@
     },
     "done": true
   },
-  "smallships:recipes/lotr_charred_cog": {
-    "criteria": {
-      "in_water": "2023-03-22 19:52:51 +0100"
-    },
-    "done": true
-  },
   "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
     "criteria": {
       "has_potato": "2023-04-02 16:53:04 +0200"
@@ -12046,15 +11043,9 @@
     },
     "done": true
   },
-  "smallships:recipes/lotr_mirk_oak_rowboat": {
+  "botania:recipes/botania/dreamwood_wand": {
     "criteria": {
-      "in_water": "2023-03-22 19:52:51 +0100"
-    },
-    "done": true
-  },
-  "smallships:recipes/jungle_galley": {
-    "criteria": {
-      "in_water": "2023-03-22 19:52:51 +0100"
+      "has_item": "2023-06-16 00:45:58 +0200"
     },
     "done": true
   },
@@ -12088,15 +11079,15 @@
     },
     "done": true
   },
-  "ars_nouveau:recipes/ars_nouveau/magebloom_block": {
+  "ae2:recipes/ae2.main/blasting/silicon_from_certus_quartz_dust": {
     "criteria": {
-      "has_journal": "2023-04-02 02:03:28 +0200"
+      "has_certus_quartz_dust": "2023-06-16 00:33:24 +0200"
     },
     "done": true
   },
-  "mcwtrpdoors:recipes/acacia/dark_oak_bark_trapdoor": {
+  "ars_nouveau:recipes/ars_nouveau/magebloom_block": {
     "criteria": {
-      "has_planks": "2023-03-22 19:47:52 +0100"
+      "has_journal": "2023-04-02 02:03:28 +0200"
     },
     "done": true
   },
@@ -12109,12 +11100,6 @@
   "farmersdelight:recipes/farmersdelight/cooking/baked_cod_stew": {
     "criteria": {
       "has_any_ingredient": "2023-04-02 03:23:03 +0200"
-    },
-    "done": true
-  },
-  "smallships:recipes/oak_war_galley": {
-    "criteria": {
-      "in_water": "2023-03-22 19:52:51 +0100"
     },
     "done": true
   },
@@ -12133,12 +11118,6 @@
   "twilightforest:recipes/twilightforest/equipment/knightmetal_pickaxe": {
     "criteria": {
       "has_item": "2023-04-30 02:17:14 +0200"
-    },
-    "done": true
-  },
-  "smallships:recipes/jungle_war_galley": {
-    "criteria": {
-      "in_water": "2023-03-22 19:52:51 +0100"
     },
     "done": true
   },
@@ -12286,12 +11265,6 @@
     },
     "done": true
   },
-  "smallships:recipes/jungle_dhow": {
-    "criteria": {
-      "in_water": "2023-03-22 19:52:51 +0100"
-    },
-    "done": true
-  },
   "xycraft_world:recipes/xycraft_world/stonecutting/kivi": {
     "criteria": {
       "has_for_kivi": "2023-05-03 21:12:54 +0200"
@@ -12301,12 +11274,6 @@
   "immersiveengineering:recipes/immersiveengineering/crafting/shovel_steel": {
     "criteria": {
       "has_steel_ingot": "2023-04-02 02:10:52 +0200"
-    },
-    "done": true
-  },
-  "smallships:recipes/bop_dead_brigg": {
-    "criteria": {
-      "in_water": "2023-03-22 19:52:51 +0100"
     },
     "done": true
   },
@@ -12340,9 +11307,9 @@
     },
     "done": true
   },
-  "smallships:recipes/acacia_drakkar": {
+  "elementalcraft:recipes/elementalcraft/small_container": {
     "criteria": {
-      "in_water": "2023-03-22 19:52:51 +0100"
+      "has_contained_crystal": "2023-06-16 00:45:21 +0200"
     },
     "done": true
   },
@@ -12419,15 +11386,15 @@
     },
     "done": true
   },
-  "refinedstorage:recipes/refinedstorage/crafting_grid/gray_crafting_grid": {
+  "elementalcraft:recipes/elementalcraft/pipe_priority_rings": {
     "criteria": {
-      "refinedstorage:grid": "2023-04-02 17:19:44 +0200"
+      "has_swift_alloy_ingot": "2023-06-16 00:45:37 +0200"
     },
     "done": true
   },
-  "mcwtrpdoors:recipes/spruce/spruce_mystic_trapdoor": {
+  "refinedstorage:recipes/refinedstorage/crafting_grid/gray_crafting_grid": {
     "criteria": {
-      "has_planks": "2023-03-22 19:47:51 +0100"
+      "refinedstorage:grid": "2023-04-02 17:19:44 +0200"
     },
     "done": true
   },
@@ -12452,6 +11419,12 @@
   "cfm:recipes/cfm/light_gray_cooler": {
     "criteria": {
       "has_chest": "2023-03-29 21:15:27 +0200"
+    },
+    "done": true
+  },
+  "elementalcraft:recipes/elementalcraft/cover_frame": {
+    "criteria": {
+      "has_drenched_iron_ingot": "2023-06-16 00:45:32 +0200"
     },
     "done": true
   },
@@ -12491,12 +11464,6 @@
     },
     "done": true
   },
-  "smallships:recipes/lotr_rotten_cog": {
-    "criteria": {
-      "in_water": "2023-03-22 19:52:51 +0100"
-    },
-    "done": true
-  },
   "cfm:recipes/cfm/warped_kitchen_sink_light": {
     "criteria": {
       "has_bucket": "2023-03-29 22:02:57 +0200"
@@ -12530,6 +11497,12 @@
   "immersiveengineering:recipes/immersiveengineering/crafting/empty_casing": {
     "criteria": {
       "has_coppper_ingot": "2023-04-02 02:20:54 +0200"
+    },
+    "done": true
+  },
+  "elementalcraft:recipes/elementalcraft/spell_desk": {
+    "criteria": {
+      "has_whiterock": "2023-06-16 00:45:27 +0200"
     },
     "done": true
   },
@@ -12629,15 +11602,15 @@
     },
     "done": true
   },
-  "alchemistry:recipes/dissolver/iron_block": {
+  "alltheores:recipes/alltheores/invar_rod": {
     "criteria": {
-      "has_the_recipe": "2023-03-29 21:10:15 +0200"
+      "has_TagKey[minecraft:item / forge:ingots/invar]_ingot": "2023-06-16 00:21:08 +0200"
     },
     "done": true
   },
-  "mcwtrpdoors:recipes/jungle/jungle_cottage_trapdoor": {
+  "alchemistry:recipes/dissolver/iron_block": {
     "criteria": {
-      "has_planks": "2023-03-22 19:47:51 +0100"
+      "has_the_recipe": "2023-03-29 21:10:15 +0200"
     },
     "done": true
   },
@@ -12692,6 +11665,12 @@
   "xycraft_world:recipes/xycraft_world/compacting/xychorium_gem_red": {
     "criteria": {
       "has_xychorium_gem_red": "2023-05-06 02:18:48 +0200"
+    },
+    "done": true
+  },
+  "elementalcraft:recipes/elementalcraft/whiterock_brick_from_whiterock_stonecutting": {
+    "criteria": {
+      "has_whiterock": "2023-06-16 00:45:27 +0200"
     },
     "done": true
   },
@@ -12782,12 +11761,6 @@
   "minecraft:recipes/building_blocks/blue_stained_glass": {
     "criteria": {
       "has_glass": "2023-04-02 15:18:39 +0200"
-    },
-    "done": true
-  },
-  "smallships:recipes/lotr_holly_war_galley": {
-    "criteria": {
-      "in_water": "2023-03-22 19:52:51 +0100"
     },
     "done": true
   },
@@ -12899,6 +11872,12 @@
     },
     "done": true
   },
+  "elementalcraft:recipes/elementalcraft/air_mill_grindstone": {
+    "criteria": {
+      "has_whiterock": "2023-06-16 00:45:27 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/bucket": {
     "criteria": {
       "has_iron_ingot": "2023-03-29 21:10:15 +0200"
@@ -12971,12 +11950,6 @@
     },
     "done": true
   },
-  "smallships:recipes/bop_cherry_dhow": {
-    "criteria": {
-      "in_water": "2023-03-22 19:52:51 +0100"
-    },
-    "done": true
-  },
   "littlelogistics:recipes/transportation/car_dock_rail": {
     "criteria": {
       "has_item": "2023-04-29 19:12:00 +0200"
@@ -12992,12 +11965,6 @@
   "minecraft:recipes/building_blocks/glass": {
     "criteria": {
       "has_sand": "2023-05-04 00:20:11 +0200"
-    },
-    "done": true
-  },
-  "smallships:recipes/bop_hellbark_rowboat": {
-    "criteria": {
-      "in_water": "2023-03-22 19:52:51 +0100"
     },
     "done": true
   },
@@ -13065,6 +12032,12 @@
   "minecraft:recipes/tools/iron_hoe": {
     "criteria": {
       "has_iron_ingot": "2023-03-29 21:10:15 +0200"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/apothecary_mossy": {
+    "criteria": {
+      "has_item": "2023-06-16 00:45:57 +0200"
     },
     "done": true
   },
@@ -13140,21 +12113,27 @@
     },
     "done": true
   },
+  "elementalcraft:recipes/elementalcraft/source_breeder": {
+    "criteria": {
+      "has_whiterock": "2023-06-16 00:45:27 +0200"
+    },
+    "done": true
+  },
   "silentgear:recipes/silentgear/paxel_template": {
     "criteria": {
       "has_item": "2023-04-02 02:19:28 +0200"
     },
     "done": true
   },
-  "minecraft:story/enter_the_nether": {
+  "elementalcraft:recipes/elementalcraft/swift_alloy_nugget_from_swift_alloy_ingot": {
     "criteria": {
-      "entered_nether": "2023-04-30 03:23:14 +0200"
+      "has_swift_alloy_ingot": "2023-06-16 00:45:37 +0200"
     },
     "done": true
   },
-  "smallships:recipes/lotr_lairelosse_rowboat": {
+  "minecraft:story/enter_the_nether": {
     "criteria": {
-      "in_water": "2023-03-22 19:52:51 +0100"
+      "entered_nether": "2023-04-30 03:23:14 +0200"
     },
     "done": true
   },
@@ -13185,12 +12164,6 @@
   "minecraft:recipes/misc/gold_ingot_from_nuggets": {
     "criteria": {
       "has_gold_nugget": "2023-05-03 23:29:49 +0200"
-    },
-    "done": true
-  },
-  "smallships:recipes/bop_dead_rowboat": {
-    "criteria": {
-      "in_water": "2023-03-22 19:52:51 +0100"
     },
     "done": true
   },
@@ -13227,12 +12200,6 @@
   "silentgear:recipes/silentgear/diamond_shard": {
     "criteria": {
       "has_item": "2023-03-29 22:15:42 +0200"
-    },
-    "done": true
-  },
-  "smallships:recipes/bop_umbran_war_galley": {
-    "criteria": {
-      "in_water": "2023-03-22 19:52:51 +0100"
     },
     "done": true
   },
@@ -13302,12 +12269,6 @@
     },
     "done": true
   },
-  "smallships:recipes/spruce_galley": {
-    "criteria": {
-      "in_water": "2023-03-22 19:52:51 +0100"
-    },
-    "done": true
-  },
   "minecraft:recipes/combat/netherite_leggings_smithing": {
     "criteria": {
       "has_netherite_ingot": "2023-03-29 22:40:28 +0200"
@@ -13344,15 +12305,15 @@
     },
     "done": true
   },
-  "mcwtrpdoors:recipes/acacia/acacia_classic_trapdoor": {
-    "criteria": {
-      "has_planks": "2023-03-22 19:47:51 +0100"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/red_terracotta": {
     "criteria": {
       "has_terracotta": "2023-04-02 15:13:10 +0200"
+    },
+    "done": true
+  },
+  "elementalcraft:recipes/elementalcraft/unset_jewel": {
+    "criteria": {
+      "has_swift_alloy_ingot": "2023-06-16 00:45:37 +0200"
     },
     "done": true
   },
@@ -13410,12 +12371,6 @@
     },
     "done": true
   },
-  "smallships:recipes/bop_palm_brigg": {
-    "criteria": {
-      "in_water": "2023-03-22 19:52:51 +0100"
-    },
-    "done": true
-  },
   "allthemodium:recipes/allthemodium/allthemodium_ingot_from_raw_blasting_blasting": {
     "criteria": {
       "has_item": "2023-03-30 23:07:44 +0200"
@@ -13461,12 +12416,6 @@
   "create:recipes/create.palettes/cut_tuff_wall_from_tuff_stonecutting": {
     "criteria": {
       "has_tuff": "2023-03-29 21:25:56 +0200"
-    },
-    "done": true
-  },
-  "smallships:recipes/lotr_pear_dhow": {
-    "criteria": {
-      "in_water": "2023-03-22 19:52:51 +0100"
     },
     "done": true
   },
@@ -13557,12 +12506,6 @@
   "cfm:recipes/cfm/oak_cabinet": {
     "criteria": {
       "has_planks": "2023-03-22 19:47:53 +0100"
-    },
-    "done": true
-  },
-  "mcwtrpdoors:recipes/spruce/spruce_paper_trapdoor": {
-    "criteria": {
-      "has_planks": "2023-03-22 19:47:52 +0100"
     },
     "done": true
   },
@@ -13746,6 +12689,12 @@
     },
     "done": true
   },
+  "ae2:recipes/tools/tools/certus_quartz_hoe": {
+    "criteria": {
+      "has_certus_quartz": "2023-06-16 00:33:27 +0200"
+    },
+    "done": true
+  },
   "alchemistry:recipes/dissolver/diamond_block": {
     "criteria": {
       "has_the_recipe": "2023-03-29 22:15:42 +0200"
@@ -13788,12 +12737,6 @@
     },
     "done": true
   },
-  "mcwtrpdoors:recipes/oak/oak_tropical_trapdoor": {
-    "criteria": {
-      "has_planks": "2023-03-22 19:47:51 +0100"
-    },
-    "done": true
-  },
   "minecraft:story/smelt_iron": {
     "criteria": {
       "iron": "2023-03-29 21:10:16 +0200"
@@ -13822,6 +12765,12 @@
     "criteria": {
       "has_pie_crust": "2023-03-29 22:03:31 +0200",
       "has_the_recipe": "2023-03-29 22:03:31 +0200"
+    },
+    "done": true
+  },
+  "elementalcraft:recipes/elementalcraft/source_displacement_plate_fire": {
+    "criteria": {
+      "has_whiterock": "2023-06-16 00:45:27 +0200"
     },
     "done": true
   },
@@ -13928,12 +12877,6 @@
     },
     "done": true
   },
-  "smallships:recipes/bop_mahogany_dhow": {
-    "criteria": {
-      "in_water": "2023-03-22 19:52:51 +0100"
-    },
-    "done": true
-  },
   "utilitix:recipes/utilitix/linked_repeater": {
     "criteria": {
       "criterion2": "2023-03-29 21:25:56 +0200"
@@ -13958,6 +12901,12 @@
     },
     "done": true
   },
+  "elementalcraft:recipes/elementalcraft/binder_improved": {
+    "criteria": {
+      "has_whiterock": "2023-06-16 00:45:27 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/spruce/spruce_boat_from_spruce_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2023-03-29 21:15:32 +0200"
@@ -13979,12 +12928,6 @@
   "refinedstorage:recipes/refinedstorage/pattern_grid/orange_pattern_grid": {
     "criteria": {
       "refinedstorage:grid": "2023-04-02 17:19:44 +0200"
-    },
-    "done": true
-  },
-  "smallships:recipes/bop_palm_rowboat": {
-    "criteria": {
-      "in_water": "2023-03-22 19:52:51 +0100"
     },
     "done": true
   },
@@ -14066,12 +13009,6 @@
     },
     "done": true
   },
-  "smallships:recipes/lotr_charred_war_galley": {
-    "criteria": {
-      "in_water": "2023-03-22 19:52:51 +0100"
-    },
-    "done": true
-  },
   "quarryplus:recipes/solid_fuel_quarry": {
     "criteria": {
       "has_diamond_pickaxe": "2023-03-29 21:14:08 +0200"
@@ -14111,12 +13048,6 @@
   "pneumaticcraft:recipes/pneumaticcraft/compressed_stone_slab": {
     "criteria": {
       "has_ingot_iron_compressed": "2023-03-22 19:54:47 +0100"
-    },
-    "done": true
-  },
-  "smallships:recipes/bop_redwood_drakkar": {
-    "criteria": {
-      "in_water": "2023-03-22 19:52:51 +0100"
     },
     "done": true
   },
@@ -14171,6 +13102,12 @@
   "ars_nouveau:recipes/building_blocks/manipulation_essence_to_andesite": {
     "criteria": {
       "has_journal": "2023-04-02 02:03:28 +0200"
+    },
+    "done": true
+  },
+  "elementalcraft:recipes/elementalcraft/solar_synthesizer": {
+    "criteria": {
+      "has_contained_crystal": "2023-06-16 00:45:21 +0200"
     },
     "done": true
   },
@@ -14234,12 +13171,6 @@
     },
     "done": true
   },
-  "smallships:recipes/lotr_apple_dhow": {
-    "criteria": {
-      "in_water": "2023-03-22 19:52:51 +0100"
-    },
-    "done": true
-  },
   "cfm:recipes/cfm/black_kitchen_sink": {
     "criteria": {
       "has_bucket": "2023-03-29 22:02:57 +0200"
@@ -14267,12 +13198,6 @@
   "aquaculture:recipes/decorations/spruce_fish_mount": {
     "criteria": {
       "has_items": "2023-03-22 19:47:50 +0100"
-    },
-    "done": true
-  },
-  "mcwtrpdoors:recipes/warped/warped_classic_trapdoor": {
-    "criteria": {
-      "has_planks": "2023-03-22 19:47:51 +0100"
     },
     "done": true
   },
@@ -14315,12 +13240,6 @@
   "bambooeverything:recipes/bamboo_trapdoor": {
     "criteria": {
       "has_bundle": "2023-03-22 19:47:52 +0100"
-    },
-    "done": true
-  },
-  "smallships:recipes/lotr_cedar_galley": {
-    "criteria": {
-      "in_water": "2023-03-22 19:52:51 +0100"
     },
     "done": true
   },
@@ -14420,12 +13339,6 @@
     },
     "done": true
   },
-  "mcwtrpdoors:recipes/spruce/spruce_swamp_trapdoor": {
-    "criteria": {
-      "has_planks": "2023-03-22 19:47:52 +0100"
-    },
-    "done": true
-  },
   "alltheores:recipes/alltheores/raw_uranium_block": {
     "criteria": {
       "has_raw_TagKey[minecraft:item / forge:raw_materials/uranium]": "2023-04-02 15:16:46 +0200"
@@ -14492,12 +13405,6 @@
     },
     "done": true
   },
-  "mcwtrpdoors:recipes/birch/birch_glass_trapdoor": {
-    "criteria": {
-      "has_planks": "2023-03-22 19:47:50 +0100"
-    },
-    "done": true
-  },
   "pneumaticcraft:pressure_tube": {
     "criteria": {
       "0": "2023-03-22 19:54:46 +0100"
@@ -14519,12 +13426,6 @@
   "minecraft:recipes/decorations/oak_fence": {
     "criteria": {
       "has_planks": "2023-03-22 19:47:53 +0100"
-    },
-    "done": true
-  },
-  "smallships:recipes/lotr_pine_rowboat": {
-    "criteria": {
-      "in_water": "2023-03-22 19:52:51 +0100"
     },
     "done": true
   },
@@ -14570,12 +13471,6 @@
     },
     "done": true
   },
-  "smallships:recipes/bop_fir_drakkar": {
-    "criteria": {
-      "in_water": "2023-03-22 19:52:51 +0100"
-    },
-    "done": true
-  },
   "farmersdelight:recipes/farmersdelight/cooking/glow_berry_custard": {
     "criteria": {
       "has_any_ingredient": "2023-03-29 22:03:08 +0200"
@@ -14591,12 +13486,6 @@
   "ars_nouveau:recipes/ars_nouveau/archwood_pressure_plate": {
     "criteria": {
       "has_journal": "2023-04-02 02:03:28 +0200"
-    },
-    "done": true
-  },
-  "smallships:recipes/bop_willow_war_galley": {
-    "criteria": {
-      "in_water": "2023-03-22 19:52:51 +0100"
     },
     "done": true
   },
@@ -14666,12 +13555,6 @@
     },
     "done": true
   },
-  "smallships:recipes/spruce_cog": {
-    "criteria": {
-      "in_water": "2023-03-22 19:52:51 +0100"
-    },
-    "done": true
-  },
   "cfm:recipes/cfm/blue_cooler": {
     "criteria": {
       "has_chest": "2023-03-29 21:15:27 +0200"
@@ -14720,12 +13603,6 @@
     },
     "done": true
   },
-  "smallships:recipes/acacia_cog": {
-    "criteria": {
-      "in_water": "2023-03-22 19:52:51 +0100"
-    },
-    "done": true
-  },
   "create:recipes/create.base/crafting/kinetics/cyan_seat": {
     "criteria": {
       "has_wool": "2023-03-22 20:05:27 +0100"
@@ -14759,18 +13636,6 @@
   "botania:recipes/botania/ender_hand": {
     "criteria": {
       "has_alt_item": "2023-04-02 02:14:14 +0200"
-    },
-    "done": true
-  },
-  "smallships:recipes/lotr_beech_rowboat": {
-    "criteria": {
-      "in_water": "2023-03-22 19:52:51 +0100"
-    },
-    "done": true
-  },
-  "smallships:recipes/lotr_beech_cog": {
-    "criteria": {
-      "in_water": "2023-03-22 19:52:51 +0100"
     },
     "done": true
   },
@@ -14949,6 +13814,12 @@
     },
     "done": true
   },
+  "elementalcraft:recipes/elementalcraft/focus": {
+    "criteria": {
+      "has_contained_crystal": "2023-06-16 00:45:21 +0200"
+    },
+    "done": true
+  },
   "alltheores:recipes/alltheores/uranium_nugget_from_ingot": {
     "criteria": {
       "has_item": "2023-04-02 15:17:01 +0200"
@@ -14973,12 +13844,6 @@
     },
     "done": true
   },
-  "mcwtrpdoors:recipes/metal/metal_trapdoor": {
-    "criteria": {
-      "has_planks": "2023-03-22 19:47:52 +0100"
-    },
-    "done": true
-  },
   "mcwfences:recipes/blackstone": {
     "criteria": {
       "has_blackstone": "2023-03-22 19:47:51 +0100"
@@ -14988,12 +13853,6 @@
   "dummmmmmy:recipes/dummy_crafting": {
     "criteria": {
       "has_hay_block": "2023-04-29 17:42:37 +0200"
-    },
-    "done": true
-  },
-  "mcwtrpdoors:recipes/bamboo/bamboo_four_panel_trapdoor": {
-    "criteria": {
-      "has_planks": "2023-03-22 19:47:52 +0100"
     },
     "done": true
   },
@@ -15033,9 +13892,21 @@
     },
     "done": true
   },
+  "elementalcraft:recipes/elementalcraft/extractor": {
+    "criteria": {
+      "has_contained_crystal": "2023-06-16 00:45:21 +0200"
+    },
+    "done": true
+  },
   "deepresonance:recipes/deepresonance/radiation_suit_boots": {
     "criteria": {
       "has_resonant_plate": "2023-03-29 21:48:32 +0200"
+    },
+    "done": true
+  },
+  "ae2:recipes/tools/tools/certus_quartz_wrench": {
+    "criteria": {
+      "has_certus_quartz": "2023-06-16 00:33:27 +0200"
     },
     "done": true
   },
@@ -15093,15 +13964,21 @@
     },
     "done": true
   },
-  "mcwtrpdoors:recipes/mangrove/mangrove_mystic_trapdoor": {
-    "criteria": {
-      "has_planks": "2023-03-22 19:47:50 +0100"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/sugar_from_honey_bottle": {
     "criteria": {
       "has_honey_bottle": "2023-04-02 03:13:29 +0200"
+    },
+    "done": true
+  },
+  "allthemodium:recipes/allthemodium/unobtainium_vibranium_alloy_block": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/unobtainium_vibranium_alloy]_ingot": "2023-06-16 00:23:15 +0200"
+    },
+    "done": true
+  },
+  "elementalcraft:recipes/elementalcraft/pureinfuser": {
+    "criteria": {
+      "has_whiterock": "2023-06-16 00:45:27 +0200"
     },
     "done": true
   },
@@ -15126,18 +14003,6 @@
   "aquaculture:recipes/aquaculture/double_hook": {
     "criteria": {
       "has_items": "2023-03-22 19:47:51 +0100"
-    },
-    "done": true
-  },
-  "smallships:recipes/lotr_mallorn_drakkar": {
-    "criteria": {
-      "in_water": "2023-03-22 19:52:51 +0100"
-    },
-    "done": true
-  },
-  "mcwtrpdoors:recipes/dark_oak/dark_oak_classic_trapdoor": {
-    "criteria": {
-      "has_planks": "2023-03-22 19:47:52 +0100"
     },
     "done": true
   },
@@ -15177,18 +14042,6 @@
     },
     "done": true
   },
-  "mcwtrpdoors:recipes/mangrove/mangrove_four_panel_trapdoor": {
-    "criteria": {
-      "has_planks": "2023-03-22 19:47:52 +0100"
-    },
-    "done": true
-  },
-  "smallships:recipes/lotr_aspen_rowboat": {
-    "criteria": {
-      "in_water": "2023-03-22 19:52:51 +0100"
-    },
-    "done": true
-  },
   "elementalcraft:pickup/earth_shard": {
     "criteria": {
       "has_earth_shard": "2023-03-22 19:55:56 +0100"
@@ -15204,6 +14057,12 @@
   "minecraft:recipes/woodcutting/jungle/jungle_stairs_from_jungle_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2023-04-29 17:56:42 +0200"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/petal_black_double": {
+    "criteria": {
+      "has_alt_item": "2023-06-16 00:45:58 +0200"
     },
     "done": true
   },
@@ -15279,12 +14138,6 @@
     },
     "done": true
   },
-  "mcwtrpdoors:recipes/dark_oak/dark_oak_ranch_trapdoor": {
-    "criteria": {
-      "has_planks": "2023-03-22 19:47:52 +0100"
-    },
-    "done": true
-  },
   "allthemodium:recipes/allthemodium/unobtainium_dust_from_ore_crushing": {
     "criteria": {
       "has_item": "2023-04-02 03:19:48 +0200"
@@ -15306,6 +14159,12 @@
   "ftbic:recipes/ftbic/extruding/ingots/iron_to_iron_rod": {
     "criteria": {
       "has_item": "2023-03-29 21:10:16 +0200"
+    },
+    "done": true
+  },
+  "ae2:recipes/tools/tools/certus_quartz_cutting_knife": {
+    "criteria": {
+      "has_certus_quartz": "2023-06-16 00:33:27 +0200"
     },
     "done": true
   },
@@ -15336,6 +14195,12 @@
   "minecraft:recipes/woodcutting/jungle/jungle_trapdoor_from_jungle_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2023-04-29 17:56:42 +0200"
+    },
+    "done": true
+  },
+  "elementalcraft:recipes/elementalcraft/water_mill_wood_saw": {
+    "criteria": {
+      "has_whiterock": "2023-06-16 00:45:27 +0200"
     },
     "done": true
   },
@@ -15417,12 +14282,6 @@
     },
     "done": true
   },
-  "mcwtrpdoors:recipes/mangrove/mangrove_paper_trapdoor": {
-    "criteria": {
-      "has_planks": "2023-03-22 19:47:52 +0100"
-    },
-    "done": true
-  },
   "rftoolsstorage:recipes/rftoolsstorage/dump_module": {
     "criteria": {
       "ingot": "2023-03-29 21:10:15 +0200"
@@ -15438,12 +14297,6 @@
   "pneumaticcraft:recipes/pneumaticcraft/vortex_cannon": {
     "criteria": {
       "has_ingot_iron_compressed": "2023-03-22 19:54:47 +0100"
-    },
-    "done": true
-  },
-  "smallships:recipes/lotr_beech_galley": {
-    "criteria": {
-      "in_water": "2023-03-22 19:52:51 +0100"
     },
     "done": true
   },
@@ -15474,12 +14327,6 @@
   "cfm:recipes/cfm/stripped_spruce_park_bench": {
     "criteria": {
       "has_log": "2023-03-22 19:47:55 +0100"
-    },
-    "done": true
-  },
-  "smallships:recipes/bop_jacaranda_drakkar": {
-    "criteria": {
-      "in_water": "2023-03-22 19:52:51 +0100"
     },
     "done": true
   },
@@ -15543,12 +14390,6 @@
     },
     "done": true
   },
-  "smallships:recipes/bop_jacaranda_cog": {
-    "criteria": {
-      "in_water": "2023-03-22 19:52:51 +0100"
-    },
-    "done": true
-  },
   "botania:recipes/botania/lava_pendant": {
     "criteria": {
       "has_item": "2023-04-02 02:42:29 +0200"
@@ -15565,12 +14406,6 @@
     "criteria": {
       "has_the_recipe": "2023-04-02 02:08:32 +0200",
       "recipe_condition": "2023-04-02 02:08:32 +0200"
-    },
-    "done": true
-  },
-  "smallships:recipes/lotr_rotten_brigg": {
-    "criteria": {
-      "in_water": "2023-03-22 19:52:51 +0100"
     },
     "done": true
   },
@@ -15604,18 +14439,6 @@
     },
     "done": true
   },
-  "smallships:recipes/bop_willow_galley": {
-    "criteria": {
-      "in_water": "2023-03-22 19:52:51 +0100"
-    },
-    "done": true
-  },
-  "smallships:recipes/dark_oak_drakkar": {
-    "criteria": {
-      "in_water": "2023-03-22 19:52:51 +0100"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/note_block": {
     "criteria": {
       "has_redstone": "2023-04-02 02:09:25 +0200"
@@ -15634,12 +14457,6 @@
     },
     "done": true
   },
-  "smallships:recipes/lotr_pear_drakkar": {
-    "criteria": {
-      "in_water": "2023-03-22 19:52:51 +0100"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/green_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_green_dye": "2023-04-02 16:58:22 +0200"
@@ -15649,12 +14466,6 @@
   "ftbic:recipes/ftbic/separating/silicon_from_quartz": {
     "criteria": {
       "has_item": "2023-04-02 02:14:10 +0200"
-    },
-    "done": true
-  },
-  "smallships:recipes/bop_fir_brigg": {
-    "criteria": {
-      "in_water": "2023-03-22 19:52:51 +0100"
     },
     "done": true
   },
@@ -15706,15 +14517,15 @@
     },
     "done": true
   },
-  "xycraft_world:recipes/xycraft_world/shaped/aluminum_torch_raw": {
+  "ae2:recipes/ae2.main/decorative/quartz_glass": {
     "criteria": {
-      "has_aluminum": "2023-05-03 21:11:37 +0200"
+      "has_quartz_dust": "2023-06-16 00:33:24 +0200"
     },
     "done": true
   },
-  "smallships:recipes/bop_willow_cog": {
+  "xycraft_world:recipes/xycraft_world/shaped/aluminum_torch_raw": {
     "criteria": {
-      "in_water": "2023-03-22 19:52:51 +0100"
+      "has_aluminum": "2023-05-03 21:11:37 +0200"
     },
     "done": true
   },
@@ -15790,12 +14601,6 @@
     },
     "done": true
   },
-  "mcwtrpdoors:recipes/print_classic": {
-    "criteria": {
-      "has_planks": "2023-03-22 19:47:51 +0100"
-    },
-    "done": true
-  },
   "minecraft:husbandry/root": {
     "criteria": {
       "consumed_item": "2023-03-22 19:56:59 +0100"
@@ -15832,6 +14637,12 @@
     },
     "done": true
   },
+  "elementalcraft:recipes/elementalcraft/whiterock_slab": {
+    "criteria": {
+      "has_whiterock": "2023-06-16 00:45:27 +0200"
+    },
+    "done": true
+  },
   "apotheosis:affix/chests": {
     "criteria": {
       "sword": "2023-03-22 20:08:19 +0100"
@@ -15841,30 +14652,6 @@
   "minecraft:recipes/building_blocks/cobbled_deepslate_stairs_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2023-03-29 21:21:16 +0200"
-    },
-    "done": true
-  },
-  "smallships:recipes/jungle_rowboat": {
-    "criteria": {
-      "in_water": "2023-03-22 19:52:51 +0100"
-    },
-    "done": true
-  },
-  "smallships:recipes/lotr_fir_galley": {
-    "criteria": {
-      "in_water": "2023-03-22 19:52:51 +0100"
-    },
-    "done": true
-  },
-  "smallships:recipes/birch_cog": {
-    "criteria": {
-      "in_water": "2023-03-22 19:52:51 +0100"
-    },
-    "done": true
-  },
-  "smallships:recipes/birch_drakkar": {
-    "criteria": {
-      "in_water": "2023-03-22 19:52:51 +0100"
     },
     "done": true
   },
@@ -15884,12 +14671,6 @@
   "botania:recipes/botania/red_string_container": {
     "criteria": {
       "has_base_block": "2023-03-29 21:15:27 +0200"
-    },
-    "done": true
-  },
-  "smallships:recipes/bop_magic_brigg": {
-    "criteria": {
-      "in_water": "2023-03-22 19:52:51 +0100"
     },
     "done": true
   },
@@ -15917,12 +14698,6 @@
     },
     "done": true
   },
-  "smallships:recipes/dark_oak_galley": {
-    "criteria": {
-      "in_water": "2023-03-22 19:52:51 +0100"
-    },
-    "done": true
-  },
   "create:recipes/create.base/crafting/kinetics/brown_seat": {
     "criteria": {
       "has_wool": "2023-03-22 20:05:27 +0100"
@@ -15944,12 +14719,6 @@
   "ftbic:recipes/ftbic/macerating/ores/iron_to_dust": {
     "criteria": {
       "has_item": "2023-04-02 02:11:09 +0200"
-    },
-    "done": true
-  },
-  "smallships:recipes/envi_willow_rowboat": {
-    "criteria": {
-      "in_water": "2023-03-22 19:52:51 +0100"
     },
     "done": true
   },
@@ -16247,12 +15016,6 @@
     },
     "done": true
   },
-  "smallships:recipes/lotr_cedar_rowboat": {
-    "criteria": {
-      "in_water": "2023-03-22 19:52:51 +0100"
-    },
-    "done": true
-  },
   "cfm:recipes/cfm/dye_green_picket_gate": {
     "criteria": {
       "has_dye": "2023-04-02 16:58:22 +0200"
@@ -16274,12 +15037,6 @@
   "croptopia:recipes/croptopia.croptopia/cooked_tuna_from_tuna": {
     "criteria": {
       "has_tuna": "2023-05-06 01:52:44 +0200"
-    },
-    "done": true
-  },
-  "mcwtrpdoors:recipes/oak/oak_four_panel_trapdoor": {
-    "criteria": {
-      "has_planks": "2023-03-22 19:47:51 +0100"
     },
     "done": true
   },
@@ -16452,12 +15209,6 @@
     },
     "done": true
   },
-  "smallships:recipes/bop_dead_galley": {
-    "criteria": {
-      "in_water": "2023-03-22 19:52:51 +0100"
-    },
-    "done": true
-  },
   "additionallanterns:recipes/misc/obsidian_chain": {
     "criteria": {
       "recipe_condition": "2023-03-29 22:30:19 +0200"
@@ -16494,6 +15245,12 @@
     },
     "done": true
   },
+  "elementalcraft:recipes/elementalcraft/source_displacement_plate_earth": {
+    "criteria": {
+      "has_whiterock": "2023-06-16 00:45:27 +0200"
+    },
+    "done": true
+  },
   "silentgear:recipes/silentgear/shovel_template": {
     "criteria": {
       "has_item": "2023-04-02 02:19:28 +0200"
@@ -16512,12 +15269,6 @@
     },
     "done": true
   },
-  "smallships:recipes/lotr_holly_cog": {
-    "criteria": {
-      "in_water": "2023-03-22 19:52:51 +0100"
-    },
-    "done": true
-  },
   "rootsclassic:recipes/rootsclassic/fruit_salad": {
     "criteria": {
       "has_bowl": "2023-04-30 01:53:09 +0200"
@@ -16533,24 +15284,6 @@
   "refinedstorage:recipes/refinedstorage/crafting_grid/red_crafting_grid": {
     "criteria": {
       "refinedstorage:grid": "2023-04-02 17:19:44 +0200"
-    },
-    "done": true
-  },
-  "smallships:recipes/lotr_lairelosse_war_galley": {
-    "criteria": {
-      "in_water": "2023-03-22 19:52:51 +0100"
-    },
-    "done": true
-  },
-  "mcwtrpdoors:recipes/dark_oak/dark_oak_mystic_trapdoor": {
-    "criteria": {
-      "has_planks": "2023-03-22 19:47:52 +0100"
-    },
-    "done": true
-  },
-  "mcwtrpdoors:recipes/acacia/acacia_cottage_trapdoor": {
-    "criteria": {
-      "has_planks": "2023-03-22 19:47:51 +0100"
     },
     "done": true
   },
@@ -16590,18 +15323,6 @@
     },
     "done": true
   },
-  "mcwtrpdoors:recipes/spruce/spruce_glass_trapdoor": {
-    "criteria": {
-      "has_planks": "2023-03-22 19:47:52 +0100"
-    },
-    "done": true
-  },
-  "mcwtrpdoors:recipes/acacia/spruce_bark_trapdoor": {
-    "criteria": {
-      "has_planks": "2023-03-22 19:47:51 +0100"
-    },
-    "done": true
-  },
   "byg:husbandry/root": {
     "criteria": {
       "consumed_item": "2023-03-22 19:56:59 +0100"
@@ -16617,12 +15338,6 @@
   "mcwbridges:recipes/oak_rail_bridge": {
     "criteria": {
       "has_planks": "2023-04-30 00:16:04 +0200"
-    },
-    "done": true
-  },
-  "mcwtrpdoors:recipes/jungle/jungle_four_panel_trapdoor": {
-    "criteria": {
-      "has_planks": "2023-03-22 19:47:50 +0100"
     },
     "done": true
   },
@@ -16722,12 +15437,6 @@
     },
     "done": true
   },
-  "mcwtrpdoors:recipes/print_mystic": {
-    "criteria": {
-      "has_planks": "2023-03-22 19:47:52 +0100"
-    },
-    "done": true
-  },
   "pneumaticcraft:recipes/pneumaticcraft/logistics_core": {
     "criteria": {
       "has_ingot_iron_compressed": "2023-03-22 19:54:47 +0100"
@@ -16788,12 +15497,6 @@
     },
     "done": true
   },
-  "smallships:recipes/bop_magic_drakkar": {
-    "criteria": {
-      "in_water": "2023-03-22 19:52:51 +0100"
-    },
-    "done": true
-  },
   "create:recipes/create.base/crafting/kinetics/pink_seat": {
     "criteria": {
       "has_wool": "2023-03-22 20:05:27 +0100"
@@ -16803,12 +15506,6 @@
   "minecraft:recipes/redstone/jungle_fence_gate": {
     "criteria": {
       "has_planks": "2023-04-29 17:56:42 +0200"
-    },
-    "done": true
-  },
-  "mcwtrpdoors:recipes/print_four_panel": {
-    "criteria": {
-      "has_planks": "2023-03-22 19:47:50 +0100"
     },
     "done": true
   },
@@ -16851,12 +15548,6 @@
   "create:recipes/create.base/crafting/kinetics/steam_whistle": {
     "criteria": {
       "has_item": "2023-04-02 02:20:54 +0200"
-    },
-    "done": true
-  },
-  "smallships:recipes/lotr_pear_brigg": {
-    "criteria": {
-      "in_water": "2023-03-22 19:52:51 +0100"
     },
     "done": true
   },
@@ -16921,9 +15612,9 @@
     },
     "done": true
   },
-  "mcwtrpdoors:recipes/print_beach": {
+  "elementalcraft:recipes/elementalcraft/elementpipe_from_impaired_elementpipe_and_ingot": {
     "criteria": {
-      "has_planks": "2023-03-22 19:47:52 +0100"
+      "has_drenched_iron_ingot": "2023-06-16 00:45:32 +0200"
     },
     "done": true
   },
@@ -16951,9 +15642,9 @@
     },
     "done": true
   },
-  "smallships:recipes/lotr_cherry_drakkar": {
+  "ae2:recipes/combat/tools/certus_quartz_sword": {
     "criteria": {
-      "in_water": "2023-03-22 19:52:51 +0100"
+      "has_certus_quartz": "2023-06-16 00:33:27 +0200"
     },
     "done": true
   },
@@ -17065,12 +15756,6 @@
     },
     "done": true
   },
-  "smallships:recipes/bop_mahogany_brigg": {
-    "criteria": {
-      "in_water": "2023-03-22 19:52:51 +0100"
-    },
-    "done": true
-  },
   "allthemodium:recipes/allthemodium/allthemodium_pickaxe": {
     "criteria": {
       "has_allthemodium_rod": "2023-04-02 01:55:24 +0200"
@@ -17080,6 +15765,12 @@
   "ftbic:recipes/ftbic/rolling/ingots/copper_to_copper_plate": {
     "criteria": {
       "has_item": "2023-04-02 02:20:54 +0200"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/apothecary_default": {
+    "criteria": {
+      "has_item": "2023-06-16 00:45:58 +0200"
     },
     "done": true
   },
@@ -17107,15 +15798,15 @@
     },
     "done": true
   },
-  "smallships:recipes/bop_umbran_galley": {
-    "criteria": {
-      "in_water": "2023-03-22 19:52:51 +0100"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2023-04-02 02:04:33 +0200"
+    },
+    "done": true
+  },
+  "elementalcraft:recipes/elementalcraft/whiterock_brick": {
+    "criteria": {
+      "has_whiterock": "2023-06-16 00:45:27 +0200"
     },
     "done": true
   },
@@ -17179,12 +15870,6 @@
     },
     "done": true
   },
-  "smallships:recipes/lotr_larch_war_galley": {
-    "criteria": {
-      "in_water": "2023-03-22 19:52:51 +0100"
-    },
-    "done": true
-  },
   "delightful:recipes/knives/silver_knife": {
     "criteria": {
       "has_silver": "2023-03-29 21:48:30 +0200"
@@ -17221,27 +15906,9 @@
     },
     "done": true
   },
-  "mcwtrpdoors:recipes/print_tropical": {
-    "criteria": {
-      "has_planks": "2023-03-22 19:47:52 +0100"
-    },
-    "done": true
-  },
-  "smallships:recipes/birch_war_galley": {
-    "criteria": {
-      "in_water": "2023-03-22 19:52:51 +0100"
-    },
-    "done": true
-  },
   "aquaculture:recipes/aquaculture/nether_star_hook": {
     "criteria": {
       "has_items": "2023-04-02 02:24:13 +0200"
-    },
-    "done": true
-  },
-  "mcwtrpdoors:recipes/birch/birch_tropical_trapdoor": {
-    "criteria": {
-      "has_planks": "2023-03-22 19:47:52 +0100"
     },
     "done": true
   },
@@ -17281,9 +15948,9 @@
     },
     "done": true
   },
-  "mcwtrpdoors:recipes/warped/warped_cottage_trapdoor": {
+  "elementalcraft:recipes/elementalcraft/infuser": {
     "criteria": {
-      "has_planks": "2023-03-22 19:47:51 +0100"
+      "has_contained_crystal": "2023-06-16 00:45:21 +0200"
     },
     "done": true
   },
@@ -17296,6 +15963,12 @@
   "botania:recipes/botania/manasteel_sword": {
     "criteria": {
       "has_item": "2023-04-02 02:42:29 +0200"
+    },
+    "done": true
+  },
+  "elementalcraft:recipes/elementalcraft/whiterock_burnt": {
+    "criteria": {
+      "has_whiterock": "2023-06-16 00:45:27 +0200"
     },
     "done": true
   },
@@ -17350,12 +16023,6 @@
   "minecraft:recipes/building_blocks/andesite_stairs_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2023-04-02 15:17:52 +0200"
-    },
-    "done": true
-  },
-  "smallships:recipes/oak_dhow": {
-    "criteria": {
-      "in_water": "2023-03-22 19:52:51 +0100"
     },
     "done": true
   },
@@ -17437,12 +16104,6 @@
     },
     "done": true
   },
-  "smallships:recipes/lotr_larch_rowboat": {
-    "criteria": {
-      "in_water": "2023-03-22 19:52:51 +0100"
-    },
-    "done": true
-  },
   "apotheosis:affix/random": {
     "criteria": {
       "sword": "2023-03-22 19:55:57 +0100"
@@ -17504,15 +16165,15 @@
     },
     "done": true
   },
-  "smallships:recipes/envi_willow_dhow": {
-    "criteria": {
-      "in_water": "2023-03-22 19:52:51 +0100"
-    },
-    "done": true
-  },
   "cfm:recipes/cfm/stripped_oak_desk_cabinet": {
     "criteria": {
       "has_planks": "2023-04-02 01:56:30 +0200"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/apothecary_deepslate": {
+    "criteria": {
+      "has_item": "2023-06-16 00:45:58 +0200"
     },
     "done": true
   },
@@ -17537,12 +16198,6 @@
   "additionallanterns:recipes/misc/quartz_lantern": {
     "criteria": {
       "recipe_condition": "2023-04-02 02:08:32 +0200"
-    },
-    "done": true
-  },
-  "smallships:recipes/lotr_cypress_war_galley": {
-    "criteria": {
-      "in_water": "2023-03-22 19:52:51 +0100"
     },
     "done": true
   },
@@ -17573,6 +16228,12 @@
   "cfm:recipes/cfm/spruce_park_bench": {
     "criteria": {
       "has_log": "2023-03-22 19:47:56 +0100"
+    },
+    "done": true
+  },
+  "elementalcraft:recipes/elementalcraft/chisel": {
+    "criteria": {
+      "has_swift_alloy_ingot": "2023-06-16 00:45:37 +0200"
     },
     "done": true
   },
@@ -17774,12 +16435,6 @@
     },
     "done": true
   },
-  "mcwtrpdoors:recipes/acacia/acacia_bark_trapdoor": {
-    "criteria": {
-      "has_planks": "2023-03-22 19:47:51 +0100"
-    },
-    "done": true
-  },
   "mcwbridges:recipes/oak_bridge_pier": {
     "criteria": {
       "has_planks": "2023-04-30 00:16:04 +0200"
@@ -17804,21 +16459,9 @@
     },
     "done": true
   },
-  "smallships:recipes/envi_willow_cog": {
-    "criteria": {
-      "in_water": "2023-03-22 19:52:51 +0100"
-    },
-    "done": true
-  },
   "minecraft:recipes/woodcutting/acacia/barrel_from_acacia_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2023-04-02 15:43:05 +0200"
-    },
-    "done": true
-  },
-  "mcwtrpdoors:recipes/spruce/spruce_beach_trapdoor": {
-    "criteria": {
-      "has_planks": "2023-03-22 19:47:51 +0100"
     },
     "done": true
   },
@@ -17900,6 +16543,12 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/stack_upgrade_tier_3": {
+    "criteria": {
+      "has_upgrade_base": "2023-06-16 00:31:51 +0200"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/blackstone_bridge": {
     "criteria": {
       "has_planks": "2023-04-30 00:16:04 +0200"
@@ -17936,12 +16585,6 @@
     },
     "done": true
   },
-  "smallships:recipes/envi_wisteria_galley": {
-    "criteria": {
-      "in_water": "2023-03-22 19:52:51 +0100"
-    },
-    "done": true
-  },
   "minecraft:recipes/woodcutting/oak/oak_fence_from_oak_slab_woodcutting": {
     "criteria": {
       "give_recipe": "2023-05-03 21:22:31 +0200"
@@ -17966,21 +16609,9 @@
     },
     "done": true
   },
-  "mcwtrpdoors:recipes/acacia/warped_bark_trapdoor": {
-    "criteria": {
-      "has_planks": "2023-03-22 19:47:50 +0100"
-    },
-    "done": true
-  },
   "ars_nouveau:recipes/ars_nouveau/stripped_green_archwood_wood": {
     "criteria": {
       "has_journal": "2023-04-02 02:03:28 +0200"
-    },
-    "done": true
-  },
-  "smallships:recipes/lotr_cherry_dhow": {
-    "criteria": {
-      "in_water": "2023-03-22 19:52:51 +0100"
     },
     "done": true
   },
@@ -18002,9 +16633,9 @@
     },
     "done": true
   },
-  "smallships:recipes/lotr_maple_drakkar": {
+  "alltheores:recipes/alltheores/invar_plate": {
     "criteria": {
-      "in_water": "2023-03-22 19:52:51 +0100"
+      "has_TagKey[minecraft:item / forge:ingots/invar]_ingot": "2023-06-16 00:21:08 +0200"
     },
     "done": true
   },
@@ -18020,27 +16651,9 @@
     },
     "done": true
   },
-  "smallships:recipes/bop_cherry_brigg": {
-    "criteria": {
-      "in_water": "2023-03-22 19:52:51 +0100"
-    },
-    "done": true
-  },
   "securitycraft:recipes/securitycraft/reinforced_brown_stained_glass": {
     "criteria": {
       "has_glass": "2023-04-02 15:18:39 +0200"
-    },
-    "done": true
-  },
-  "mcwtrpdoors:recipes/warped/warped_barn_trapdoor": {
-    "criteria": {
-      "has_planks": "2023-03-22 19:47:50 +0100"
-    },
-    "done": true
-  },
-  "mcwtrpdoors:recipes/acacia/oak_bark_trapdoor": {
-    "criteria": {
-      "has_planks": "2023-03-22 19:47:51 +0100"
     },
     "done": true
   },
@@ -18062,12 +16675,6 @@
     },
     "done": true
   },
-  "mcwtrpdoors:recipes/print_swamp": {
-    "criteria": {
-      "has_planks": "2023-03-22 19:47:52 +0100"
-    },
-    "done": true
-  },
   "alchemistry:recipes/dissolver/redstone": {
     "criteria": {
       "has_the_recipe": "2023-04-02 02:06:16 +0200"
@@ -18077,6 +16684,12 @@
   "mekanism:advanced_control_circuit": {
     "criteria": {
       "advanced_control_circuit": "2023-04-02 15:21:45 +0200"
+    },
+    "done": true
+  },
+  "refinedstorage:crafting_on_demand": {
+    "criteria": {
+      "upgrade_in_inventory": "2023-06-16 00:35:18 +0200"
     },
     "done": true
   },
@@ -18195,9 +16808,9 @@
     },
     "done": true
   },
-  "mcwtrpdoors:recipes/jungle/jungle_classic_trapdoor": {
+  "botania:recipes/botania/black_petal_block": {
     "criteria": {
-      "has_planks": "2023-03-22 19:47:50 +0100"
+      "has_item": "2023-06-16 00:45:58 +0200"
     },
     "done": true
   },
@@ -18222,6 +16835,12 @@
   "productivebees:husbandry/fishy_bees": {
     "criteria": {
       "catch": "2023-05-06 01:53:51 +0200"
+    },
+    "done": true
+  },
+  "ae2:recipes/ae2.main/decorative/quartz_block": {
+    "criteria": {
+      "has_certus_quartz_crystal": "2023-06-16 00:33:27 +0200"
     },
     "done": true
   },
@@ -18285,12 +16904,6 @@
     },
     "done": true
   },
-  "smallships:recipes/lotr_larch_dhow": {
-    "criteria": {
-      "in_water": "2023-03-22 19:52:51 +0100"
-    },
-    "done": true
-  },
   "alchemistry:recipes/dissolver/netherite_ingot": {
     "criteria": {
       "has_the_recipe": "2023-03-29 22:25:47 +0200"
@@ -18324,12 +16937,6 @@
   "immersiveengineering:recipes/immersiveengineering/crafting/capacitor_lv": {
     "criteria": {
       "has_lead_ingot": "2023-03-29 21:41:35 +0200"
-    },
-    "done": true
-  },
-  "mcwtrpdoors:recipes/mangrove/mangrove_classic_trapdoor": {
-    "criteria": {
-      "has_planks": "2023-03-22 19:47:52 +0100"
     },
     "done": true
   },
@@ -18375,12 +16982,6 @@
     },
     "done": true
   },
-  "smallships:recipes/bop_cherry_cog": {
-    "criteria": {
-      "in_water": "2023-03-22 19:52:51 +0100"
-    },
-    "done": true
-  },
   "ars_nouveau:recipes/building_blocks/manipulation_essence_to_calcite": {
     "criteria": {
       "has_journal": "2023-04-02 02:03:28 +0200"
@@ -18408,12 +17009,6 @@
   "minecraft:recipes/transportation/furnace_minecart": {
     "criteria": {
       "has_minecart": "2023-04-29 19:11:29 +0200"
-    },
-    "done": true
-  },
-  "mcwtrpdoors:recipes/dark_oak/dark_oak_tropical_trapdoor": {
-    "criteria": {
-      "has_planks": "2023-03-22 19:47:51 +0100"
     },
     "done": true
   },
@@ -18450,12 +17045,6 @@
   "minecraft:recipes/building_blocks/cyan_wool": {
     "criteria": {
       "has_white_wool": "2023-03-22 20:05:27 +0100"
-    },
-    "done": true
-  },
-  "smallships:recipes/bop_fir_galley": {
-    "criteria": {
-      "in_water": "2023-03-22 19:52:51 +0100"
     },
     "done": true
   },
@@ -18508,6 +17097,12 @@
     },
     "done": true
   },
+  "elementalcraft:recipes/elementalcraft/binder": {
+    "criteria": {
+      "has_contained_crystal": "2023-06-16 00:45:21 +0200"
+    },
+    "done": true
+  },
   "alltheores:recipes/alltheores/nickel_plate": {
     "criteria": {
       "has_TagKey[minecraft:item / forge:ingots/nickel]_ingot": "2023-03-29 21:47:01 +0200"
@@ -18517,6 +17112,12 @@
   "tombstone:adventure/bone_crusher": {
     "criteria": {
       "coded_trigger": "2023-04-02 16:47:43 +0200"
+    },
+    "done": true
+  },
+  "elementalcraft:recipes/elementalcraft/drenched_iron_block_from_drenched_iron_ingot": {
+    "criteria": {
+      "has_drenched_iron_ingot": "2023-06-16 00:45:32 +0200"
     },
     "done": true
   },
@@ -18550,12 +17151,6 @@
     },
     "done": true
   },
-  "smallships:recipes/lotr_pine_war_galley": {
-    "criteria": {
-      "in_water": "2023-03-22 19:52:51 +0100"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/sugar_from_sugar_cane": {
     "criteria": {
       "has_sugar_cane": "2023-03-22 19:54:08 +0100"
@@ -18574,27 +17169,9 @@
     },
     "done": true
   },
-  "mcwtrpdoors:recipes/mangrove/mangrove_glass_trapdoor": {
-    "criteria": {
-      "has_planks": "2023-03-22 19:47:52 +0100"
-    },
-    "done": true
-  },
   "immersiveengineering:recipes/immersiveengineering/crafting/sword_steel": {
     "criteria": {
       "has_steel_ingot": "2023-04-02 02:10:52 +0200"
-    },
-    "done": true
-  },
-  "mcwtrpdoors:recipes/warped/warped_four_panel_trapdoor": {
-    "criteria": {
-      "has_planks": "2023-03-22 19:47:52 +0100"
-    },
-    "done": true
-  },
-  "smallships:recipes/lotr_apple_war_galley": {
-    "criteria": {
-      "in_water": "2023-03-22 19:52:51 +0100"
     },
     "done": true
   },
@@ -18616,12 +17193,6 @@
     },
     "done": true
   },
-  "mcwtrpdoors:recipes/acacia/mangrove_bark_trapdoor": {
-    "criteria": {
-      "has_planks": "2023-03-22 19:47:51 +0100"
-    },
-    "done": true
-  },
   "sophisticatedbackpacks:recipes/sophisticatedbackpacks/restock_upgrade": {
     "criteria": {
       "has_upgrade_base": "2023-04-02 02:06:01 +0200"
@@ -18637,12 +17208,6 @@
   "sophisticatedstorage:recipes/sophisticatedstorage/dark_oak_chest": {
     "criteria": {
       "has_dark_oak_plank": "2023-03-22 19:51:20 +0100"
-    },
-    "done": true
-  },
-  "mcwtrpdoors:recipes/birch/birch_classic_trapdoor": {
-    "criteria": {
-      "has_planks": "2023-03-22 19:47:51 +0100"
     },
     "done": true
   },
@@ -18706,39 +17271,15 @@
     },
     "done": true
   },
-  "smallships:recipes/lotr_beech_war_galley": {
-    "criteria": {
-      "in_water": "2023-03-22 19:52:51 +0100"
-    },
-    "done": true
-  },
-  "smallships:recipes/lotr_pear_cog": {
-    "criteria": {
-      "in_water": "2023-03-22 19:52:51 +0100"
-    },
-    "done": true
-  },
   "cfm:recipes/cfm/dark_oak_mail_box": {
     "criteria": {
       "has_chest": "2023-03-29 21:15:27 +0200"
     },
     "done": true
   },
-  "smallships:recipes/envi_cherry_rowboat": {
-    "criteria": {
-      "in_water": "2023-03-22 19:52:51 +0100"
-    },
-    "done": true
-  },
   "reliquary:recipes/reliquary/salamander_eye": {
     "criteria": {
       "has_molten_core": "2023-03-29 22:22:14 +0200"
-    },
-    "done": true
-  },
-  "smallships:recipes/lotr_apple_rowboat": {
-    "criteria": {
-      "in_water": "2023-03-22 19:52:51 +0100"
     },
     "done": true
   },
@@ -18796,18 +17337,6 @@
     },
     "done": true
   },
-  "smallships:recipes/lotr_mallorn_brigg": {
-    "criteria": {
-      "in_water": "2023-03-22 19:52:51 +0100"
-    },
-    "done": true
-  },
-  "smallships:recipes/acacia_war_galley": {
-    "criteria": {
-      "in_water": "2023-03-22 19:52:51 +0100"
-    },
-    "done": true
-  },
   "lootr:10loot": {
     "criteria": {
       "loot_stat": "2023-03-29 21:32:08 +0200"
@@ -18817,18 +17346,6 @@
   "ars_nouveau:recipes/ars_nouveau/end_fiber": {
     "criteria": {
       "has_journal": "2023-04-02 02:03:28 +0200"
-    },
-    "done": true
-  },
-  "mcwtrpdoors:recipes/spruce/spruce_four_panel_trapdoor": {
-    "criteria": {
-      "has_planks": "2023-03-22 19:47:51 +0100"
-    },
-    "done": true
-  },
-  "smallships:recipes/lotr_pear_rowboat": {
-    "criteria": {
-      "in_water": "2023-03-22 19:52:51 +0100"
     },
     "done": true
   },
@@ -18850,21 +17367,9 @@
     },
     "done": true
   },
-  "smallships:recipes/lotr_fir_brigg": {
-    "criteria": {
-      "in_water": "2023-03-22 19:52:51 +0100"
-    },
-    "done": true
-  },
   "create:recipes/create.palettes/polished_cut_andesite_slab_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2023-04-02 15:17:52 +0200"
-    },
-    "done": true
-  },
-  "smallships:recipes/lotr_mirk_oak_dhow": {
-    "criteria": {
-      "in_water": "2023-03-22 19:52:51 +0100"
     },
     "done": true
   },
@@ -18895,6 +17400,12 @@
   "minecraft:recipes/food/baked_potato_from_smoking": {
     "criteria": {
       "has_potato": "2023-04-02 16:53:04 +0200"
+    },
+    "done": true
+  },
+  "elementalcraft:recipes/elementalcraft/shrine_upgrade_core": {
+    "criteria": {
+      "has_swift_alloy_ingot": "2023-06-16 00:45:37 +0200"
     },
     "done": true
   },
@@ -18976,12 +17487,6 @@
     },
     "done": true
   },
-  "smallships:recipes/lotr_fir_drakkar": {
-    "criteria": {
-      "in_water": "2023-03-22 19:52:51 +0100"
-    },
-    "done": true
-  },
   "silentgear:the_end": {
     "criteria": {
       "entered_the_end": "2023-04-02 03:02:53 +0200"
@@ -19036,18 +17541,6 @@
     },
     "done": true
   },
-  "mcwtrpdoors:recipes/warped/warped_ranch_trapdoor": {
-    "criteria": {
-      "has_planks": "2023-03-22 19:47:52 +0100"
-    },
-    "done": true
-  },
-  "smallships:recipes/lotr_cherry_galley": {
-    "criteria": {
-      "in_water": "2023-03-22 19:52:51 +0100"
-    },
-    "done": true
-  },
   "reliquary:recipes/food/uncrafting/rotten_flesh": {
     "criteria": {
       "has_zombie_heart": "2023-03-22 20:03:14 +0100"
@@ -19096,6 +17589,12 @@
     },
     "done": true
   },
+  "elementalcraft:recipes/elementalcraft/container": {
+    "criteria": {
+      "has_contained_crystal": "2023-06-16 00:45:21 +0200"
+    },
+    "done": true
+  },
   "apotheosis:affix/boss": {
     "criteria": {
       "sword": "2023-03-29 21:14:07 +0200"
@@ -19138,12 +17637,6 @@
     },
     "done": true
   },
-  "smallships:recipes/spruce_rowboat": {
-    "criteria": {
-      "in_water": "2023-03-22 19:52:51 +0100"
-    },
-    "done": true
-  },
   "alchemistry:recipes/dissolver/blue_concrete_powder": {
     "criteria": {
       "has_the_recipe": "2023-05-04 00:20:03 +0200"
@@ -19153,12 +17646,6 @@
   "minecraft:recipes/woodcutting/oak/crafting_table_from_oak_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2023-03-22 19:47:53 +0100"
-    },
-    "done": true
-  },
-  "mcwtrpdoors:recipes/oak/oak_ranch_trapdoor": {
-    "criteria": {
-      "has_planks": "2023-03-22 19:47:51 +0100"
     },
     "done": true
   },
@@ -19189,12 +17676,6 @@
   "ftbic:recipes/ftbic/macerating/raw_materials/copper_to_dust": {
     "criteria": {
       "has_item": "2023-04-02 02:03:17 +0200"
-    },
-    "done": true
-  },
-  "mcwtrpdoors:recipes/mangrove/mangrove_tropical_trapdoor": {
-    "criteria": {
-      "has_planks": "2023-03-22 19:47:50 +0100"
     },
     "done": true
   },
@@ -19231,12 +17712,6 @@
   "cfm:recipes/cfm/dark_oak_chair": {
     "criteria": {
       "has_log": "2023-03-22 19:49:42 +0100"
-    },
-    "done": true
-  },
-  "smallships:recipes/lotr_green_oak_brigg": {
-    "criteria": {
-      "in_water": "2023-03-22 19:52:51 +0100"
     },
     "done": true
   },
@@ -19312,12 +17787,6 @@
     },
     "done": true
   },
-  "smallships:recipes/oak_drakkar": {
-    "criteria": {
-      "in_water": "2023-03-22 19:52:51 +0100"
-    },
-    "done": true
-  },
   "xycraft_world:recipes/xycraft_world/shaped/kivi_bricks_cloud_red": {
     "criteria": {
       "has_kivi": "2023-05-03 21:12:54 +0200"
@@ -19353,12 +17822,6 @@
     },
     "done": false
   },
-  "smallships:recipes/lotr_lebethron_rowboat": {
-    "criteria": {
-      "in_water": "2023-03-22 19:52:51 +0100"
-    },
-    "done": true
-  },
   "deepresonance:recipes/deepresonance/tank": {
     "criteria": {
       "has_resonant_plate": "2023-03-29 21:48:32 +0200"
@@ -19374,12 +17837,6 @@
   "minecraft:recipes/building_blocks/polished_andesite": {
     "criteria": {
       "has_andesite": "2023-04-02 15:17:52 +0200"
-    },
-    "done": true
-  },
-  "smallships:recipes/lotr_charred_drakkar": {
-    "criteria": {
-      "in_water": "2023-03-22 19:52:51 +0100"
     },
     "done": true
   },
@@ -19449,12 +17906,6 @@
     },
     "done": true
   },
-  "mcwtrpdoors:recipes/birch/birch_swamp_trapdoor": {
-    "criteria": {
-      "has_planks": "2023-03-22 19:47:51 +0100"
-    },
-    "done": true
-  },
   "pneumaticcraft:recipes/pneumaticcraft/logistics_frame_storage": {
     "criteria": {
       "has_logistics_core": "2023-04-02 17:59:25 +0200"
@@ -19479,12 +17930,6 @@
     },
     "done": true
   },
-  "mcwtrpdoors:recipes/jungle/jungle_mystic_trapdoor": {
-    "criteria": {
-      "has_planks": "2023-03-22 19:47:52 +0100"
-    },
-    "done": true
-  },
   "twilightforest:recipes/twilightforest/snow_queen_banner_pattern": {
     "criteria": {
       "has_trophy": "2023-04-30 02:03:48 +0200"
@@ -19500,12 +17945,6 @@
   "ironfurnaces:coal": {
     "criteria": {
       "rainbowcoal": "2023-03-22 19:47:52 +0100"
-    },
-    "done": true
-  },
-  "smallships:recipes/bop_redwood_rowboat": {
-    "criteria": {
-      "in_water": "2023-03-22 19:52:51 +0100"
     },
     "done": true
   },
@@ -19588,12 +18027,6 @@
     },
     "done": true
   },
-  "smallships:recipes/envi_cherry_cog": {
-    "criteria": {
-      "in_water": "2023-03-22 19:52:51 +0100"
-    },
-    "done": true
-  },
   "ars_nouveau:recipes/ars_nouveau/smooth_sourcestone_to_sourcestone": {
     "criteria": {
       "has_journal": "2023-04-02 02:03:28 +0200"
@@ -19657,12 +18090,6 @@
   "utilitix:recipes/utilitix/hand_bell": {
     "criteria": {
       "criterion0": "2023-03-22 19:51:31 +0100"
-    },
-    "done": true
-  },
-  "mcwtrpdoors:recipes/mangrove/mangrove_beach_trapdoor": {
-    "criteria": {
-      "has_planks": "2023-03-22 19:47:52 +0100"
     },
     "done": true
   },
@@ -19780,12 +18207,6 @@
     },
     "done": true
   },
-  "smallships:recipes/lotr_cypress_drakkar": {
-    "criteria": {
-      "in_water": "2023-03-22 19:52:51 +0100"
-    },
-    "done": true
-  },
   "mcwdoors:recipes/spruce": {
     "criteria": {
       "has_planks": "2023-03-22 19:47:51 +0100"
@@ -19828,12 +18249,6 @@
     },
     "done": true
   },
-  "mcwtrpdoors:recipes/acacia/birch_bark_trapdoor": {
-    "criteria": {
-      "has_planks": "2023-03-22 19:47:50 +0100"
-    },
-    "done": true
-  },
   "twilightforest:recipes/twilightforest/wood/dark_oak_banister": {
     "criteria": {
       "has_item": "2023-04-29 18:25:51 +0200"
@@ -19870,12 +18285,6 @@
     },
     "done": true
   },
-  "mcwtrpdoors:recipes/spruce/spruce_barred_trapdoor": {
-    "criteria": {
-      "has_planks": "2023-03-22 19:47:51 +0100"
-    },
-    "done": true
-  },
   "pneumaticcraft:recipes/pneumaticcraft/compressed_brick_tile": {
     "criteria": {
       "has_ingot_iron_compressed": "2023-03-22 19:54:47 +0100"
@@ -19897,12 +18306,6 @@
   "securitycraft:recipes/securitycraft/taser": {
     "criteria": {
       "has_redstone": "2023-04-02 02:09:25 +0200"
-    },
-    "done": true
-  },
-  "mcwtrpdoors:recipes/jungle/jungle_paper_trapdoor": {
-    "criteria": {
-      "has_planks": "2023-03-22 19:47:50 +0100"
     },
     "done": true
   },
@@ -19991,12 +18394,6 @@
     },
     "done": true
   },
-  "mcwtrpdoors:recipes/bamboo/bamboo_beach_trapdoor": {
-    "criteria": {
-      "has_planks": "2023-03-22 19:47:52 +0100"
-    },
-    "done": true
-  },
   "alltheores:recipes/alltheores/steel_nugget_from_ingot": {
     "criteria": {
       "has_item": "2023-04-30 00:40:01 +0200"
@@ -20054,6 +18451,12 @@
   "minecraft:recipes/woodcutting/acacia/acacia_button_from_acacia_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2023-04-02 15:43:05 +0200"
+    },
+    "done": true
+  },
+  "elementalcraft:recipes/elementalcraft/firefurnace": {
+    "criteria": {
+      "has_whiterock": "2023-06-16 00:45:27 +0200"
     },
     "done": true
   },
@@ -20160,12 +18563,6 @@
     },
     "done": true
   },
-  "smallships:recipes/lotr_maple_war_galley": {
-    "criteria": {
-      "in_water": "2023-03-22 19:52:51 +0100"
-    },
-    "done": true
-  },
   "twilightforest:ghast_trap": {
     "criteria": {
       "activate_ghast_trap": "2023-04-30 02:01:38 +0200"
@@ -20181,12 +18578,6 @@
   "alltheores:recipes/alltheores/netherite_dust_from_hammer_crushing": {
     "criteria": {
       "has_item": "2023-03-29 23:10:47 +0200"
-    },
-    "done": true
-  },
-  "smallships:recipes/bop_palm_drakkar": {
-    "criteria": {
-      "in_water": "2023-03-22 19:52:51 +0100"
     },
     "done": true
   },
@@ -20238,12 +18629,6 @@
     },
     "done": true
   },
-  "smallships:recipes/lotr_beech_brigg": {
-    "criteria": {
-      "in_water": "2023-03-22 19:52:51 +0100"
-    },
-    "done": true
-  },
   "minecraft:recipes/brewing/blaze_powder": {
     "criteria": {
       "has_blaze_rod": "2023-04-02 02:06:09 +0200"
@@ -20271,12 +18656,6 @@
   "additionallanterns:recipes/misc/smooth_stone_lantern": {
     "criteria": {
       "recipe_condition": "2023-04-02 02:08:32 +0200"
-    },
-    "done": true
-  },
-  "smallships:recipes/oak_brigg": {
-    "criteria": {
-      "in_water": "2023-03-22 19:52:51 +0100"
     },
     "done": true
   },
@@ -20412,15 +18791,9 @@
     },
     "done": true
   },
-  "smallships:recipes/lotr_lairelosse_cog": {
+  "elementalcraft:recipes/elementalcraft/source_displacement_plate_air": {
     "criteria": {
-      "in_water": "2023-03-22 19:52:51 +0100"
-    },
-    "done": true
-  },
-  "mcwtrpdoors:recipes/dark_oak/dark_oak_swamp_trapdoor": {
-    "criteria": {
-      "has_planks": "2023-03-22 19:47:51 +0100"
+      "has_whiterock": "2023-06-16 00:45:27 +0200"
     },
     "done": true
   },
@@ -20514,12 +18887,6 @@
     },
     "done": true
   },
-  "smallships:recipes/bop_willow_brigg": {
-    "criteria": {
-      "in_water": "2023-03-22 19:52:51 +0100"
-    },
-    "done": true
-  },
   "alltheores:recipes/alltheores/uranium_block": {
     "criteria": {
       "has_TagKey[minecraft:item / forge:ingots/uranium]_ingot": "2023-04-02 15:17:01 +0200"
@@ -20559,6 +18926,12 @@
   "cfm:recipes/cfm/acacia_blinds": {
     "criteria": {
       "has_log": "2023-04-02 15:42:56 +0200"
+    },
+    "done": true
+  },
+  "allthemodium:recipes/allthemodium/unobtainium_allthemodium_alloy_block": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/unobtainium_allthemodium_alloy]_ingot": "2023-06-16 00:24:31 +0200"
     },
     "done": true
   },
@@ -20610,12 +18983,6 @@
     },
     "done": true
   },
-  "smallships:recipes/bop_cherry_drakkar": {
-    "criteria": {
-      "in_water": "2023-03-22 19:52:51 +0100"
-    },
-    "done": true
-  },
   "minecraft:adventure/kill_a_mob": {
     "criteria": {
       "minecraft:zombie": "2023-03-22 19:55:53 +0100"
@@ -20655,12 +19022,6 @@
   "bambooeverything:recipes/dry_bamboo_door": {
     "criteria": {
       "has_dry_bundle": "2023-03-22 19:47:52 +0100"
-    },
-    "done": true
-  },
-  "smallships:recipes/bop_palm_cog": {
-    "criteria": {
-      "in_water": "2023-03-22 19:52:51 +0100"
     },
     "done": true
   },
@@ -20744,6 +19105,12 @@
     },
     "done": true
   },
+  "elementalcraft:recipes/elementalcraft/purifier": {
+    "criteria": {
+      "has_whiterock": "2023-06-16 00:45:27 +0200"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/stripped_dark_oak_crate": {
     "criteria": {
       "has_planks": "2023-03-22 19:49:41 +0100"
@@ -20813,12 +19180,6 @@
   "twilightforest:recipes/decorations/tf_moss_to_vanilla": {
     "criteria": {
       "has_item": "2023-04-30 02:17:36 +0200"
-    },
-    "done": true
-  },
-  "mcwtrpdoors:recipes/birch/birch_mystic_trapdoor": {
-    "criteria": {
-      "has_planks": "2023-03-22 19:47:50 +0100"
     },
     "done": true
   },
@@ -20937,6 +19298,12 @@
     },
     "done": true
   },
+  "elementalcraft:pickup/drenched_iron_ingot": {
+    "criteria": {
+      "has_drenched_iron_ingot": "2023-06-16 00:45:32 +0200"
+    },
+    "done": true
+  },
   "byg:recipes/byg.byg/palm_pressure_plate": {
     "criteria": {
       "has_planks": "2023-03-22 20:10:39 +0100"
@@ -21000,6 +19367,12 @@
   "ars_nouveau:recipes/ars_nouveau/sourcestone_4": {
     "criteria": {
       "has_journal": "2023-04-02 02:03:28 +0200"
+    },
+    "done": true
+  },
+  "elementalcraft:recipes/elementalcraft/sorter": {
+    "criteria": {
+      "has_swift_alloy_ingot": "2023-06-16 00:45:37 +0200"
     },
     "done": true
   },
@@ -21243,12 +19616,6 @@
     },
     "done": true
   },
-  "mcwtrpdoors:recipes/bamboo/bamboo_mystic_trapdoor": {
-    "criteria": {
-      "has_planks": "2023-03-22 19:47:52 +0100"
-    },
-    "done": true
-  },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "honey_bottle": "2023-04-29 17:24:23 +0200",
@@ -21298,12 +19665,6 @@
   "securitycraft:recipes/securitycraft/reinforced_light_gray_stained_glass": {
     "criteria": {
       "has_glass": "2023-04-02 15:18:39 +0200"
-    },
-    "done": true
-  },
-  "smallships:recipes/lotr_cedar_brigg": {
-    "criteria": {
-      "in_water": "2023-03-22 19:52:51 +0100"
     },
     "done": true
   },
@@ -21364,12 +19725,6 @@
   "utilitix:recipes/utilitix/linked_crystal": {
     "criteria": {
       "criterion1": "2023-03-29 23:01:31 +0200"
-    },
-    "done": true
-  },
-  "mcwtrpdoors:recipes/dark_oak/dark_oak_paper_trapdoor": {
-    "criteria": {
-      "has_planks": "2023-03-22 19:47:51 +0100"
     },
     "done": true
   },
@@ -21511,24 +19866,6 @@
     },
     "done": true
   },
-  "smallships:recipes/bop_jacaranda_dhow": {
-    "criteria": {
-      "in_water": "2023-03-22 19:52:51 +0100"
-    },
-    "done": true
-  },
-  "smallships:recipes/bop_redwood_galley": {
-    "criteria": {
-      "in_water": "2023-03-22 19:52:51 +0100"
-    },
-    "done": true
-  },
-  "smallships:recipes/acacia_brigg": {
-    "criteria": {
-      "in_water": "2023-03-22 19:52:51 +0100"
-    },
-    "done": true
-  },
   "mcwtrpdoors:recipes/crimson/crimson_ranch_trapdoor": {
     "criteria": {
       "has_planks": "2023-03-22 19:47:51 +0100"
@@ -21547,21 +19884,9 @@
     },
     "done": true
   },
-  "mcwtrpdoors:recipes/acacia/acacia_four_panel_trapdoor": {
-    "criteria": {
-      "has_planks": "2023-03-22 19:47:50 +0100"
-    },
-    "done": true
-  },
   "cfm:recipes/cfm/black_kitchen_drawer": {
     "criteria": {
       "has_chest": "2023-03-29 21:15:27 +0200"
-    },
-    "done": true
-  },
-  "smallships:recipes/lotr_lebethron_dhow": {
-    "criteria": {
-      "in_water": "2023-03-22 19:52:51 +0100"
     },
     "done": true
   },
@@ -21605,12 +19930,6 @@
   "mcwbridges:recipes/orange_sandstone_bridge": {
     "criteria": {
       "has_planks": "2023-04-30 00:16:04 +0200"
-    },
-    "done": true
-  },
-  "mcwtrpdoors:recipes/bamboo_trapdoor": {
-    "criteria": {
-      "has_planks": "2023-03-22 19:47:52 +0100"
     },
     "done": true
   },
@@ -21668,9 +19987,9 @@
     },
     "done": true
   },
-  "smallships:recipes/lotr_mirk_oak_brigg": {
+  "elementalcraft:recipes/elementalcraft/evaporator": {
     "criteria": {
-      "in_water": "2023-03-22 19:52:51 +0100"
+      "has_contained_crystal": "2023-06-16 00:45:21 +0200"
     },
     "done": true
   },
@@ -21695,12 +20014,6 @@
   "croptopia:recipes/croptopia.croptopia/toast_from_bread": {
     "criteria": {
       "has_bread": "2023-03-22 19:57:34 +0100"
-    },
-    "done": true
-  },
-  "smallships:recipes/oak_cog": {
-    "criteria": {
-      "in_water": "2023-03-22 19:52:51 +0100"
     },
     "done": true
   },
@@ -21794,6 +20107,12 @@
     },
     "done": true
   },
+  "ae2:recipes/ae2.main/network/parts/quartz_fiber_part": {
+    "criteria": {
+      "has_dusts/quartz": "2023-06-16 00:33:24 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/lime_wool": {
     "criteria": {
       "has_white_wool": "2023-03-22 20:05:27 +0100"
@@ -21809,12 +20128,6 @@
   "minecraft:recipes/woodcutting/acacia/acacia_boat_from_acacia_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2023-04-02 15:43:05 +0200"
-    },
-    "done": true
-  },
-  "smallships:recipes/lotr_pine_cog": {
-    "criteria": {
-      "in_water": "2023-03-22 19:52:51 +0100"
     },
     "done": true
   },
@@ -21845,12 +20158,6 @@
   "botania:recipes/botania/magnet_ring": {
     "criteria": {
       "has_item": "2023-04-02 02:42:29 +0200"
-    },
-    "done": true
-  },
-  "smallships:recipes/bop_willow_rowboat": {
-    "criteria": {
-      "in_water": "2023-03-22 19:52:51 +0100"
     },
     "done": true
   },
@@ -21980,12 +20287,6 @@
     },
     "done": true
   },
-  "smallships:recipes/bop_mahogany_drakkar": {
-    "criteria": {
-      "in_water": "2023-03-22 19:52:51 +0100"
-    },
-    "done": true
-  },
   "sophisticatedstorage:recipes/sophisticatedstorage/oak_chest_from_vanilla_chest": {
     "criteria": {
       "has_vanilla_chest": "2023-04-02 02:09:06 +0200"
@@ -22044,12 +20345,6 @@
     "criteria": {
       "has_the_recipe": "2023-04-02 02:08:32 +0200",
       "recipe_condition": "2023-04-02 02:08:32 +0200"
-    },
-    "done": true
-  },
-  "smallships:recipes/lotr_apple_cog": {
-    "criteria": {
-      "in_water": "2023-03-22 19:52:51 +0100"
     },
     "done": true
   },
@@ -22149,6 +20444,12 @@
     },
     "done": true
   },
+  "elementalcraft:recipes/elementalcraft/whiterock_slab_from_whiterock_stonecutting": {
+    "criteria": {
+      "has_whiterock": "2023-06-16 00:45:27 +0200"
+    },
+    "done": true
+  },
   "ftbic:recipes/ftbic/macerating/coal_dust": {
     "criteria": {
       "has_item": "2023-03-29 21:25:55 +0200"
@@ -22221,12 +20522,6 @@
     },
     "done": true
   },
-  "smallships:recipes/bop_umbran_rowboat": {
-    "criteria": {
-      "in_water": "2023-03-22 19:52:51 +0100"
-    },
-    "done": true
-  },
   "create:recipes/create.palettes/tiled_glass_from_glass_colorless_stonecutting": {
     "criteria": {
       "has_glass_colorless": "2023-04-02 15:18:39 +0200"
@@ -22236,12 +20531,6 @@
   "byg:root": {
     "criteria": {
       "tick": "2023-03-22 19:44:53 +0100"
-    },
-    "done": true
-  },
-  "smallships:recipes/bop_willow_dhow": {
-    "criteria": {
-      "in_water": "2023-03-22 19:52:51 +0100"
     },
     "done": true
   },
@@ -22296,12 +20585,6 @@
   "minecraft:recipes/building_blocks/snow_block": {
     "criteria": {
       "has_snowball": "2023-04-30 02:06:59 +0200"
-    },
-    "done": true
-  },
-  "smallships:recipes/lotr_green_oak_rowboat": {
-    "criteria": {
-      "in_water": "2023-03-22 19:52:51 +0100"
     },
     "done": true
   },
@@ -22428,12 +20711,6 @@
   "mcwbridges:recipes/deepslate_brick_bridge_stair": {
     "criteria": {
       "has_planks": "2023-04-30 00:16:04 +0200"
-    },
-    "done": true
-  },
-  "smallships:recipes/acacia_dhow": {
-    "criteria": {
-      "in_water": "2023-03-22 19:52:51 +0100"
     },
     "done": true
   },
